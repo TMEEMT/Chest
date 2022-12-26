@@ -7,7 +7,7 @@ use File::Copy;
 # Use simply with ./UpDateBiblio.pl
 
 ### SITE DEPENDENT CONSTANT !!!
-my $Global_bib_file = "../GlobalBiblioFile/Global.bib";
+my $Global_bib_file = "../../../../tex/Bibliographie/Global.bib";
 my $Local_bib_file = "Local-TME-EMT.bib";
 
 

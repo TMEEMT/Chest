@@ -470,6 +470,22 @@ contains:
   One can replace $(0.02767, 438653)$ by $(0.036438, 82005)$, by
   $(0.1333, 1004)$, by $(1/2, 8)$ or by $(1,1)$.
 </div></blockquote>
+This estimate is (slightly) improved in
+Corollary 3.4 of
+<script type="text/javascript">bibref("Ramare*18-9")</script>
+in the next one.
+
+<br>
+<span class="THM">Theorem (2018)</span>
+<blockquote class="outer-thm">
+<div class="thm">
+  When $x > 1$, we have
+$$
+\sum_{n\le x}\mu^2(n)
+=\frac{6}{\pi^2}x
++O^*(1.06\sqrt{x/\log x}).
+  $$
+</div></blockquote>
 
 
 
@@ -486,15 +502,24 @@ $\frac{6}{\pi^2}\log x+0.578\le \sum_{n\le x}\mu^2(n)/n\le \frac{6}{\pi^2}\log x
 
 When $x\ge1000$, one can also replace the couple $(0.578, 1.166)$ by $(1.040, 1.048)$.
 </div></blockquote>
-In fact, in the same paper, the asymptotic
+In Theorem 3.2 and Corollary 3.3 of
+<script type="text/javascript">bibref("Ramare*18-9")</script>,
+we find the next result.
+
+<br>
+<span class="THM">Theorem (2018)</span>
+<blockquote class="outer-thm">
+<div class="thm">
+  When $x \ge 3475$, we have
 $$
 \sum_{n\le x}\frac{\mu^2(n)}{n}
 =\frac{6}{\pi^2}\Bigl(\log x+2\sum_{p\ge2}\frac{\log
 p}{p^2-1}+\gamma\Bigr)
-+O^*(3/x^{1/3})
-$$
-valid for $x\ge1$ is proved. A script using SAGE and another one using GP/PARI are then
-displayed to explain how to cover the initial range in $x$.
++O^*(0.073/\sqrt{x}).
+  $$
+  And when $x\ge 1665$, the error term may be (asymptotically) improved to
+  $O^*(0.35/\sqrt{x\log x})$.
+</div></blockquote>
 See also Lemma 1
 of <script type="text/javascript">bibref("Schoenfeld*69")</script> for an
 earlier version.
@@ -678,18 +703,22 @@ Lemma 3 of the same paper is as follows.
 </div></blockquote>
 
 Several estimates are proved in
-<script type="text/javascript">bibref("Ramare*14-1")</script>.
-For instance Theorem 1.2 gives the following.
+<script type="text/javascript">bibref("Ramare*14-1")</script>,
+<script type="text/javascript">bibref("Ramare*13a")</script>
+and in
+<script type="text/javascript">bibref("Ramare*18-9")</script>.
+
+For instance Theorem 3.1 in the latter paper contains the following.
 <br>
-<span class="THM">Theorem (2017)</span>
+<span class="THM">Theorem (2018)</span>
 <blockquote class="outer-thm">
 <div class="thm">
   Let $x\ge1$ be a real number. We have
   $\sum_{n\le x}\mu^2(n)/\phi(n)= \log x
-  +c_0+O^*(3.95/\sqrt{x})$ where $\displaystyle c_0=\gamma+\sum_{p\ge2}\frac{\log
+  +c_0+O^*(2.44/\sqrt{x})$ where $\displaystyle c_0=\gamma+\sum_{p\ge2}\frac{\log
   p}{p(p-1)}$.
   When $x > 1$, this $O^*$ can be replaced
-  by $O^*(21/\sqrt{x\log x})$. 
+  by $O^*(11/\sqrt{x\log x})$. 
 </div></blockquote>
 The function $\sum_{n\le x}\mu^2(n)/\phi(n)$ has been the subject of
 several estimates,
@@ -752,8 +781,8 @@ proved that
 
 In <script type="text/javascript">bibref("Bordelles*05")</script>,
 the reader will find explicit upper bounds for $\displaystyle
-\prod_{\substack{p\le x,\\ p\equiv a[q]}}\Bigl(1-\frac{1}{p}\Bigr)^{-1}$
-
+\prod_{\substack{p\le x,\\ p\equiv a[q]}}\Bigl(1-\frac{1}{p}\Bigr)^{-1}$.
+<br>
 Theorem 5 of
 <script type="text/javascript">bibref("Vanlalnagaia*15-1")</script>
 contains the next result.
@@ -785,7 +814,7 @@ gives an approximate value for $B$.
 </center>
 <div align="right" class="lastmodif">
   <!-- ==== LAST UPDATE HERE ======= -->
-  Last updated on June 10th, 2019, by Olivier Ramar&eacute;
+  Last updated on December 26th, 2022, by Olivier Ramar&eacute;
 </div>
 
 
