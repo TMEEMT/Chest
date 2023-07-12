@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 15:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1983,9 +1983,10 @@ l.72 \cite{Hiary*16}.
                    \relax 
 l.104   \cite{Granville-Ramare*96},
                                    
-Overfull \hbox (8.17307pt too wide) detected at line 130
-[][][] \OT1/cmr/m/n/10 + [] [] [] [] [][][] [] [](2\OML/cmm/m/it/10 i^^Yf[]\OT1
-/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 )[][]
+Overfull \hbox (15.95087pt too wide) detected at line 130
+[][][] \OT1/cmr/m/n/10 + [] [] [] [] [][][] [] [](\OMS/cmsy/m/n/10 ^^F\OT1/cmr/
+m/n/10 2\OML/cmm/m/it/10 i^^Yf[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n
+/10 )[][]
  []
 
 ) (./Art11.tex [52]
@@ -3448,7 +3449,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (128 pages, 879017 bytes).
+Output written on booklet.pdf (128 pages, 879028 bytes).
 PDF statistics:
  2388 PDF objects out of 2487 (max. 8388607)
  2149 compressed objects within 22 object streams

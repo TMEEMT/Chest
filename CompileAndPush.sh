@@ -2,7 +2,7 @@
 
 commitmessage=$1
 
-print $commitmessage
+#print $commitmessage
 
 cd Biblio
 
