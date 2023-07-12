@@ -72,6 +72,8 @@ MathJax.Hub.Config({
 <dd><a href="#First">Bounds with the first derivative</a></dd>
 <dd><a href="#Second">Bounds with the second derivative</a></dd>
 <dd><a href="#Third">Bounds with the third derivative</a></dd>
+<dd><a href="#VdC">Iterated Van der Corput Inequality</a></dd>
+<dd><a href="#VdC">Explicit Poisson Formula</a></dd>
 </dl>
 
 <!-- =============================================================== -->
@@ -135,7 +137,7 @@ We start with the Kusmin-Landau Lemma.
   Here is a corrected version of Lemma 3 of
   <script language="javascript">bibref("Cheng-Graham*04")</script>.
 <br>
-<span class="THM">Theorem (2013)</span>
+<span class="THM">Theorem (2004)</span>
 <blockquote class="outer-thm">
   <div class="thm">
   Let $f$ be a real-valued function with two continuous derivatives
@@ -161,7 +163,7 @@ We start with the Kusmin-Landau Lemma.
 Here is Lemma 1.2 of
 <script language="javascript">bibref("Hiary*16")</script>.
 <br>
-<span class="THM">Theorem (2013)</span>
+<span class="THM">Theorem (2016)</span>
 <blockquote class="outer-thm">
   <div class="thm">
   Let $f$ be a real-valued function with three continuous derivatives
@@ -188,7 +190,7 @@ Here is Lemma 1.2 of
   
 <br>
   <div class="section">
-  <a name="Third"></a>
+  <a name="VdC"></a>
 4. Iterated Van der Corput Inequality
 </div>
 
@@ -196,7 +198,7 @@ During the proof of Lemma 8.6 in
   <script language="javascript">bibref("Granville-Ramare*96")</script>,
   one finds the next inequality.
 <br>
-<span class="THM">Theorem (2013)</span>
+<span class="THM">Theorem (1996)</span>
 <blockquote class="outer-thm">
   <div class="thm">
   Let $f$ be a real-valued function with $k+1$ continuous derivatives
@@ -229,8 +231,41 @@ During the proof of Lemma 8.6 in
 </div></blockquote>
 
 
+<br>
+  <div class="section">
+  <a name="Poisson"></a>
+5. Explicit Poisson Formula
+</div>
 
-
+Here is a consequence of the main theorem of
+<script language="javascript">bibref(Karatsuba-Korolev*07)</script>.
+<br>
+<span class="THM">Theorem (2007)</span>
+<blockquote class="outer-thm">
+  <div class="thm">
+    Suppose $f'$ is decreasing on $[N+1,N+L]$ and set
+    $f'(N+L)=\alpha$ and $f'(N)=\beta$.
+    For integer $\nu\in(\alpha, \beta]$, let $x_\nu$ be the solution
+    to $f'(x)=\nu$. Suppose further that
+$\lambda_2\le |f''(x)|\le h_2\lambda_2$ and
+    $\lambda_3\le |f'''(x)|\le h_3\lambda_3$. Then
+    $$
+    \sum_{n=N+1}^{N+L} \exp(2i\pi f(n))
+    =
+    \sum_{\alpha < \nu\le \beta}
+		   \frac{\exp(2i\pi (f(x_\nu)-\nu x_\nu-1/8))}{\sqrt{f''(x_\nu)}}
+		   +\mathcal{E}
+    $$
+		   where
+		   $$
+		   \mathcal{E}
+		   \le \frac{40}{\sqrt{\pi}}\lambda^{-1/2}
+		   + \frac{3+2h_2}{\pi} \log(\beta-\alpha+2)
+		   + 2.9 h_2h_3^{1/5}L(\lambda_2\lambda_3)^{1/5}
+		   +1.9.
+		   $$
+		   
+</div></blockquote>
 
 
 
