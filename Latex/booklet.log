@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -894,6 +894,20 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'booklet.bbl' found.
 
 (./booklet.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Cheng-Graham*04
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Granville-Ramare*98
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
@@ -1963,11 +1977,30 @@ e identifier (name{Hfootnote.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.16 \cite{Daboussi-Rivat*01}.
-                              ) (./Art11.tex [51
+                              
 
-] [52
+LaTeX Warning: Citation 'Cheng-Graham*04' on page 51 undefined on input line 49
+.
+
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.73 \cite{Hiary*16}.
+                      [51
 
 ]
+
+LaTeX Warning: Citation 'Granville-Ramare*98' on page 52 undefined on input lin
+e 105.
+
+
+Overfull \hbox (8.17307pt too wide) detected at line 131
+[][][] \OT1/cmr/m/n/10 + [] [] [] [] [][][] [] [](2\OML/cmm/m/it/10 i^^Yf[]\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 )[][]
+ []
+
+) (./Art11.tex [52]
 Chapter 10.
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
  has been already used, duplicate ignored
@@ -2012,8 +2045,10 @@ l.56 \cite{Bordelles*12}
                          for instance).
 Underfull \vbox (badness 1383) has occurred while \output is active []
 
- [53]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnot
-e.2}) has been already used, duplicate ignored
+ [53
+
+]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2}
+) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.73 \cite{Huxley*96}
@@ -3200,12 +3235,12 @@ l.168 From \cite{Louboutin*00}:
 <to be read again> 
                    \relax 
 l.183 From \cite{Louboutin*03}:
-                                [101]pdfTeX warning (ext4): destination with th
-e same identifier (name{Hfootnote.4}) has been already used, duplicate ignored
+                               pdfTeX warning (ext4): destination with the same
+ identifier (name{Hfootnote.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.220 And a third result from \cite{Louboutin*03}:
-                                                  ) (./Art19.tex [102]
+l.200 Again from \cite{Louboutin*03}:
+                                      [101]) (./Art19.tex [102]
 Chapter 19.
 ) [103
 
@@ -3371,16 +3406,16 @@ OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
 
 [125] [126] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
-(rerunfilecheck)             Checksum: 4054441C7110C4E6F54954038B26A732;17522.
+(rerunfilecheck)             Checksum: E86009B1E7598F1068C719E63E8C4F43;18445.
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29807 strings out of 479063
- 546362 string characters out of 5868506
- 1282960 words of memory out of 5000000
- 46907 multiletter control sequences out of 15000+600000
+ 29816 strings out of 479063
+ 546470 string characters out of 5868506
+ 1283041 words of memory out of 5000000
+ 46912 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3425,10 +3460,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (128 pages, 872693 bytes).
+Output written on booklet.pdf (128 pages, 879352 bytes).
 PDF statistics:
- 2365 PDF objects out of 2487 (max. 8388607)
- 2126 compressed objects within 22 object streams
- 454 named destinations out of 1000 (max. 500000)
- 665 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2388 PDF objects out of 2487 (max. 8388607)
+ 2149 compressed objects within 22 object streams
+ 458 named destinations out of 1000 (max. 500000)
+ 697 words of extra memory for PDF output out of 10000 (max. 10000000)
 
