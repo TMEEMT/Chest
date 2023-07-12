@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 16:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 16:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -894,13 +894,6 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'booklet.bbl' found.
 
 (./booklet.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Cheng-Graham*04
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
@@ -1827,15 +1820,8 @@ entifier (name{Hfootnote.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.87 \cite{Ivic*77}.
-                    
-! Interruption.
-\do #1->\ifcsundef {abx@name@#1
-                               } {} {\ifdef \abx@field@related {\csletcs {ab...
-l.96 \cite{Eum-Koo*15}
-                      
-? 
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.1})
- has been already used, duplicate ignored
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{Hfootnote.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.96 \cite{Eum-Koo*15}
@@ -1972,13 +1958,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
 <to be read again> 
                    \relax 
 l.15 \cite{Daboussi-Rivat*01}.
-                              
-
-LaTeX Warning: Citation 'Cheng-Graham*04' on page 51 undefined on input line 48
-.
-
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
- has been already used, duplicate ignored
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{Hfootnote.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.48   \cite{Cheng-Graham*01}.
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{Hfootnote.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.72 \cite{Hiary*16}.
@@ -2616,15 +2602,8 @@ e identifier (name{Hfootnote.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.29 \cite{Platt*11}.
-                     
-! Interruption.
-<argument> ...don|label|langid|langidopts|library|
-                                                  mainsubtitle|maintitle|mai...
-l.31 \cite{Platt*17},
-                     
-? 
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
- has been already used, duplicate ignored
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{Hfootnote.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.31 \cite{Platt*17},
@@ -3238,12 +3217,12 @@ l.168 From \cite{Louboutin*00}:
 <to be read again> 
                    \relax 
 l.183 From \cite{Louboutin*03}:
-                               pdfTeX warning (ext4): destination with the same
- identifier (name{Hfootnote.4}) has been already used, duplicate ignored
+                                [103]pdfTeX warning (ext4): destination with th
+e same identifier (name{Hfootnote.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 Again from \cite{Louboutin*03}:
-                                      [103]) (./Art19.tex [104]
+l.220 And a third result from \cite{Louboutin*03}:
+                                                  ) (./Art19.tex [104]
 Chapter 19.
 ) [105
 
@@ -3415,10 +3394,10 @@ Package logreq Info: Writing requests to 'booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29820 strings out of 479063
- 546510 string characters out of 5868506
- 1283005 words of memory out of 5000000
- 46913 multiletter control sequences out of 15000+600000
+ 29821 strings out of 479063
+ 546522 string characters out of 5868506
+ 1282982 words of memory out of 5000000
+ 46914 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3463,10 +3442,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (130 pages, 881906 bytes).
+Output written on booklet.pdf (130 pages, 881397 bytes).
 PDF statistics:
- 2401 PDF objects out of 2487 (max. 8388607)
- 2160 compressed objects within 22 object streams
+ 2403 PDF objects out of 2487 (max. 8388607)
+ 2162 compressed objects within 22 object streams
  461 named destinations out of 1000 (max. 500000)
  705 words of extra memory for PDF output out of 10000 (max. 10000000)
 
