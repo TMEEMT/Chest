@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  12 JUL 2023 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -898,13 +898,6 @@ Package biblatex Info: ... file 'booklet.bbl' found.
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
 (biblatex)                Cheng-Graham*04
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Granville-Ramare*98
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1971,31 +1964,26 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.15 \cite{Granville-Ramare*96},
-                                pdfTeX warning (ext4): destination with the sam
-e identifier (name{Hfootnote.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.16 \cite{Daboussi-Rivat*01}.
+l.15 \cite{Daboussi-Rivat*01}.
                               
 
-LaTeX Warning: Citation 'Cheng-Graham*04' on page 51 undefined on input line 49
+LaTeX Warning: Citation 'Cheng-Graham*04' on page 51 undefined on input line 48
 .
 
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \cite{Hiary*16}.
+l.72 \cite{Hiary*16}.
                       [51
 
-]
-
-LaTeX Warning: Citation 'Granville-Ramare*98' on page 52 undefined on input lin
-e 105.
-
-
-Overfull \hbox (8.17307pt too wide) detected at line 131
+]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.104   \cite{Granville-Ramare*96},
+                                   
+Overfull \hbox (8.17307pt too wide) detected at line 130
 [][][] \OT1/cmr/m/n/10 + [] [] [] [] [][][] [] [](2\OML/cmm/m/it/10 i^^Yf[]\OT1
 /cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n/10 )[][]
  []
@@ -3406,7 +3394,7 @@ OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
 
 [125] [126] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
-(rerunfilecheck)             Checksum: E86009B1E7598F1068C719E63E8C4F43;18445.
+(rerunfilecheck)             Checksum: 4D5332E296D880999951ABF430823410;18445.
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
@@ -3414,7 +3402,7 @@ Package logreq Info: Writing requests to 'booklet.run.xml'.
 Here is how much of TeX's memory you used:
  29816 strings out of 479063
  546470 string characters out of 5868506
- 1283041 words of memory out of 5000000
+ 1283001 words of memory out of 5000000
  46912 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
@@ -3460,7 +3448,7 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (128 pages, 879352 bytes).
+Output written on booklet.pdf (128 pages, 879017 bytes).
 PDF statistics:
  2388 PDF objects out of 2487 (max. 8388607)
  2149 compressed objects within 22 object streams

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cd Biblio
+
+perl UpDateBiblio.pl 
+
+cd ..
+
+git add *
+
+git commit -m "Approx zeta"
+git push
