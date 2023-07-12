@@ -295,6 +295,9 @@ McCurley*84-3
 Kadiri*05-2
 Trudgian*11
 Kadiri-Ng*12
+Reyna*11
+Gabcke*79
+Kadiri*13
 Rademacher*59
 Trudgian*13
 Lehman*70
@@ -322,6 +325,7 @@ Ramare-Saouter*02
 Trudgian*13
 Hasanalizade-Shen-Wong*22
 Bennett-Martin-OBryant-Rechnitzer*21
+Kadiri*13
 Helgott*17u
 Bastion-Rogalaski*02
 Ramare*13d

@@ -59,6 +59,36 @@
       \verb http://dx.doi.org/10.1016/j.jnt.2014.06.008
       \endverb
     \endentry
+    \entry{Reyna*11}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a4e45a90fc7ff0933275ec199d72a85d}{%
+           family={Arias\bibnamedelimb de\bibnamedelima Reyna},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4e45a90fc7ff0933275ec199d72a85d}
+      \strng{fullhash}{a4e45a90fc7ff0933275ec199d72a85d}
+      \strng{bibnamehash}{a4e45a90fc7ff0933275ec199d72a85d}
+      \strng{authorbibnamehash}{a4e45a90fc7ff0933275ec199d72a85d}
+      \strng{authornamehash}{a4e45a90fc7ff0933275ec199d72a85d}
+      \strng{authorfullhash}{a4e45a90fc7ff0933275ec199d72a85d}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-5718,1088-6842}
+      \field{journaltitle}{Math. Comp.}
+      \field{number}{274}
+      \field{title}{High precision computation of {R}iemann's zeta function by the {R}iemann-{S}iegel formula, {I}}
+      \field{volume}{80}
+      \field{year}{2011}
+      \field{pages}{995\bibrangedash 1009}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1090/S0025-5718-2010-02426-3
+      \endverb
+    \endentry
     \entry{Axler*16}{article}{}
       \name{author}{1}{}{%
         {{hash=44643bbaa654b8fb89d8d68f8c7a7b82}{%

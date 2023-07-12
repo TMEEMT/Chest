@@ -18,6 +18,43 @@ Collecting references:
  
 
 \par 
+\section{Approximating $|\zeta(s)|$ or $L$-series in the}
+
+
+
+In
+\cite{Reyna*11}
+extends the
+Phd memoir
+\cite{Gabcke*79}
+and provides an explicit Riemann-Siegel formula for $\zeta(s)$.
+
+Theorem 1.2 of
+\cite{Kadiri*13}
+proves the following.
+\par 
+\begin{thm}{Theorem (2013)}
+
+  When $t > t_0 > 0^$, $c > 1/(2\pi)$ and $s = \sigma +it$ with
+  $\sigma\ge 1/2$, we have
+  $$
+  \zeta(s)
+  =\sum_{n < c t} \frac{1}{n^s}
+	     + \mathcal{O} \biggl(
+	     \biggl(c+\tfrac12+\frac{3\sqrt{1+1/t_0^2}}{2\pi}
+	     \biggl(\frac{\pi}{12c}+1+\frac{1}{2\pi c-1}\biggr)
+	     \biggr)
+	     (ct)^{-\sigma}\biggr).
+  $$
+\end{thm}
+
+Notice that, by using the constant $c$, we may deduce from this an
+approximation of $\zeta(s)$ by a fixed Dirichlet polynomial when $T
+\le t\le 2T$, for some parameter $T$.
+
+
+\par 
+
 \section{Size of $|\zeta(s)|$ and of $L$-series}
 
 
@@ -301,6 +338,24 @@ N(T,\chi)=\sum_{\substack{\rho,\\ 0 < \gamma\le T}} 1=
 \section{L${}^2$-averages}
 
 
+In Theorem 1.4 of
+\cite{Kadiri*13},
+we find the next result.
+\begin{thm}{Theorem (2013)}
+
+    When $0.5208 < \sigma < 0.9723$ and $10^3\le H \le 10^{10}$,
+    we have, for any $T\ge H$,
+    $$
+			    \int_H^T |\zeta(\sigma + t)|^2 dt
+			    \le
+			    (T-H) \bigl(\zeta(2\sigma) +
+    \mathcal{E}_1(\sigma, H)\bigr)
+			    $$
+    where $\mathcal{E}_1(\sigma, H)$ is a small error term whose
+    precise expression in given the stated paper.
+\end{thm}
+
+
 We can find in
 \cite{Helgott*17u} the proof
 of the following estimate. Though it is unpublished yet, the full proof
@@ -388,7 +443,7 @@ slightly weaker version.
 
 
   
-\begin{flushright}\small\sl{}   Last updated on April 29th, 2022, by Olivier Ramar\'e
+\begin{flushright}\small\sl{}   Last updated on July 12th, 2023, by Olivier Ramar\'e
  \end{flushright}
 
 

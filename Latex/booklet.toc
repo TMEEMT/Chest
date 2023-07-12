@@ -43,10 +43,11 @@
 \contentsline {section}{\numberline {12.2}Burgess type estimates}{62}{section.12.2}%
 \contentsline {part}{VI\hspace {1em}Zeros and zero-free regions}{67}{part.6}%
 \contentsline {chapter}{\numberline {13} Bounds for $|\zeta (s)|$, $|L(s,\chi )|$ and related questions}{69}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Size of $|\zeta (s)|$ and of $L$-series}{69}{section.13.1}%
-\contentsline {section}{\numberline {13.2}On the total number of zeroes}{71}{section.13.2}%
-\contentsline {section}{\numberline {13.3}L${}^2$-averages}{73}{section.13.3}%
-\contentsline {section}{\numberline {13.4}Bounds on the real line}{73}{section.13.4}%
+\contentsline {section}{\numberline {13.1}Approximating $|\zeta (s)|$ or $L$-series in the}{69}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Size of $|\zeta (s)|$ and of $L$-series}{70}{section.13.2}%
+\contentsline {section}{\numberline {13.3}On the total number of zeroes}{72}{section.13.3}%
+\contentsline {section}{\numberline {13.4}L${}^2$-averages}{73}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Bounds on the real line}{74}{section.13.5}%
 \contentsline {chapter}{\numberline {14} Explicit zero-free regions for the $\zeta $ and $L$ functions}{75}{chapter.14}%
 \contentsline {section}{\numberline {14.1}Numerical verifications of the Generalized Riemann Hypothesis}{75}{section.14.1}%
 \contentsline {section}{\numberline {14.2}Asymptotical zero-free regions}{77}{section.14.2}%
