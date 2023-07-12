@@ -69,6 +69,8 @@ MathJax.Hub.Config({
 <dl id="MenuDroit"> 
 <dt>Navigation</dt>
 <dd><a href="#Top">Back to top</a></dd>
+<dd><a href="#Size">Approximating $|\zeta(s)|$ or $L$-series in the
+    critical strip</a></dd>
 <dd><a href="#Size">Size of $|\zeta(s)|$ and of $L$-series</a></dd>
 <dd><a href="#Tot">On the total number of zeroes</a></dd>
 <dd><a href="#ave">L${}^2$-averages</a></dd>
@@ -105,7 +107,46 @@ Collecting references:
 <br>
 <div class="section">
   <a name="Size"></a>
-1. Size of $|\zeta(s)|$ and of $L$-series
+1. Approximating $|\zeta(s)|$ or $L$-series in the
+    critical strip
+</div>
+
+In
+<script language="javascript">bibref("Reyna*11")</script>
+extends the
+Phd memoir
+<script language="javascript">bibref("Gabcke*79")</script>
+and provides an explicit Riemann-Siegel formula for $\zeta(s)$.
+
+Theorem 1.2 of
+<script language="javascript">bibref("Kadiri*13")</script>
+proves the following.
+<br>
+<span class="THM">Theorem (2013)</span>
+<blockquote class="outer-thm">
+<div class="thm">
+  When $t > t_0 > 0^$, $c > 1/(2\pi)$ and $s = \sigma +it$ with
+  $\sigma\ge 1/2$, we have
+  $$
+  \zeta(s)
+  =\sum_{n < c t} \frac{1}{n^s}
+	     + \mathcal{O} \biggl(
+	     \biggl(c+\tfrac12+\frac{3\sqrt{1+1/t_0^2}}{2\pi}
+	     \biggl(\frac{\pi}{12c}+1+\frac{1}{2\pi c-1}\biggr)
+	     \biggr)
+	     (ct)^{-\sigma}\biggr).
+  $$
+</div></blockquote>
+Notice that, by using the constant $c$, we may deduce from this an
+approximation of $\zeta(s)$ by a fixed Dirichlet polynomial when $T
+\le t\le 2T$, for some parameter $T$.
+
+
+<br>
+
+  <div class="section">
+  <a name="Size"></a>
+2. Size of $|\zeta(s)|$ and of $L$-series
 </div>
 
 
@@ -268,7 +309,7 @@ earlier estimate.
 <br>
 <div class="section">
   <a name="Tot"></a>
-2. On the total number of zeroes
+3. On the total number of zeroes
 </div>
 
 The first explicit estimate for the number of zeros of the Riemann
@@ -386,8 +427,26 @@ N(T,\chi)=\sum_{\substack{\rho,\\ 0 < \gamma\le T}} 1=
 <br>
 <div class="section">
   <a name="ave"></a>
-3. L${}^2$-averages
+4. L${}^2$-averages
 </div>
+
+In Theorem 1.4 of
+<script language="javascript">bibref("Kadiri*13")</script>,
+we find the next result.
+<br><span class="THM">Theorem (2013)</span>
+<blockquote class="outer-thm">
+  <div class="thm">
+    When $0.5208 < \sigma < 0.9723$ and $10^3\le H \le 10^{10}$,
+    we have, for any $T\ge H$,
+    $$
+			    \int_H^T |\zeta(\sigma + t)|^2 dt
+			    \le
+			    (T-H) \bigl(\zeta(2\sigma) +
+    \mathcal{E}_1(\sigma, H)\bigr)
+			    $$
+    where $\mathcal{E}_1(\sigma, H)$ is a small error term whose
+    precise expression in given the stated paper.
+</div></blockquote>
 
 We can find in
 <script language="javascript">bibref("Helgott*17u")</script> the proof
@@ -441,7 +500,7 @@ c=9/16,
 <br>
 <div class="section">
   <a name="real"></a>
-4. Bounds on the real line
+5. Bounds on the real line
 </div>
 
 After some estimates
@@ -478,7 +537,7 @@ slightly weaker version.
 </center>
 <div align="right" class="lastmodif">
   <!-- ==== LAST UPDATE HERE ======= -->
-  Last updated on April 29th, 2022, by Olivier Ramar&eacute;
+  Last updated on July 12th, 2023, by Olivier Ramar&eacute;
 </div>
 
 
