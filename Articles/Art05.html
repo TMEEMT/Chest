@@ -118,7 +118,7 @@ We start with the Kusmin-Landau Lemma.
 <blockquote class="outer-thm">
   <div class="thm">
     Let $f$ be a function over $[a, b]$ such that $f'$ is monotonic
-    and satisfies $\theta \le f'(u)\le 1-\theta$ for some $\theta
+    and satisfies $\theta \le f^\prime(u)\le 1-\theta$ for some $\theta
     \in(0,1/2]$. Then
     $$
     \biggl|\sum_{a\le n\le b} e(f(n))\biggr|
@@ -142,7 +142,7 @@ We start with the Kusmin-Landau Lemma.
   <div class="thm">
   Let $f$ be a real-valued function with two continuous derivatives
   on $[N+1, N+L]$. Suppose there are $W > 1$ and $\lambda > 1$ such
-  that $1 \le W |f'''(x)| \le \lambda$ for every $x\in [N+1,
+  that $1 \le W |f^{\prime\prime\prime}(x)| \le \lambda$ for every $x\in [N+1,
   N+L]$. Then we have
   $$
   \biggl|\sum_{n= N+1}^{N+L}
@@ -168,7 +168,7 @@ Here is Lemma 1.2 of
   <div class="thm">
   Let $f$ be a real-valued function with three continuous derivatives
   on $[N+1, N+L]$. Suppose there are $W > 1$ and $\lambda > 1$ such
-  that $1 \le W |f'''(x)| \le \lambda$ for every $x\in [N+1,
+  that $1 \le W |f^{\prime\prime\prime}(x)| \le \lambda$ for every $x\in [N+1,
   N+L]$. Then, for any $\eta > 0$, we have
   $$
   \biggl|\sum_{n= N+1}^{N+L}
@@ -227,7 +227,7 @@ During the proof of Lemma 8.6 in
 		      $$
 		      \forall t,\ \exists y\in[t, t + r_1 + \cdots + r_k],
 		      \quad
-		      f'_{r_1,\cdots, r_k}(t) = r_1r_2\cdots r_k f^{(k+1)}(y).
+		      f^{\prime}_{r_1,\cdots, r_k}(t) = r_1r_2\cdots r_k f^{(k+1)}(y).
 		      $$
 </div></blockquote>
 
@@ -245,17 +245,17 @@ Here is a consequence of the main theorem of
 <span class="THM">Theorem (2007)</span>
 <blockquote class="outer-thm">
   <div class="thm">
-    Suppose $f'$ is decreasing on $[N+1,N+L]$ and set
-    $f'(N+L)=\alpha$ and $f'(N) = \beta$.
+    Suppose $f^\prime$ is decreasing on $[N+1,N+L]$ and set
+    $f^\prime(N+L)=\alpha$ and $f^\prime(N) = \beta$.
     For integer $\nu\in(\alpha, \beta]$, let $x_\nu$ be the solution
-    to $f'(x)=\nu$. Suppose further that
-$\lambda_2\le |f''(x)|\le h_2\lambda_2$ and
-    $\lambda_3\le |f'''(x)|\le h_3\lambda_3$. Then
+    to $f^\prime(x)=\nu$. Suppose further that
+$\lambda_2\le |f^{\prime\prime}(x)|\le h_2\lambda_2$ and
+    $\lambda_3\le |f^{\prime\prime\prime}(x)|\le h_3\lambda_3$. Then
     $$
     \sum_{n=N+1}^{N+L} \exp(2i\pi f(n))
     =
     \sum_{\alpha < \nu\le \beta}
-		   \frac{\exp(2i\pi (f(x_\nu)-\nu x_\nu-1/8))}{\sqrt{f''(x_\nu)}}
+		   \frac{\exp(2i\pi (f(x_\nu)-\nu x_\nu-1/8))}{\sqrt{f^{\prime\prime}(x_\nu)}}
 		   +\mathcal{E}
     $$
 		   where
