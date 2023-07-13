@@ -1232,11 +1232,6 @@ Trudgian, T. 2011.
 \newblock Improvements to {T}uring's method.
 \newblock {\em Math. Comp.}, {\bf 80}(276), 2259--2279.
 
-\bibitem[\protect\citename{Trudgian, }2012]{Trudgian*12b}
-Trudgian, T. 2012.
-\newblock A new upper bound for $|\zeta(1+it)|$.
-\newblock \url{http://arxiv.org/abs/1210.6743}.
-
 \bibitem[\protect\citename{Trudgian, }2015a]{Trudgian*14-1}
 Trudgian, T. 2015a.
 \newblock An improved upper bound for the error in the zero-counting formulae
@@ -1254,8 +1249,13 @@ Trudgian, Tim. 2016.
 \newblock Updating the error term in the prime number theorem.
 \newblock {\em Ramanujan J.}, {\bf 39}(2), 225--234.
 
-\bibitem[\protect\citename{Trudgian, }2014]{Trudgian*13}
-Trudgian, Timothy~S. 2014.
+\bibitem[\protect\citename{Trudgian, }2014a]{Trudgian*12b}
+Trudgian, Timothy. 2014a.
+\newblock A new upper bound for {$|\zeta(1+it)|$}.
+\newblock {\em Bull. Aust. Math. Soc.}, {\bf 89}(2), 259--264.
+
+\bibitem[\protect\citename{Trudgian, }2014b]{Trudgian*13}
+Trudgian, Timothy~S. 2014b.
 \newblock An improved upper bound for the argument of the {R}iemann
   zeta-function on the critical line {II}.
 \newblock {\em J. Number Theory}, {\bf 134}, 280--292.

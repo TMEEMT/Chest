@@ -1121,7 +1121,6 @@
     "Titchmarsh*32"
     "Titchmarsh*30"
     "Trudgian*14-1"
-    "Trudgian*12b"
     "Trudgian*11"
     "Trudgian*13"
     "Tuck*06"

@@ -6815,29 +6815,6 @@
       \verb 10.1090/S0025-5718-2012-02579-8
       \endverb
     \endentry
-    \entry{Trudgian*12b}{article}{}
-      \name{author}{1}{}{%
-        {{hash=98fbc149f6c8fe3722fe4f2d90edce38}{%
-           family={Trudgian},
-           familyi={T\bibinitperiod},
-           given={T.},
-           giveni={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \strng{fullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \strng{bibnamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \strng{authorbibnamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \strng{authornamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \strng{authorfullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \field{extraname}{1}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{\url{http://arxiv.org/abs/1210.6743}}
-      \field{title}{A new upper bound for $|\zeta(1+it)|$}
-      \field{year}{2012}
-    \endentry
     \entry{Trudgian*14-1}{article}{}
       \name{author}{1}{}{%
         {{hash=98fbc149f6c8fe3722fe4f2d90edce38}{%
@@ -6852,7 +6829,7 @@
       \strng{authorbibnamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \strng{authornamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \strng{authorfullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -6889,7 +6866,7 @@
       \strng{authorbibnamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \strng{authornamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \strng{authorfullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \field{extraname}{3}
+      \field{extraname}{2}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -6926,7 +6903,7 @@
       \strng{authorbibnamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authornamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authorfullhash}{af8f95636cfb8ee32db62432b50fcea2}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -6956,7 +6933,7 @@
       \strng{authorbibnamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authornamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authorfullhash}{af8f95636cfb8ee32db62432b50fcea2}
-      \field{extraname}{5}
+      \field{extraname}{4}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -6977,6 +6954,37 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1007/s11139-014-9656-6
+      \endverb
+    \endentry
+    \entry{Trudgian*12b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=427a3ba3d2c76d68bc8c1bfc231edce0}{%
+           family={Trudgian},
+           familyi={T\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
+      \strng{fullhash}{427a3ba3d2c76d68bc8c1bfc231edce0}
+      \strng{bibnamehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
+      \strng{authorbibnamehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
+      \strng{authornamehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
+      \strng{authorfullhash}{427a3ba3d2c76d68bc8c1bfc231edce0}
+      \field{extraname}{5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0004-9727,1755-1633}
+      \field{journaltitle}{Bull. Aust. Math. Soc.}
+      \field{number}{2}
+      \field{title}{A new upper bound for {$|\zeta(1+it)|$}}
+      \field{volume}{89}
+      \field{year}{2014}
+      \field{pages}{259\bibrangedash 264}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1017/S0004972713000415
       \endverb
     \endentry
     \entry{Trudgian*13}{article}{}

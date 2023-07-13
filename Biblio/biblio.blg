@@ -16,47 +16,46 @@ Warning--entry type for "Carneiro-Milinovich-Soundararajan*19" isn't style-file 
 --line 19478 of file Local-TME-EMT.bib
 Warning--I didn't find a database entry for "Kadiri-Faber*18"
 Warning--empty school in Platt*13
-Warning--empty journal in Trudgian*12b
 Warning--empty journal in Wedeniwski*02
 You've used 233 entries,
             2441 wiz_defined-function locations,
-            2032 strings with 35670 characters,
-and the built_in function-call counts, 94360 in all, are:
-= -- 9498
+            2035 strings with 35685 characters,
+and the built_in function-call counts, 94461 in all, are:
+= -- 9510
 > -- 2396
 < -- 768
-+ -- 753
++ -- 754
 - -- 643
-* -- 8038
-:= -- 15040
+* -- 8053
+:= -- 15050
 add.period$ -- 956
 call.type$ -- 233
 change.case$ -- 1461
-chr.to.int$ -- 219
-cite$ -- 236
-duplicate$ -- 3678
-empty$ -- 7537
+chr.to.int$ -- 218
+cite$ -- 235
+duplicate$ -- 3681
+empty$ -- 7549
 format.name$ -- 986
-if$ -- 19266
-int.to.chr$ -- 15
+if$ -- 19288
+int.to.chr$ -- 16
 int.to.str$ -- 0
 missing$ -- 233
 newline$ -- 1192
 num.names$ -- 701
-pop$ -- 1164
+pop$ -- 1162
 preamble$ -- 1
 purify$ -- 1694
 quote$ -- 0
 skip$ -- 3462
 stack$ -- 0
-substring$ -- 7785
-swap$ -- 718
+substring$ -- 7810
+swap$ -- 720
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 1842
-warning$ -- 3
-while$ -- 777
+warning$ -- 2
+while$ -- 779
 width$ -- 0
-write$ -- 3059
+write$ -- 3060
 (There were 2 error messages)
