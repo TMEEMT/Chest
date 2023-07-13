@@ -16,6 +16,7 @@ Daboussi-Rivat*01
 Cheng-Graham*01
 Hiary*16
 Granville-Ramare*96
+Karatsuba-Korolev*07
 Filaseta*90
 Filaseta-Trifonov*96
 Huxley*96

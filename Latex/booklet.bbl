@@ -3777,6 +3777,41 @@
       \verb 10.1016/j.jmaa.2018.04.071
       \endverb
     \endentry
+    \entry{Karatsuba-Korolev*07}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1ad9cfd8df25881b7891382dee75005c}{%
+           family={Karatsuba},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=4f7aeb8542b0eaf6e7efafd2e61f9312}{%
+           family={Korolëv},
+           familyi={K\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{19821daf894d0a8454b7b83cac8bbccb}
+      \strng{fullhash}{19821daf894d0a8454b7b83cac8bbccb}
+      \strng{bibnamehash}{19821daf894d0a8454b7b83cac8bbccb}
+      \strng{authorbibnamehash}{19821daf894d0a8454b7b83cac8bbccb}
+      \strng{authornamehash}{19821daf894d0a8454b7b83cac8bbccb}
+      \strng{authorfullhash}{19821daf894d0a8454b7b83cac8bbccb}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0869-5652}
+      \field{journaltitle}{Dokl. Akad. Nauk}
+      \field{number}{2}
+      \field{title}{Approximation of a trigonometric sum by a shorter one}
+      \field{volume}{412}
+      \field{year}{2007}
+      \field{pages}{159\bibrangedash 161}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1134/S1064562407010115
+      \endverb
+    \endentry
     \entry{Kotnik-VanDeLune*04}{article}{}
       \name{author}{2}{}{%
         {{hash=9491eb14d70047b89ad523bb740e7125}{%
