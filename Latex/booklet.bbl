@@ -5306,6 +5306,36 @@
       \field{pages}{55\bibrangedash 56}
       \range{pages}{2}
     \endentry
+    \entry{Patel*22}{article}{}
+      \name{author}{1}{}{%
+        {{hash=40f3ec557d07b23f5b7ce1ab61375156}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Dhir},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{40f3ec557d07b23f5b7ce1ab61375156}
+      \strng{fullhash}{40f3ec557d07b23f5b7ce1ab61375156}
+      \strng{bibnamehash}{40f3ec557d07b23f5b7ce1ab61375156}
+      \strng{authorbibnamehash}{40f3ec557d07b23f5b7ce1ab61375156}
+      \strng{authornamehash}{40f3ec557d07b23f5b7ce1ab61375156}
+      \strng{authorfullhash}{40f3ec557d07b23f5b7ce1ab61375156}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0019-3577,1872-6100}
+      \field{journaltitle}{Indag. Math. (N.S.)}
+      \field{number}{5}
+      \field{title}{An explicit upper bound for {$|\zeta (1+it) |$}}
+      \field{volume}{33}
+      \field{year}{2022}
+      \field{pages}{1012\bibrangedash 1032}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.indag.2022.04.007
+      \endverb
+    \endentry
     \entry{Platt*11}{thesis}{}
       \name{author}{1}{}{%
         {{hash=b7137f17a7ecf01647eb7f9483185c94}{%

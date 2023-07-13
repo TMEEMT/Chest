@@ -14,7 +14,10 @@ Louboutin*03
 Louboutin*03
 Daboussi-Rivat*01
 Cheng-Graham*01
+Patel*22
 Hiary*16
+Patel*22
+Patel*22
 Granville-Ramare*96
 Karatsuba-Korolev*07
 Filaseta*90
@@ -343,7 +346,3 @@ Ramare*02-??
 Louboutin*98
 Louboutin*13
 Louboutin*15
-Daboussi-Rivat*01
-Cheng-Graham*01
-Hiary*16
-Granville-Ramare*96

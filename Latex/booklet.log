@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  13 JUL 2023 07:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  13 JUL 2023 08:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1962,21 +1962,31 @@ l.15 \cite{Daboussi-Rivat*01}.
 identifier (name{Hfootnote.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48   \cite{Cheng-Graham*01}.
+l.48   \cite{Cheng-Graham*01},
                               pdfTeX warning (ext4): destination with the same 
 identifier (name{Hfootnote.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 \cite{Hiary*16}.
-                      [51
+l.50   \cite{Patel*22}.
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{Hfootnote.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.74   \cite{Hiary*16}.
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{Hfootnote.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.76   \cite{Patel*22}.
+                        [51
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.104   \cite{Granville-Ramare*96},
+l.116   \cite{Granville-Ramare*96},
                                    
-Overfull \hbox (19.83977pt too wide) detected at line 130
+Overfull \hbox (19.83977pt too wide) detected at line 142
 [][][] \OT1/cmr/m/n/10 + [] [] [] [] [][][] [] [](\OMS/cmsy/m/n/10 ^^F\OT1/cmr/
 m/n/10 2\OML/cmm/m/it/10 i^^Yf[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 n\OT1/cmr/m/n
 /10 ))[][]
@@ -1986,7 +1996,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.2})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.146   \cite{Karatsuba-Korolev*07}
+l.158   \cite{Karatsuba-Korolev*07}
                                     [52]) (./Art11.tex [53] [54
 
 ]
@@ -2737,6 +2747,11 @@ l.177 \cite{McCurley*84-1}
 ed
 <to be read again> 
                    \relax 
+l.179 \cite{Kadiri*02} 
+                       (cf alsopdfTeX warning (ext4): destination with the same
+ identifier (name{Hfootnote.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.180 \cite{Kadiri*02-2})
                           [79]pdfTeX warning (ext4): destination with the same 
 identifier (name{Hfootnote.2}) has been already used, duplicate ignored
@@ -3392,17 +3407,24 @@ OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
  []
 
 [127] [128] (./booklet.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `booklet.out' has not changed.
-(rerunfilecheck)             Checksum: AFC32101F07BDCA4CD7348ED60B1034C;18626.
+(rerunfilecheck)             Checksum: 6D4F9A50ABBBA0E262CF797FB1A76E41;18840.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29830 strings out of 479063
- 546802 string characters out of 5868506
- 1283069 words of memory out of 5000000
- 46922 multiletter control sequences out of 15000+600000
+ 29842 strings out of 479063
+ 547050 string characters out of 5868506
+ 1283151 words of memory out of 5000000
+ 46932 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3447,10 +3469,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (130 pages, 882166 bytes).
+Output written on booklet.pdf (130 pages, 883213 bytes).
 PDF statistics:
- 2407 PDF objects out of 2487 (max. 8388607)
- 2166 compressed objects within 22 object streams
- 462 named destinations out of 1000 (max. 500000)
- 705 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2422 PDF objects out of 2487 (max. 8388607)
+ 2181 compressed objects within 22 object streams
+ 464 named destinations out of 1000 (max. 500000)
+ 713 words of extra memory for PDF output out of 10000 (max. 10000000)
 
