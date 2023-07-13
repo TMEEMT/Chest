@@ -346,6 +346,7 @@ Scanning Art06.html for keys ...
  --> Adding Backlund*18 from Art06.html
  --> Adding Backlund*14 from Art06.html
  --> Adding Trudgian*12b from Art06.html
+ --> Adding Patel*22 from Art06.html
  --> Adding Ford*02 from Art06.html
  --> Adding Kulas*94 from Art06.html
  --> Adding Backlund*14 from Art06.html
