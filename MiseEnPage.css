@@ -5,6 +5,15 @@ body {
     line-height:1.4;
 }
 
+div.Back {
+    margin-top : -15px;  
+    margin-bottom : -20px;  
+}
+a.BackToIndex {
+    color : #4d4dff;
+    font-style : italic;
+}
+
 #navbar{z-index:10;}
 #MenuDroit{z-index:5;}
 
