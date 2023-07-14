@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  13 JUL 2023 10:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  14 JUL 2023 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1067,139 +1067,139 @@ m/it/10 :$
  []
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 169.
+Package hyperref Warning: Ignoring empty anchor on input line 168.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 171.
+Package hyperref Warning: Ignoring empty anchor on input line 187.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 176.
+Package hyperref Warning: Ignoring empty anchor on input line 189.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 206.
+Package hyperref Warning: Ignoring empty anchor on input line 194.
 
 [11]
 
-Package hyperref Warning: Ignoring empty anchor on input line 243.
+Package hyperref Warning: Ignoring empty anchor on input line 224.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 263.
+Package hyperref Warning: Ignoring empty anchor on input line 227.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 266.
+Package hyperref Warning: Ignoring empty anchor on input line 261.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 272.
+Package hyperref Warning: Ignoring empty anchor on input line 281.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 342.
+Package hyperref Warning: Ignoring empty anchor on input line 284.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 290.
 
 [12]
 
-Package hyperref Warning: Ignoring empty anchor on input line 347.
+Package hyperref Warning: Ignoring empty anchor on input line 360.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 349.
+Package hyperref Warning: Ignoring empty anchor on input line 365.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 397.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 397.
-
-
-Package hyperref Warning: Ignoring empty anchor on input line 406.
-
-
-Package hyperref Warning: Ignoring empty anchor on input line 412.
-
-
-Overfull \hbox (12.57935pt too wide) detected at line 416
-\OML/cmm/m/it/10 p[] \OMS/cmsy/m/n/10 ^^X \OML/cmm/m/it/10 n [] :
- []
+Package hyperref Warning: Ignoring empty anchor on input line 367.
 
 [13]
 
-Package hyperref Warning: Ignoring empty anchor on input line 423.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 415.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 429.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 415.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 436.
+Package hyperref Warning: Ignoring empty anchor on input line 424.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 444.
+Package hyperref Warning: Ignoring empty anchor on input line 430.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 452.
+Overfull \hbox (12.57935pt too wide) detected at line 434
+\OML/cmm/m/it/10 p[] \OMS/cmsy/m/n/10 ^^X \OML/cmm/m/it/10 n [] :
+ []
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 456.
+Package hyperref Warning: Ignoring empty anchor on input line 447.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 467.
+Package hyperref Warning: Ignoring empty anchor on input line 454.
 
 
-Overfull \hbox (19.14536pt too wide) in paragraph at lines 471--472
+Package hyperref Warning: Ignoring empty anchor on input line 462.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 470.
+
+
+Package hyperref Warning: Ignoring empty anchor on input line 474.
+
+[14]
+
+Package hyperref Warning: Ignoring empty anchor on input line 485.
+
+
+Overfull \hbox (19.14536pt too wide) in paragraph at lines 489--490
 []\OT1/cmr/m/n/10 Under the Rie-mann Hy-poth-e-sis we have $\OML/cmm/m/it/10 p[
 ] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 p[] \OMS/cmsy/m/n/10 ^^T [][] [] \OML/c
 mm/m/it/10 p[]$\OT1/cmr/m/n/10 . 
  []
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 478.
-
-[14]
-
-Package hyperref Warning: Ignoring empty anchor on input line 501.
+Package hyperref Warning: Ignoring empty anchor on input line 496.
 
 
-Overfull \hbox (0.68304pt too wide) in paragraph at lines 527--527
+Package hyperref Warning: Ignoring empty anchor on input line 519.
+
+
+Overfull \hbox (0.68304pt too wide) in paragraph at lines 545--545
 []\OT1/cmr/bx/n/14.4 Bounds on primes in arith-metic pro-gres-sions 
  []
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 531.
+Package hyperref Warning: Ignoring empty anchor on input line 549.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 532.
+Package hyperref Warning: Ignoring empty anchor on input line 550.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 533.
+Package hyperref Warning: Ignoring empty anchor on input line 551.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 534.
+Package hyperref Warning: Ignoring empty anchor on input line 552.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 535.
+Package hyperref Warning: Ignoring empty anchor on input line 553.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 537.
-
-
-Package hyperref Warning: Ignoring empty anchor on input line 540.
+Package hyperref Warning: Ignoring empty anchor on input line 555.
 
 [15]
 
-Package hyperref Warning: Ignoring empty anchor on input line 563.
+Package hyperref Warning: Ignoring empty anchor on input line 558.
 
 
-Overfull \hbox (4.72844pt too wide) in paragraph at lines 567--575
+Overfull \hbox (4.72844pt too wide) in paragraph at lines 585--593
 []\OT1/cmr/m/n/10 We have $[] [] [] [][][] 1 \OMS/cmsy/m/n/10 ^^@ [][] ^^T \OT1
 /cmr/m/n/10 1\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 840\OML/cmm/m/it/10 :$ 
  []
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 586.
+Package hyperref Warning: Ignoring empty anchor on input line 604.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 588.
+Package hyperref Warning: Ignoring empty anchor on input line 606.
 
 
-Overfull \hbox (12.25874pt too wide) in paragraph at lines 596--605
+Overfull \hbox (12.25874pt too wide) in paragraph at lines 614--623
 []\OT1/cmr/m/n/10 We have $[] [] [] [][][] [] \OMS/cmsy/m/n/10 ^^@ [] ^^@ \OML/
 cmm/m/it/10 C\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 q; a\OT1/cmr/m/n/10 )[] \OMS/cms
 y/m/n/10 2
@@ -1207,10 +1207,10 @@ y/m/n/10 2
 
 [16]
 
-Package hyperref Warning: Ignoring empty anchor on input line 645.
+Package hyperref Warning: Ignoring empty anchor on input line 663.
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 646.
+Package hyperref Warning: Ignoring empty anchor on input line 664.
 
 ) (./Art02.tex [17] [18
 
@@ -1482,7 +1482,7 @@ ed
 l.104  and \cite{Coffey*06}.
                              In particular, we have
 Overfull \hbox (103.40735pt too wide) in paragraph at lines 97--110
-[][]\OT1/cmr/m/n/10 119[][]] and [[][]M. Cof-fey, [][]38[][]]. In par-tic-u-lar
+[][]\OT1/cmr/m/n/10 120[][]] and [[][]M. Cof-fey, [][]38[][]]. In par-tic-u-lar
 , we have $\OML/cmm/m/it/10 ^^M[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@\OT1/cm
 r/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 07281584548367672486058637587490131
 91377 +
@@ -2188,7 +2188,7 @@ fier (name{Hfootnote.2}) has been already used, duplicate ignored
 l.31 \cite{Louboutin*15}
                         
 Overfull \hbox (14.09077pt too wide) in paragraph at lines 29--33
-\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]131[][]] an-nounces the fol-low-ing lowe
+\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]132[][]] an-nounces the fol-low-ing lowe
 r bound proved in [[][]S. R. Louboutin,
  []
 
@@ -3238,12 +3238,12 @@ l.168 From \cite{Louboutin*00}:
 <to be read again> 
                    \relax 
 l.183 From \cite{Louboutin*03}:
-                                [103]pdfTeX warning (ext4): destination with th
-e same identifier (name{Hfootnote.4}) has been already used, duplicate ignored
+                               pdfTeX warning (ext4): destination with the same
+ identifier (name{Hfootnote.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.220 And a third result from \cite{Louboutin*03}:
-                                                  ) (./Art19.tex [104]
+l.200 Again from \cite{Louboutin*03}:
+                                      [103]) (./Art19.tex [104]
 Chapter 19.
 ) [105
 
@@ -3341,13 +3341,13 @@ Overfull \hbox (0.98564pt too wide) in paragraph at lines 286--286
 . \OT1/cmr/m/n/10 23 (1994), 123{134 (1995).
  []
 
-
+[119]
 Overfull \hbox (11.54068pt too wide) in paragraph at lines 286--286
 [][]\OT1/cmr/m/n/10 E. Lan-dau. \  Ab-sch^^?atzungen von Charak-ter-sum-men, Ei
 n-heiten und Klassen-
  []
 
-[119]
+
 Overfull \hbox (7.739pt too wide) in paragraph at lines 286--286
 \OT1/cmr/m/n/10 prob-lems of num-ber the-ory". In: \OT1/cmr/m/it/10 Rus-sian Ma
 th. Sur-veys \OT1/cmr/m/n/10 22 (1967), pp. 119{
@@ -3359,13 +3359,13 @@ Overfull \hbox (27.28345pt too wide) in paragraph at lines 286--286
 1996, pp. xiv+342.
  []
 
-
+[122]
 Overfull \hbox (25.17613pt too wide) in paragraph at lines 286--286
 [][]\OT1/cmr/m/n/10 J.[]L. Nico-las. \  Quelques in^^Segalit^^Ses ef-fec-tives 
 en-tre des fonc-tions arithm^^Setiques".
  []
 
-[122]
+
 Overfull \hbox (4.38914pt too wide) in paragraph at lines 286--286
 [][]\OT1/cmr/m/n/10 M. Pohst and H. Zassen-haus. \OT1/cmr/m/it/10 Al-go-rith-mi
 c al-ge-braic num-ber the-ory\OT1/cmr/m/n/10 . Vol. 30.
@@ -3415,10 +3415,10 @@ Package logreq Info: Writing requests to 'booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29843 strings out of 479063
- 547062 string characters out of 5868506
- 1283158 words of memory out of 5000000
- 46933 multiletter control sequences out of 15000+600000
+ 29851 strings out of 479063
+ 547310 string characters out of 5868506
+ 1284238 words of memory out of 5000000
+ 46940 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3463,10 +3463,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (130 pages, 883702 bytes).
+Output written on booklet.pdf (130 pages, 885014 bytes).
 PDF statistics:
- 2423 PDF objects out of 2487 (max. 8388607)
- 2182 compressed objects within 22 object streams
- 464 named destinations out of 1000 (max. 500000)
+ 2427 PDF objects out of 2487 (max. 8388607)
+ 2186 compressed objects within 22 object streams
+ 465 named destinations out of 1000 (max. 500000)
  713 words of extra memory for PDF output out of 10000 (max. 10000000)
 

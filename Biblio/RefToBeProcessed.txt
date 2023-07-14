@@ -230,6 +230,7 @@ Kadiri-Faber*13
 Kadiri-Faber*18
 Kadiri*13
 Platt-Trudgian*21b
+Johnston-Yang*23
 Panaitopol*00
 Axler*16
 Ramare*12-1

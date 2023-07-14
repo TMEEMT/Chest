@@ -3489,6 +3489,41 @@
       \field{pages}{500\bibrangedash 518}
       \range{pages}{19}
     \endentry
+    \entry{Johnston-Yang*23}{article}{}
+      \name{author}{2}{}{%
+        {{hash=584ae3c384fb6ae61107c1e1894b520b}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Daniel\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7f75a6430a2dbbf55b57333ce0528813}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c04a484fe3809891ea26e4ffbad2821}
+      \strng{fullhash}{8c04a484fe3809891ea26e4ffbad2821}
+      \strng{bibnamehash}{8c04a484fe3809891ea26e4ffbad2821}
+      \strng{authorbibnamehash}{8c04a484fe3809891ea26e4ffbad2821}
+      \strng{authornamehash}{8c04a484fe3809891ea26e4ffbad2821}
+      \strng{authorfullhash}{8c04a484fe3809891ea26e4ffbad2821}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-247X,1096-0813}
+      \field{journaltitle}{J. Math. Anal. Appl.}
+      \field{number}{2}
+      \field{title}{Some explicit estimates for the error term in the prime number theorem}
+      \field{volume}{527}
+      \field{year}{2023}
+      \field{pages}{Paper No. 127460}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.jmaa.2023.127460
+      \endverb
+    \endentry
     \entry{Kadiri*13}{article}{}
       \name{author}{1}{}{%
         {{hash=9b839dce71698a938552e89889ac0c9a}{%
