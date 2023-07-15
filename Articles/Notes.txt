@@ -1,0 +1,6 @@
+An example on how to replace something in all Art* files:
+
+sed -i 's/index\.html/index\.html#GlobalIndex/g' Art*
+
+Characters $.*[\^ need quoting by \
+Basic Regular Expressions allowed.
