@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: biblio.aux
 The style file: authordate1.bst
-Reallocated field_info (elt_size=4) to 10405 items from 5000.
+Reallocated field_info (elt_size=4) to 10428 items from 5000.
 Database file #1: Local-TME-EMT.bib
 Repeated entry---line 157 of file Local-TME-EMT.bib
  : @article {Bordignon*21
@@ -17,45 +17,45 @@ Warning--entry type for "Carneiro-Milinovich-Soundararajan*19" isn't style-file 
 Warning--I didn't find a database entry for "Kadiri-Faber*18"
 Warning--empty school in Platt*13
 Warning--empty journal in Wedeniwski*02
-You've used 234 entries,
+You've used 235 entries,
             2441 wiz_defined-function locations,
-            2042 strings with 35846 characters,
-and the built_in function-call counts, 94973 in all, are:
-= -- 9561
-> -- 2410
-< -- 772
-+ -- 758
-- -- 647
-* -- 8102
-:= -- 15127
-add.period$ -- 960
-call.type$ -- 234
-change.case$ -- 1468
-chr.to.int$ -- 219
-cite$ -- 236
-duplicate$ -- 3697
-empty$ -- 7591
-format.name$ -- 993
-if$ -- 19394
+            2049 strings with 35982 characters,
+and the built_in function-call counts, 95296 in all, are:
+= -- 9595
+> -- 2418
+< -- 775
++ -- 760
+- -- 649
+* -- 8124
+:= -- 15185
+add.period$ -- 966
+call.type$ -- 235
+change.case$ -- 1474
+chr.to.int$ -- 220
+cite$ -- 237
+duplicate$ -- 3709
+empty$ -- 7615
+format.name$ -- 996
+if$ -- 19461
 int.to.chr$ -- 16
 int.to.str$ -- 0
-missing$ -- 234
-newline$ -- 1197
-num.names$ -- 704
-pop$ -- 1169
+missing$ -- 236
+newline$ -- 1204
+num.names$ -- 707
+pop$ -- 1173
 preamble$ -- 1
-purify$ -- 1702
+purify$ -- 1709
 quote$ -- 0
-skip$ -- 3476
+skip$ -- 3489
 stack$ -- 0
-substring$ -- 7869
-swap$ -- 723
+substring$ -- 7880
+swap$ -- 725
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1850
+type$ -- 1856
 warning$ -- 2
-while$ -- 782
+while$ -- 784
 width$ -- 0
-write$ -- 3073
+write$ -- 3089
 (There were 2 error messages)

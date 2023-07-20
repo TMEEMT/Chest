@@ -83,6 +83,34 @@ $$
 \end{thm}
 
 
+\section{ensity estimates }
+
+
+In Theorem 1, page 52 of
+\cite{Greaves*01},
+we find the next widely applicable estimate.
+\par 
+\begin{thm}{Theorem (2022)}
+
+    Let $\kappa$ be a non-negative function on the primes such that
+    $\kappa(p) < p$. Assume there is a constant $B$ such that
+		 $$
+		 \sum_{p < z} \frac{\kappa(p)\log p}{p}
+			   \le B\log z
+			   $$
+			   for some $z\ge 2$. Then, when $s\ge 2B$, we
+			   have
+			   $$
+			   \sum_{d\le z^{s/2}}\mu^2(d)
+			   \prod_{p|d}\frac{\kappa(p)}{p-\kappa(p)}
+			   \ge
+			   \Bigl(1-\exp-\bigl(\frac{s}{2}\log\frac{s}{2B}-\frac{s}{2}+B\bigr)\Bigr)
+			   \prod_{p < z}\biggl(1-\frac{\kappa(p)}{p}\biggr)^{-1}.
+			   $$
+\end{thm}
+
+See also here\footnote{\url{../Art10.html#asy}}.
+
 
 \section{Combinatorial sieve estimates}
 
@@ -117,7 +145,7 @@ $$
 
 
   
-\begin{flushright}\small\sl{}   Last updated on May 19th, 2022, by Olivier Ramar\'e
+\begin{flushright}\small\sl{}   Last updated on July 20th, 2023, by Olivier Ramar\'e
  \end{flushright}
 
 

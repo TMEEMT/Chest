@@ -2972,6 +2972,33 @@
       \verb :/home/ramare/tex/Other/Granville/L1chi.ps:PostScript
       \endverb
     \endentry
+    \entry{Greaves*01}{book}{}
+      \name{author}{1}{}{%
+        {{hash=122027de1c7fa56ed5495816eadd7ceb}{%
+           family={Greaves},
+           familyi={G\bibinitperiod},
+           given={{G.}},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag, Berlin}%
+      }
+      \strng{namehash}{122027de1c7fa56ed5495816eadd7ceb}
+      \strng{fullhash}{122027de1c7fa56ed5495816eadd7ceb}
+      \strng{bibnamehash}{122027de1c7fa56ed5495816eadd7ceb}
+      \strng{authorbibnamehash}{122027de1c7fa56ed5495816eadd7ceb}
+      \strng{authornamehash}{122027de1c7fa56ed5495816eadd7ceb}
+      \strng{authorfullhash}{122027de1c7fa56ed5495816eadd7ceb}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{xii+304 pp}
+      \field{series}{Ergebnisse der Mathematik und ihrer Grenzgebiete}
+      \field{title}{Sieves in number theory}
+      \field{volume}{43}
+      \field{year}{2001}
+    \endentry
     \entry{Hall-Tenenbaum*88}{book}{}
       \name{author}{2}{}{%
         {{hash=4a0a0032113a38962861013d43bd45f8}{%
