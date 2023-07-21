@@ -1624,6 +1624,36 @@
       \verb 10.4064/cm7792-6-2019
       \endverb
     \endentry
+    \entry{Debaene*19}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0e52589d1388603172fa7889e8ee8d81}{%
+           family={Debaene},
+           familyi={D\bibinitperiod},
+           given={Korneel},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e52589d1388603172fa7889e8ee8d81}
+      \strng{fullhash}{0e52589d1388603172fa7889e8ee8d81}
+      \strng{bibnamehash}{0e52589d1388603172fa7889e8ee8d81}
+      \strng{authorbibnamehash}{0e52589d1388603172fa7889e8ee8d81}
+      \strng{authornamehash}{0e52589d1388603172fa7889e8ee8d81}
+      \strng{authorfullhash}{0e52589d1388603172fa7889e8ee8d81}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1793-0421,1793-7310}
+      \field{journaltitle}{Int. J. Number Theory}
+      \field{number}{5}
+      \field{title}{Explicit counting of ideals and a {B}run-{T}itchmarsh inequality for the {C}hebotarev density theorem}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{pages}{883\bibrangedash 905}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1142/S1793042119500477
+      \endverb
+    \endentry
     \entry{Delange*87}{article}{}
       \name{author}{1}{}{%
         {{hash=a376ba7988e51f9a848757b92bcdc090}{%
@@ -2999,6 +3029,45 @@
       \field{volume}{43}
       \field{year}{2001}
     \endentry
+    \entry{Gun-Ramare-Sivaraman*22b}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e426b9ae1ebc6ce1fb8dd94400131b75}{%
+           family={Gun},
+           familyi={G\bibinitperiod},
+           given={Sanoli},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d6ae4b9844776294c92ff23952e91b53}{%
+           family={Ramaré},
+           familyi={R\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=3e94022f4ccae6ea2bb69f634e447bb5}{%
+           family={Sivaraman},
+           familyi={S\bibinitperiod},
+           given={Jyothsnaa},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{eba5bf8fc51d031b289e6db43efd25b6}
+      \strng{fullhash}{eba5bf8fc51d031b289e6db43efd25b6}
+      \strng{bibnamehash}{eba5bf8fc51d031b289e6db43efd25b6}
+      \strng{authorbibnamehash}{eba5bf8fc51d031b289e6db43efd25b6}
+      \strng{authornamehash}{eba5bf8fc51d031b289e6db43efd25b6}
+      \strng{authorfullhash}{eba5bf8fc51d031b289e6db43efd25b6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-314X,1096-1658}
+      \field{journaltitle}{J. Number Theory}
+      \field{title}{Counting ideals in ray classes}
+      \field{volume}{243}
+      \field{year}{2023}
+      \field{pages}{13\bibrangedash 37}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.jnt.2022.08.005
+      \endverb
+    \endentry
     \entry{Hall-Tenenbaum*88}{book}{}
       \name{author}{2}{}{%
         {{hash=4a0a0032113a38962861013d43bd45f8}{%
@@ -4066,6 +4135,36 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1016/j.jnt.2017.05.002
+      \endverb
+    \endentry
+    \entry{Lee*22}{article}{}
+      \name{author}{1}{}{%
+        {{hash=59726ea2f4cabedd608247c5fa708646}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ethan\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{fullhash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{bibnamehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{authorbibnamehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{authornamehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{authorfullhash}{59726ea2f4cabedd608247c5fa708646}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-247X,1096-0813}
+      \field{journaltitle}{J. Math. Anal. Appl.}
+      \field{number}{1}
+      \field{title}{On the number of integral ideals in a number field}
+      \field{volume}{517}
+      \field{year}{2023}
+      \field{pages}{Paper No. 126585\bibrangessep 25}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.jmaa.2022.126585
       \endverb
     \endentry
     \entry{Lehman*66a}{article}{}
@@ -6727,6 +6826,35 @@
       \field{year}{1970}
       \field{pages}{706\bibrangedash 711}
       \range{pages}{6}
+    \endentry
+    \entry{Sunley*73}{article}{}
+      \name{author}{1}{}{%
+        {{hash=afcff16dc200760a96d8a7801c59d544}{%
+           family={Sunley},
+           familyi={S\bibinitperiod},
+           given={Judith\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{afcff16dc200760a96d8a7801c59d544}
+      \strng{fullhash}{afcff16dc200760a96d8a7801c59d544}
+      \strng{bibnamehash}{afcff16dc200760a96d8a7801c59d544}
+      \strng{authorbibnamehash}{afcff16dc200760a96d8a7801c59d544}
+      \strng{authornamehash}{afcff16dc200760a96d8a7801c59d544}
+      \strng{authorfullhash}{afcff16dc200760a96d8a7801c59d544}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-9947}
+      \field{journaltitle}{Trans. Amer. Math. Soc.}
+      \field{title}{Class numbers of totally imaginary quadratic extensions of totally real fields}
+      \field{volume}{175}
+      \field{year}{1973}
+      \field{pages}{209\bibrangedash 232}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.2307/1996078
+      \endverb
     \endentry
     \entry{Swinnerton-Dyer*74}{article}{}
       \name{author}{1}{}{%

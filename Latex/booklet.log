@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  20 JUL 2023 10:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.22)  21 JUL 2023 07:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1500,7 +1500,7 @@ ed
 l.105  and \cite{Coffey*06}.
                              In particular, we have
 Overfull \hbox (103.40735pt too wide) in paragraph at lines 98--111
-[][]\OT1/cmr/m/n/10 121[][]] and [[][]M. Cof-fey, [][]38[][]]. In par-tic-u-lar
+[][]\OT1/cmr/m/n/10 123[][]] and [[][]M. Cof-fey, [][]38[][]]. In par-tic-u-lar
 , we have $\OML/cmm/m/it/10 ^^M[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@\OT1/cm
 r/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 07281584548367672486058637587490131
 91377 +
@@ -1551,7 +1551,7 @@ l.216 \cite{Levin-Fainleib*67}.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    D
-l.250 ...ere\footnote{\url{../Art14.html#Density}}
+l.250 ...otnote{\url{Articles/Art14.html#Density}}
                                                   .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1560,7 +1560,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    D
-l.250 ...ere\footnote{\url{../Art14.html#Density}}
+l.250 ...otnote{\url{Articles/Art14.html#Density}}
                                                   .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -2223,7 +2223,7 @@ fier (name{Hfootnote.3}) has been already used, duplicate ignored
 l.31 \cite{Louboutin*15}
                         
 Overfull \hbox (14.09077pt too wide) in paragraph at lines 29--33
-\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]133[][]] an-nounces the fol-low-ing lowe
+\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]136[][]] an-nounces the fol-low-ing lowe
 r bound proved in [[][]S. R. Louboutin,
  []
 
@@ -3112,7 +3112,7 @@ l.90 \cite{Greaves*01},
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    a
-l.112 ...so here\footnote{\url{../Art10.html#asy}}
+l.112 ...e\footnote{\url{Articles/Art10.html#asy}}
                                                   .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -3121,7 +3121,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    a
-l.112 ...so here\footnote{\url{../Art10.html#asy}}
+l.112 ...e\footnote{\url{Articles/Art10.html#asy}}
                                                   .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -3157,14 +3157,72 @@ l.26 \cite{Trudgian*13}.
 fier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.52 \cite{Kadiri-Ng*12},
-                         pdfTeX warning (ext4): destination with the same ident
-ifier (name{Hfootnote.6}) has been already used, duplicate ignored
+l.48 \cite{Sunley*73}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \cite{Trudgian*14-1}
-                         
-Overfull \hbox (52.31993pt too wide) in paragraph at lines 60--63
+l.50 \cite{Lee*22}
+                  
+
+LaTeX Warning: Command \O invalid in math mode on input line 61.
+
+[97
+
+]
+Overfull \hbox (25.02621pt too wide) detected at line 73
+\OML/cmm/m/it/10 C\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 K\OT1/cmr/m/n/10 ) = 0\OML/
+cmm/m/it/10 :\OT1/cmr/m/n/10 17[]2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 26[]\OML/cm
+m/m/it/10 e[]n[][]\OT1/cmr/m/n/10 44\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 39[][][][
+]\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 ! + [][]\OML/cmm/m/it/10 :
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.81 \cite{Debaene*19}.
+                       
+! Missing } inserted.
+<inserted text> 
+                }
+l.93   $
+        $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.93   $
+        $
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.100 \cite{Gun-Ramare-Sivaraman*22b}.
+                                      pdfTeX warning (ext4): destination with t
+he same identifier (name{Hfootnote.6}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.111 \cite{Kadiri-Ng*12},
+                          pdfTeX warning (ext4): destination with the same iden
+tifier (name{Hfootnote.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.113 \cite{Trudgian*14-1}
+                          
+Overfull \hbox (52.31993pt too wide) in paragraph at lines 119--122
 []\OT1/cmr/m/n/10 When $\OML/cmm/m/it/10 T \OMS/cmsy/m/n/10 ^^U \OT1/cmr/m/n/10
  1$, we have $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 T\OT1/cmr/m
 /n/10 ) = [] [][]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 d[]\OMS/cmsy/m/n/10 j[][][]
@@ -3173,15 +3231,13 @@ Overfull \hbox (52.31993pt too wide) in paragraph at lines 60--63
 j \OT1/cmr/m/n/10 +
  []
 
-[97
-
-]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6}
-) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
+ has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 \cite{Hasanalizade-Shen-Wong*21}
-                                     
-Overfull \hbox (52.31993pt too wide) in paragraph at lines 73--76
+l.126 \cite{Hasanalizade-Shen-Wong*21}
+                                      
+Overfull \hbox (52.31993pt too wide) in paragraph at lines 132--135
 []\OT1/cmr/m/n/10 When $\OML/cmm/m/it/10 T \OMS/cmsy/m/n/10 ^^U \OT1/cmr/m/n/10
  1$, we have $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 T\OT1/cmr/m
 /n/10 ) = [] [][]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 d[]\OMS/cmsy/m/n/10 j[][][]
@@ -3194,23 +3250,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 \cite{Kadiri*12},
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{Hfootnote.6}) has been already used, duplicate ignored
+l.139 \cite{Kadiri*12},
+                        [98]pdfTeX warning (ext4): destination with the same id
+entifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.100 \cite{Ahn-Kwon*14}
+l.159 \cite{Ahn-Kwon*14}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.106 \cite{Louboutin*17},
+l.165 \cite{Louboutin*17},
                           pdfTeX warning (ext4): destination with the same iden
 tifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.134 \cite{Louboutin*15b},
-                            [98]) [99] [100
+l.193 \cite{Louboutin*15b},
+                           ) [99] [100
 
 ] [101] [102] (./Art13.tex
 Chapter 18.
@@ -3317,12 +3373,12 @@ l.168 From \cite{Louboutin*00}:
 <to be read again> 
                    \relax 
 l.183 From \cite{Louboutin*03}:
-                                [105]pdfTeX warning (ext4): destination with th
-e same identifier (name{Hfootnote.6}) has been already used, duplicate ignored
+                               pdfTeX warning (ext4): destination with the same
+ identifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.220 And a third result from \cite{Louboutin*03}:
-                                                  ) (./Art19.tex [106]
+l.200 Again from \cite{Louboutin*03}:
+                                      [105]) (./Art19.tex [106]
 Chapter 19.
 ) [107
 
@@ -3375,13 +3431,13 @@ Overfull \hbox (0.45438pt too wide) in paragraph at lines 286--286
 . In: \OT1/cmr/m/it/10 arXiv preprint
  []
 
-
+[116]
 Overfull \hbox (0.23302pt too wide) in paragraph at lines 286--286
 \OT1/cmr/m/n/10 garias, Miller, Odlyzko method". In: \OT1/cmr/m/it/10 Math. Com
 p. \OT1/cmr/m/n/10 65.213 (1996), pp. 235{
  []
 
-[116] [117] [118]
+[117] [118]
 Overfull \hbox (11.35666pt too wide) in paragraph at lines 286--286
 [][]\OT1/cmr/m/n/10 W. Gabcke. \  Neue Her-leitung und ex-plizite Restab-schaet
 -zung der Riemann-
@@ -3468,13 +3524,13 @@ Overfull \hbox (9.03731pt too wide) in paragraph at lines 286--286
 e Rie-mann zeta-function".
  []
 
-
+[128]
 Overfull \hbox (1.41916pt too wide) in paragraph at lines 286--286
 [][]\OT1/cmr/m/n/10 E. Trevi~no. \  The Burgess in-equal-ity and the least $\OM
 L/cmm/m/it/10 k$\OT1/cmr/m/n/10 th power non-residue".
  []
 
-[128]
+
 Overfull \hbox (1.6206pt too wide) in paragraph at lines 286--286
 [][]\OT1/cmr/m/n/10 T. Trud-gian. \  An im-proved up-per bound for the er-ror i
 n the zero-counting
@@ -3488,16 +3544,16 @@ OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
 
 [129] [130] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
-(rerunfilecheck)             Checksum: EFCE66CCF41C54E1A9858B4C84C5EB40;18988.
+(rerunfilecheck)             Checksum: CA058241855EC493357C840E639FF93D;19131.
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29865 strings out of 479063
- 547586 string characters out of 5868506
- 1284306 words of memory out of 5000000
- 46948 multiletter control sequences out of 15000+600000
+ 29899 strings out of 479063
+ 548514 string characters out of 5868506
+ 1285595 words of memory out of 5000000
+ 46977 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3542,10 +3598,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (132 pages, 887952 bytes).
+Output written on booklet.pdf (132 pages, 893370 bytes).
 PDF statistics:
- 2452 PDF objects out of 2487 (max. 8388607)
- 2208 compressed objects within 23 object streams
- 471 named destinations out of 1000 (max. 500000)
- 721 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2475 PDF objects out of 2487 (max. 8388607)
+ 2231 compressed objects within 23 object streams
+ 476 named destinations out of 1000 (max. 500000)
+ 729 words of extra memory for PDF output out of 10000 (max. 10000000)
 

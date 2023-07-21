@@ -139,6 +139,10 @@ Scanning Art15.html for keys ...
 Scanning Art18.html for keys ...
  --> Adding Rademacher*59 from Art18.html
  --> Adding Trudgian*13 from Art18.html
+ --> Adding Sunley*73 from Art18.html
+ --> Adding Lee*22 from Art18.html
+ --> Adding Debaene*19 from Art18.html
+ --> Adding Gun-Ramare-Sivaraman*22b from Art18.html
  --> Adding Kadiri-Ng*12 from Art18.html
  --> Adding Trudgian*14-1 from Art18.html
  --> Adding Hasanalizade-Shen-Wong*21 from Art18.html
@@ -401,6 +405,114 @@ Copying Local-TME-EMT.bib to ../Latex directory
 Entering ../Latex directory
 Compile booklet.tex (can be long due to biber!)...Use of uninitialized value in quotemeta at /usr/share/perl5/Biber/Config.pm line 228.
 Use of uninitialized value $tool in concatenation (.) or string at /usr/share/perl5/Biber/Config.pm line 307.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 972.
+Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 977.
+Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
 Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 967.
 Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 967.
 Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config.pm line 972.

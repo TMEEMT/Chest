@@ -277,6 +277,12 @@ De~Koninck, Jean-Marie, \& Letendre, Patrick. 2020.
 \newblock New upper bounds for the number of divisors function.
 \newblock {\em Colloq. Math.}, {\bf 162}(1), 23--52.
 
+\bibitem[\protect\citename{Debaene, }2019]{Debaene*19}
+Debaene, Korneel. 2019.
+\newblock Explicit counting of ideals and a {B}run-{T}itchmarsh inequality for
+  the {C}hebotarev density theorem.
+\newblock {\em Int. J. Number Theory}, {\bf 15}(5), 883--905.
+
 \bibitem[\protect\citename{Delange, }1987]{Delange*87}
 Delange, Hubert. 1987.
 \newblock Une remarque sur la d\'eriv\'ee logarithmique de la fonction z\^eta
@@ -535,6 +541,11 @@ Greaves, {G.} 2001.
 \newblock Springer-Verlag, Berlin.
 \newblock xii+304 pp.
 
+\bibitem[\protect\citename{Gun {\em et~al.}, }2023]{Gun-Ramare-Sivaraman*22b}
+Gun, Sanoli, Ramar\'{e}, Olivier, \& Sivaraman, Jyothsnaa. 2023.
+\newblock Counting ideals in ray classes.
+\newblock {\em J. Number Theory}, {\bf 243}, 13--37.
+
 \bibitem[\protect\citename{Hall \& Tenenbaum, }1988]{Hall-Tenenbaum*88}
 Hall, R., \& Tenenbaum, G. 1988.
 \newblock {\em Divisors}.
@@ -720,6 +731,11 @@ Lapkova, Kostadinka. 2016.
 Lapkova, Kostadinka. 2017.
 \newblock On the average number of divisors of reducible quadratic polynomials.
 \newblock {\em J. Number Theory}, {\bf 180}, 710--729.
+
+\bibitem[\protect\citename{Lee, }2023]{Lee*22}
+Lee, Ethan~S. 2023.
+\newblock On the number of integral ideals in a number field.
+\newblock {\em J. Math. Anal. Appl.}, {\bf 517}(1), Paper No. 126585, 25.
 
 \bibitem[\protect\citename{Lehman, }1966a]{Lehman*66a}
 Lehman, R.~Sherman. 1966a.
@@ -1214,6 +1230,12 @@ Stechkin, S.B. 1989.
 \newblock Rational inequalities and zeros of the {R}iemann zeta-function.
 \newblock {\em Trudy Mat. Inst. Steklov (english translation: in Proc. Steklov
   Inst. Math. 189 (1990))}, {\bf 189}, 127--134.
+
+\bibitem[\protect\citename{Sunley, }1973]{Sunley*73}
+Sunley, Judith~S. 1973.
+\newblock Class numbers of totally imaginary quadratic extensions of totally
+  real fields.
+\newblock {\em Trans. Amer. Math. Soc.}, {\bf 175}, 209--232.
 
 \bibitem[\protect\citename{Swinnerton-Dyer, }1974]{Swinnerton-Dyer*74}
 Swinnerton-Dyer, H.P.F. 1974.

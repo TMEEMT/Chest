@@ -73,8 +73,9 @@
 \contentsline {part}{VIII\hspace {1em}Analytic Number Theory in Number Fields}{95}{part.8}%
 \contentsline {chapter}{\numberline {17} Bounds on the Dedekind zeta-function}{97}{chapter.17}%
 \contentsline {section}{\numberline {17.1}Size }{97}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Zeroes and zero-free regions }{97}{section.17.2}%
-\contentsline {section}{\numberline {17.3}. Real Zeroes.}{99}{section.17.3}%
+\contentsline {section}{\numberline {17.2}Number of ideals}{97}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Zeroes and zero-free regions }{98}{section.17.3}%
+\contentsline {section}{\numberline {17.4}. Real Zeroes.}{99}{section.17.4}%
 \contentsline {part}{IX\hspace {1em}Applications}{101}{part.9}%
 \contentsline {chapter}{\numberline {18} Explicit bounds for class numbers}{103}{chapter.18}%
 \contentsline {section}{\numberline {18.1}Majorising $h_K\mathcal {R}_K$}{103}{section.18.1}%
