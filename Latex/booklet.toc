@@ -2,8 +2,8 @@
 \contentsline {chapter}{\numberline {1} Explicit bounds on primes}{9}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Bounds on primes, in special ranges}{9}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Bounds on primes, without any congruence condition}{10}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Bounds containing $n$-th prime}{14}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Bounds on primes in arithmetic progressions}{16}{section.1.4}%
+\contentsline {section}{\numberline {1.3}Bounds containing $n$-th prime}{13}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Bounds on primes in arithmetic progressions}{15}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Least prime verifying a condition}{17}{section.1.5}%
 \contentsline {chapter}{\numberline {2} Explicit bounds on the Moebius function}{19}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Bounds on $M(D)=\DOTSB \sum@ \slimits@ _{d\le D}\mu (d)$}{19}{section.2.1}%
@@ -14,8 +14,8 @@
 \contentsline {chapter}{\numberline {3} Averages of non-negative multiplicative functions}{25}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Asymptotic estimates}{25}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Upper bounds}{28}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Estimates of some special functions}{30}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Euler products}{34}{section.3.4}%
+\contentsline {section}{\numberline {3.3}Estimates of some special functions}{29}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Euler products}{33}{section.3.4}%
 \contentsline {chapter}{\numberline {4} Explicit pointwise upper bounds for some arithmetic functions}{35}{chapter.4}%
 \contentsline {part}{II\hspace {1em}Exact computations}{37}{part.2}%
 \contentsline {chapter}{\numberline {5} Exact computations of the number of primes}{39}{chapter.5}%
@@ -30,62 +30,53 @@
 \contentsline {section}{\numberline {8.2}L${}^2$-means}{47}{section.8.2}%
 \contentsline {part}{IV\hspace {1em}Exponential sums / points close to curves}{49}{part.4}%
 \contentsline {chapter}{\numberline {9} Explicit results on exponential sums}{51}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Bounds with the first derivative}{51}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Bounds with the second derivative}{51}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Bounds with the third derivative}{52}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Bounds with higher derivatives}{52}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Iterated Van der Corput Inequality}{52}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Explicit Poisson Formula}{53}{section.9.6}%
-\contentsline {chapter}{\numberline {10} Integer Points near Smooth Plane Curves}{55}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Bounds using elementary methods}{56}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Bounds using exponential sums techniques}{57}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Integer points on curves}{57}{section.10.3}%
-\contentsline {part}{V\hspace {1em}Size of $L(1,\chi )$ and character sums }{59}{part.5}%
-\contentsline {chapter}{\numberline {11} Size of $L(1,\chi )$}{61}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Upper bounds for $|L(1,\chi )|$}{61}{section.11.1}%
-\contentsline {section}{\numberline {11.2}Lower bounds for $|L(1,\chi )|$}{61}{section.11.2}%
-\contentsline {chapter}{\numberline {12} Character sums}{63}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Explicit Polya-Vinogradov inequalities}{63}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Burgess type estimates}{64}{section.12.2}%
-\contentsline {part}{VI\hspace {1em}Zeros and zero-free regions}{69}{part.6}%
-\contentsline {chapter}{\numberline {13} Bounds for $|\zeta (s)|$, $|L(s,\chi )|$ and related questions}{71}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Approximating $|\zeta (s)|$ or $L$-series in the}{71}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Size of $|\zeta (s)|$ and of $L$-series}{72}{section.13.2}%
-\contentsline {section}{\numberline {13.3}On the total number of zeroes}{74}{section.13.3}%
-\contentsline {section}{\numberline {13.4}L${}^2$-averages}{75}{section.13.4}%
-\contentsline {section}{\numberline {13.5}Bounds on the real line}{76}{section.13.5}%
-\contentsline {chapter}{\numberline {14} Explicit zero-free regions for the $\zeta $ and $L$ functions}{77}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Numerical verifications of the Generalized Riemann Hypothesis}{77}{section.14.1}%
-\contentsline {section}{\numberline {14.2}Asymptotical zero-free regions}{79}{section.14.2}%
-\contentsline {section}{\numberline {14.3}Real zeros}{80}{section.14.3}%
-\contentsline {section}{\numberline {14.4}Density estimates}{80}{section.14.4}%
-\contentsline {section}{\numberline {14.5}Miscellanae}{81}{section.14.5}%
-\contentsline {part}{VII\hspace {1em}Sieve and short interval results }{83}{part.7}%
-\contentsline {chapter}{\numberline {15} Short intervals containing primes}{85}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Interval with primes, without any congruence condition}{85}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Interval with primes under RH, without any congruence condition}{88}{section.15.2}%
-\contentsline {section}{\numberline {15.3}Interval with primes, with congruence condition}{89}{section.15.3}%
-\contentsline {chapter}{\numberline {16} Sieve bounds}{91}{chapter.16}%
-\contentsline {section}{\numberline {16.1}Some upper bounds}{91}{section.16.1}%
-\contentsline {section}{\numberline {16.2}ensity estimates }{92}{section.16.2}%
-\contentsline {section}{\numberline {16.3}Combinatorial sieve estimates}{92}{section.16.3}%
-\contentsline {section}{\numberline {16.4}Integers free of small prime factors}{93}{section.16.4}%
-\contentsline {part}{VIII\hspace {1em}Analytic Number Theory in Number Fields}{95}{part.8}%
-\contentsline {chapter}{\numberline {17} Bounds on the Dedekind zeta-function}{97}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Size }{97}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Number of ideals}{97}{section.17.2}%
-\contentsline {section}{\numberline {17.3}Zeroes and zero-free regions }{98}{section.17.3}%
-\contentsline {section}{\numberline {17.4}. Real Zeroes.}{99}{section.17.4}%
-\contentsline {part}{IX\hspace {1em}Applications}{101}{part.9}%
-\contentsline {chapter}{\numberline {18} Explicit bounds for class numbers}{103}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Majorising $h_K\mathcal {R}_K$}{103}{section.18.1}%
-\contentsline {section}{\numberline {18.2}Majorising $h_K$}{104}{section.18.2}%
-\contentsline {section}{\numberline {18.3}Using the influence of small primes}{104}{section.18.3}%
-\contentsline {section}{\numberline {18.4}The $h^-_K$ of CM-fields}{105}{section.18.4}%
-\contentsline {chapter}{\numberline {19} Primitive Roots}{107}{chapter.19}%
-\contentsline {part}{X\hspace {1em}Development}{109}{part.10}%
-\contentsline {chapter}{\numberline {20}README}{111}{chapter.20}%
-\contentsline {section}{\numberline {20.1}How to write}{111}{section.20.1}%
-\contentsline {section}{\numberline {20.2}How to contribute}{112}{section.20.2}%
-\contentsline {section}{\numberline {20.3}Adding a part or a chapter}{112}{section.20.3}%
-\contentsline {chapter}{Bibliography}{113}{chapter*.4}%
+\contentsline {chapter}{\numberline {10} Integer Points near Smooth Plane Curves}{53}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Bounds using elementary methods}{54}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Bounds using exponential sums techniques}{55}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Integer points on curves}{55}{section.10.3}%
+\contentsline {part}{V\hspace {1em}Size of $L(1,\chi )$ and character sums }{57}{part.5}%
+\contentsline {chapter}{\numberline {11} Size of $L(1,\chi )$}{59}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Upper bounds for $|L(1,\chi )|$}{59}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Lower bounds for $|L(1,\chi )|$}{59}{section.11.2}%
+\contentsline {chapter}{\numberline {12} Character sums}{61}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Explicit Polya-Vinogradov inequalities}{61}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Burgess type estimates}{62}{section.12.2}%
+\contentsline {part}{VI\hspace {1em}Zeros and zero-free regions}{67}{part.6}%
+\contentsline {chapter}{\numberline {13} Bounds for $|\zeta (s)|$, $|L(s,\chi )|$ and related questions}{69}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Size of $|\zeta (s)|$ and of $L$-series}{69}{section.13.1}%
+\contentsline {section}{\numberline {13.2}On the total number of zeroes}{71}{section.13.2}%
+\contentsline {section}{\numberline {13.3}L${}^2$-averages}{73}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Bounds on the real line}{73}{section.13.4}%
+\contentsline {chapter}{\numberline {14} Explicit zero-free regions for the $\zeta $ and $L$ functions}{75}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Numerical verifications of the Generalized Riemann Hypothesis}{75}{section.14.1}%
+\contentsline {section}{\numberline {14.2}Asymptotical zero-free regions}{77}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Real zeros}{78}{section.14.3}%
+\contentsline {section}{\numberline {14.4}Density estimates}{78}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Miscellanae}{79}{section.14.5}%
+\contentsline {part}{VII\hspace {1em}Sieve and short interval results }{81}{part.7}%
+\contentsline {chapter}{\numberline {15} Short intervals containing primes}{83}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Interval with primes, without any congruence condition}{83}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Interval with primes under RH, without any congruence condition}{86}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Interval with primes, with congruence condition}{87}{section.15.3}%
+\contentsline {chapter}{\numberline {16} Sieve bounds}{89}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Some upper bounds}{89}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Combinatorial sieve estimates}{90}{section.16.2}%
+\contentsline {section}{\numberline {16.3}Integers free of small prime factors}{90}{section.16.3}%
+\contentsline {part}{VIII\hspace {1em}Analytic Number Theory in Number Fields}{91}{part.8}%
+\contentsline {chapter}{\numberline {17} Bounds on the Dedekind zeta-function}{93}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Size }{93}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Zeroes and zero-free regions }{93}{section.17.2}%
+\contentsline {section}{\numberline {17.3}. Real Zeroes.}{95}{section.17.3}%
+\contentsline {part}{IX\hspace {1em}Applications}{97}{part.9}%
+\contentsline {chapter}{\numberline {18} Explicit bounds for class numbers}{99}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Majorising $h_K\mathcal {R}_K$}{99}{section.18.1}%
+\contentsline {section}{\numberline {18.2}Majorising $h_K$}{100}{section.18.2}%
+\contentsline {section}{\numberline {18.3}Using the influence of small primes}{100}{section.18.3}%
+\contentsline {section}{\numberline {18.4}The $h^-_K$ of CM-fields}{101}{section.18.4}%
+\contentsline {chapter}{\numberline {19} Primitive Roots}{103}{chapter.19}%
+\contentsline {part}{X\hspace {1em}Development}{105}{part.10}%
+\contentsline {chapter}{\numberline {20}README}{107}{chapter.20}%
+\contentsline {section}{\numberline {20.1}How to write}{107}{section.20.1}%
+\contentsline {section}{\numberline {20.2}How to contribute}{108}{section.20.2}%
+\contentsline {section}{\numberline {20.3}Adding a part or a chapter}{108}{section.20.3}%
+\contentsline {chapter}{Bibliography}{109}{chapter*.4}%

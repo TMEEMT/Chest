@@ -59,36 +59,6 @@
       \verb http://dx.doi.org/10.1016/j.jnt.2014.06.008
       \endverb
     \endentry
-    \entry{Reyna*11}{article}{}
-      \name{author}{1}{}{%
-        {{hash=a4e45a90fc7ff0933275ec199d72a85d}{%
-           family={Arias\bibnamedelimb de\bibnamedelima Reyna},
-           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim R\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{a4e45a90fc7ff0933275ec199d72a85d}
-      \strng{fullhash}{a4e45a90fc7ff0933275ec199d72a85d}
-      \strng{bibnamehash}{a4e45a90fc7ff0933275ec199d72a85d}
-      \strng{authorbibnamehash}{a4e45a90fc7ff0933275ec199d72a85d}
-      \strng{authornamehash}{a4e45a90fc7ff0933275ec199d72a85d}
-      \strng{authorfullhash}{a4e45a90fc7ff0933275ec199d72a85d}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0025-5718,1088-6842}
-      \field{journaltitle}{Math. Comp.}
-      \field{number}{274}
-      \field{title}{High precision computation of {R}iemann's zeta function by the {R}iemann-{S}iegel formula, {I}}
-      \field{volume}{80}
-      \field{year}{2011}
-      \field{pages}{995\bibrangedash 1009}
-      \range{pages}{15}
-      \verb{doi}
-      \verb 10.1090/S0025-5718-2010-02426-3
-      \endverb
-    \endentry
     \entry{Axler*16}{article}{}
       \name{author}{1}{}{%
         {{hash=44643bbaa654b8fb89d8d68f8c7a7b82}{%
@@ -1624,36 +1594,6 @@
       \verb 10.4064/cm7792-6-2019
       \endverb
     \endentry
-    \entry{Debaene*19}{article}{}
-      \name{author}{1}{}{%
-        {{hash=0e52589d1388603172fa7889e8ee8d81}{%
-           family={Debaene},
-           familyi={D\bibinitperiod},
-           given={Korneel},
-           giveni={K\bibinitperiod}}}%
-      }
-      \strng{namehash}{0e52589d1388603172fa7889e8ee8d81}
-      \strng{fullhash}{0e52589d1388603172fa7889e8ee8d81}
-      \strng{bibnamehash}{0e52589d1388603172fa7889e8ee8d81}
-      \strng{authorbibnamehash}{0e52589d1388603172fa7889e8ee8d81}
-      \strng{authornamehash}{0e52589d1388603172fa7889e8ee8d81}
-      \strng{authorfullhash}{0e52589d1388603172fa7889e8ee8d81}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1793-0421,1793-7310}
-      \field{journaltitle}{Int. J. Number Theory}
-      \field{number}{5}
-      \field{title}{Explicit counting of ideals and a {B}run-{T}itchmarsh inequality for the {C}hebotarev density theorem}
-      \field{volume}{15}
-      \field{year}{2019}
-      \field{pages}{883\bibrangedash 905}
-      \range{pages}{23}
-      \verb{doi}
-      \verb 10.1142/S1793042119500477
-      \endverb
-    \endentry
     \entry{Delange*87}{article}{}
       \name{author}{1}{}{%
         {{hash=a376ba7988e51f9a848757b92bcdc090}{%
@@ -3002,72 +2942,6 @@
       \verb :/home/ramare/tex/Other/Granville/L1chi.ps:PostScript
       \endverb
     \endentry
-    \entry{Greaves*01}{book}{}
-      \name{author}{1}{}{%
-        {{hash=122027de1c7fa56ed5495816eadd7ceb}{%
-           family={Greaves},
-           familyi={G\bibinitperiod},
-           given={{G.}},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer-Verlag, Berlin}%
-      }
-      \strng{namehash}{122027de1c7fa56ed5495816eadd7ceb}
-      \strng{fullhash}{122027de1c7fa56ed5495816eadd7ceb}
-      \strng{bibnamehash}{122027de1c7fa56ed5495816eadd7ceb}
-      \strng{authorbibnamehash}{122027de1c7fa56ed5495816eadd7ceb}
-      \strng{authornamehash}{122027de1c7fa56ed5495816eadd7ceb}
-      \strng{authorfullhash}{122027de1c7fa56ed5495816eadd7ceb}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{xii+304 pp}
-      \field{series}{Ergebnisse der Mathematik und ihrer Grenzgebiete}
-      \field{title}{Sieves in number theory}
-      \field{volume}{43}
-      \field{year}{2001}
-    \endentry
-    \entry{Gun-Ramare-Sivaraman*22b}{article}{}
-      \name{author}{3}{}{%
-        {{hash=e426b9ae1ebc6ce1fb8dd94400131b75}{%
-           family={Gun},
-           familyi={G\bibinitperiod},
-           given={Sanoli},
-           giveni={S\bibinitperiod}}}%
-        {{hash=d6ae4b9844776294c92ff23952e91b53}{%
-           family={Ramaré},
-           familyi={R\bibinitperiod},
-           given={Olivier},
-           giveni={O\bibinitperiod}}}%
-        {{hash=3e94022f4ccae6ea2bb69f634e447bb5}{%
-           family={Sivaraman},
-           familyi={S\bibinitperiod},
-           given={Jyothsnaa},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{eba5bf8fc51d031b289e6db43efd25b6}
-      \strng{fullhash}{eba5bf8fc51d031b289e6db43efd25b6}
-      \strng{bibnamehash}{eba5bf8fc51d031b289e6db43efd25b6}
-      \strng{authorbibnamehash}{eba5bf8fc51d031b289e6db43efd25b6}
-      \strng{authornamehash}{eba5bf8fc51d031b289e6db43efd25b6}
-      \strng{authorfullhash}{eba5bf8fc51d031b289e6db43efd25b6}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-314X,1096-1658}
-      \field{journaltitle}{J. Number Theory}
-      \field{title}{Counting ideals in ray classes}
-      \field{volume}{243}
-      \field{year}{2023}
-      \field{pages}{13\bibrangedash 37}
-      \range{pages}{25}
-      \verb{doi}
-      \verb 10.1016/j.jnt.2022.08.005
-      \endverb
-    \endentry
     \entry{Hall-Tenenbaum*88}{book}{}
       \name{author}{2}{}{%
         {{hash=4a0a0032113a38962861013d43bd45f8}{%
@@ -3585,41 +3459,6 @@
       \field{pages}{500\bibrangedash 518}
       \range{pages}{19}
     \endentry
-    \entry{Johnston-Yang*23}{article}{}
-      \name{author}{2}{}{%
-        {{hash=584ae3c384fb6ae61107c1e1894b520b}{%
-           family={Johnston},
-           familyi={J\bibinitperiod},
-           given={Daniel\bibnamedelima R.},
-           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{hash=7f75a6430a2dbbf55b57333ce0528813}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{8c04a484fe3809891ea26e4ffbad2821}
-      \strng{fullhash}{8c04a484fe3809891ea26e4ffbad2821}
-      \strng{bibnamehash}{8c04a484fe3809891ea26e4ffbad2821}
-      \strng{authorbibnamehash}{8c04a484fe3809891ea26e4ffbad2821}
-      \strng{authornamehash}{8c04a484fe3809891ea26e4ffbad2821}
-      \strng{authorfullhash}{8c04a484fe3809891ea26e4ffbad2821}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-247X,1096-0813}
-      \field{journaltitle}{J. Math. Anal. Appl.}
-      \field{number}{2}
-      \field{title}{Some explicit estimates for the error term in the prime number theorem}
-      \field{volume}{527}
-      \field{year}{2023}
-      \field{pages}{Paper No. 127460}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.jmaa.2023.127460
-      \endverb
-    \endentry
     \entry{Kadiri*13}{article}{}
       \name{author}{1}{}{%
         {{hash=9b839dce71698a938552e89889ac0c9a}{%
@@ -3908,41 +3747,6 @@
       \verb 10.1016/j.jmaa.2018.04.071
       \endverb
     \endentry
-    \entry{Karatsuba-Korolev*07}{article}{}
-      \name{author}{2}{}{%
-        {{hash=1ad9cfd8df25881b7891382dee75005c}{%
-           family={Karatsuba},
-           familyi={K\bibinitperiod},
-           given={A.\bibnamedelimi A.},
-           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4f7aeb8542b0eaf6e7efafd2e61f9312}{%
-           family={Korolëv},
-           familyi={K\bibinitperiod},
-           given={M.\bibnamedelimi A.},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{19821daf894d0a8454b7b83cac8bbccb}
-      \strng{fullhash}{19821daf894d0a8454b7b83cac8bbccb}
-      \strng{bibnamehash}{19821daf894d0a8454b7b83cac8bbccb}
-      \strng{authorbibnamehash}{19821daf894d0a8454b7b83cac8bbccb}
-      \strng{authornamehash}{19821daf894d0a8454b7b83cac8bbccb}
-      \strng{authorfullhash}{19821daf894d0a8454b7b83cac8bbccb}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0869-5652}
-      \field{journaltitle}{Dokl. Akad. Nauk}
-      \field{number}{2}
-      \field{title}{Approximation of a trigonometric sum by a shorter one}
-      \field{volume}{412}
-      \field{year}{2007}
-      \field{pages}{159\bibrangedash 161}
-      \range{pages}{3}
-      \verb{doi}
-      \verb 10.1134/S1064562407010115
-      \endverb
-    \endentry
     \entry{Kotnik-VanDeLune*04}{article}{}
       \name{author}{2}{}{%
         {{hash=9491eb14d70047b89ad523bb740e7125}{%
@@ -4135,36 +3939,6 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1016/j.jnt.2017.05.002
-      \endverb
-    \endentry
-    \entry{Lee*22}{article}{}
-      \name{author}{1}{}{%
-        {{hash=59726ea2f4cabedd608247c5fa708646}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={Ethan\bibnamedelima S.},
-           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{59726ea2f4cabedd608247c5fa708646}
-      \strng{fullhash}{59726ea2f4cabedd608247c5fa708646}
-      \strng{bibnamehash}{59726ea2f4cabedd608247c5fa708646}
-      \strng{authorbibnamehash}{59726ea2f4cabedd608247c5fa708646}
-      \strng{authornamehash}{59726ea2f4cabedd608247c5fa708646}
-      \strng{authorfullhash}{59726ea2f4cabedd608247c5fa708646}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-247X,1096-0813}
-      \field{journaltitle}{J. Math. Anal. Appl.}
-      \field{number}{1}
-      \field{title}{On the number of integral ideals in a number field}
-      \field{volume}{517}
-      \field{year}{2023}
-      \field{pages}{Paper No. 126585\bibrangessep 25}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.jmaa.2022.126585
       \endverb
     \endentry
     \entry{Lehman*66a}{article}{}
@@ -5466,36 +5240,6 @@
       \field{year}{2000}
       \field{pages}{55\bibrangedash 56}
       \range{pages}{2}
-    \endentry
-    \entry{Patel*22}{article}{}
-      \name{author}{1}{}{%
-        {{hash=40f3ec557d07b23f5b7ce1ab61375156}{%
-           family={Patel},
-           familyi={P\bibinitperiod},
-           given={Dhir},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{40f3ec557d07b23f5b7ce1ab61375156}
-      \strng{fullhash}{40f3ec557d07b23f5b7ce1ab61375156}
-      \strng{bibnamehash}{40f3ec557d07b23f5b7ce1ab61375156}
-      \strng{authorbibnamehash}{40f3ec557d07b23f5b7ce1ab61375156}
-      \strng{authornamehash}{40f3ec557d07b23f5b7ce1ab61375156}
-      \strng{authorfullhash}{40f3ec557d07b23f5b7ce1ab61375156}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0019-3577,1872-6100}
-      \field{journaltitle}{Indag. Math. (N.S.)}
-      \field{number}{5}
-      \field{title}{An explicit upper bound for {$|\zeta (1+it) |$}}
-      \field{volume}{33}
-      \field{year}{2022}
-      \field{pages}{1012\bibrangedash 1032}
-      \range{pages}{21}
-      \verb{doi}
-      \verb 10.1016/j.indag.2022.04.007
-      \endverb
     \endentry
     \entry{Platt*11}{thesis}{}
       \name{author}{1}{}{%
@@ -6827,35 +6571,6 @@
       \field{pages}{706\bibrangedash 711}
       \range{pages}{6}
     \endentry
-    \entry{Sunley*73}{article}{}
-      \name{author}{1}{}{%
-        {{hash=afcff16dc200760a96d8a7801c59d544}{%
-           family={Sunley},
-           familyi={S\bibinitperiod},
-           given={Judith\bibnamedelima S.},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \strng{namehash}{afcff16dc200760a96d8a7801c59d544}
-      \strng{fullhash}{afcff16dc200760a96d8a7801c59d544}
-      \strng{bibnamehash}{afcff16dc200760a96d8a7801c59d544}
-      \strng{authorbibnamehash}{afcff16dc200760a96d8a7801c59d544}
-      \strng{authornamehash}{afcff16dc200760a96d8a7801c59d544}
-      \strng{authorfullhash}{afcff16dc200760a96d8a7801c59d544}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0002-9947}
-      \field{journaltitle}{Trans. Amer. Math. Soc.}
-      \field{title}{Class numbers of totally imaginary quadratic extensions of totally real fields}
-      \field{volume}{175}
-      \field{year}{1973}
-      \field{pages}{209\bibrangedash 232}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.2307/1996078
-      \endverb
-    \endentry
     \entry{Swinnerton-Dyer*74}{article}{}
       \name{author}{1}{}{%
         {{hash=ef2724f990d0e7d6c590a2e56befd51e}{%
@@ -7005,7 +6720,7 @@
       \verb 10.1090/S0025-5718-2012-02579-8
       \endverb
     \endentry
-    \entry{Trudgian*14-1}{article}{}
+    \entry{Trudgian*12b}{article}{}
       \name{author}{1}{}{%
         {{hash=98fbc149f6c8fe3722fe4f2d90edce38}{%
            family={Trudgian},
@@ -7020,6 +6735,29 @@
       \strng{authornamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \strng{authorfullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://arxiv.org/abs/1210.6743}}
+      \field{title}{A new upper bound for $|\zeta(1+it)|$}
+      \field{year}{2012}
+    \endentry
+    \entry{Trudgian*14-1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=98fbc149f6c8fe3722fe4f2d90edce38}{%
+           family={Trudgian},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{98fbc149f6c8fe3722fe4f2d90edce38}
+      \strng{fullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
+      \strng{bibnamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
+      \strng{authorbibnamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
+      \strng{authornamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
+      \strng{authorfullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
+      \field{extraname}{2}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -7056,7 +6794,7 @@
       \strng{authorbibnamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \strng{authornamehash}{98fbc149f6c8fe3722fe4f2d90edce38}
       \strng{authorfullhash}{98fbc149f6c8fe3722fe4f2d90edce38}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -7093,7 +6831,7 @@
       \strng{authorbibnamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authornamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authorfullhash}{af8f95636cfb8ee32db62432b50fcea2}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -7123,7 +6861,7 @@
       \strng{authorbibnamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authornamehash}{af8f95636cfb8ee32db62432b50fcea2}
       \strng{authorfullhash}{af8f95636cfb8ee32db62432b50fcea2}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labelnamesource}{author}
@@ -7144,37 +6882,6 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1007/s11139-014-9656-6
-      \endverb
-    \endentry
-    \entry{Trudgian*12b}{article}{}
-      \name{author}{1}{}{%
-        {{hash=427a3ba3d2c76d68bc8c1bfc231edce0}{%
-           family={Trudgian},
-           familyi={T\bibinitperiod},
-           given={Timothy},
-           giveni={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
-      \strng{fullhash}{427a3ba3d2c76d68bc8c1bfc231edce0}
-      \strng{bibnamehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
-      \strng{authorbibnamehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
-      \strng{authornamehash}{427a3ba3d2c76d68bc8c1bfc231edce0}
-      \strng{authorfullhash}{427a3ba3d2c76d68bc8c1bfc231edce0}
-      \field{extraname}{5}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0004-9727,1755-1633}
-      \field{journaltitle}{Bull. Aust. Math. Soc.}
-      \field{number}{2}
-      \field{title}{A new upper bound for {$|\zeta(1+it)|$}}
-      \field{volume}{89}
-      \field{year}{2014}
-      \field{pages}{259\bibrangedash 264}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1017/S0004972713000415
       \endverb
     \endentry
     \entry{Trudgian*13}{article}{}

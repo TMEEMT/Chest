@@ -5,12 +5,6 @@ Ahn, Jeoung-Hwan, \& Kwon, Soun-Hi. 2014.
 \newblock Some explicit zero-free regions for {H}ecke {$L$}-functions.
 \newblock {\em J. Number Theory}, {\bf 145}, 433--473.
 
-\bibitem[\protect\citename{Arias~de Reyna, }2011]{Reyna*11}
-Arias~de Reyna, J. 2011.
-\newblock High precision computation of {R}iemann's zeta function by the
-  {R}iemann-{S}iegel formula, {I}.
-\newblock {\em Math. Comp.}, {\bf 80}(274), 995--1009.
-
 \bibitem[\protect\citename{Axler, }2016]{Axler*16}
 Axler, Christian. 2016.
 \newblock New bounds for the prime counting function.
@@ -277,12 +271,6 @@ De~Koninck, Jean-Marie, \& Letendre, Patrick. 2020.
 \newblock New upper bounds for the number of divisors function.
 \newblock {\em Colloq. Math.}, {\bf 162}(1), 23--52.
 
-\bibitem[\protect\citename{Debaene, }2019]{Debaene*19}
-Debaene, Korneel. 2019.
-\newblock Explicit counting of ideals and a {B}run-{T}itchmarsh inequality for
-  the {C}hebotarev density theorem.
-\newblock {\em Int. J. Number Theory}, {\bf 15}(5), 883--905.
-
 \bibitem[\protect\citename{Delange, }1987]{Delange*87}
 Delange, Hubert. 1987.
 \newblock Une remarque sur la d\'eriv\'ee logarithmique de la fonction z\^eta
@@ -534,18 +522,6 @@ Granville, A., \& Soundararajan, K. 2007.
   {P}\'olya-{V}inogradov theorem.
 \newblock {\em J. Amer. Math. Soc.}, {\bf 20}(2), 357--384 (electronic).
 
-\bibitem[\protect\citename{Greaves, }2001]{Greaves*01}
-Greaves, {G.} 2001.
-\newblock {\em Sieves in number theory}.
-\newblock Ergebnisse der Mathematik und ihrer Grenzgebiete, vol. 43.
-\newblock Springer-Verlag, Berlin.
-\newblock xii+304 pp.
-
-\bibitem[\protect\citename{Gun {\em et~al.}, }2023]{Gun-Ramare-Sivaraman*22b}
-Gun, Sanoli, Ramar\'{e}, Olivier, \& Sivaraman, Jyothsnaa. 2023.
-\newblock Counting ideals in ray classes.
-\newblock {\em J. Number Theory}, {\bf 243}, 13--37.
-
 \bibitem[\protect\citename{Hall \& Tenenbaum, }1988]{Hall-Tenenbaum*88}
 Hall, R., \& Tenenbaum, G. 1988.
 \newblock {\em Divisors}.
@@ -636,12 +612,6 @@ Jarn\'{i}k, V. 1925.
 \newblock {\"Uber die Gitterpunkte auf konvexen Kurven}.
 \newblock {\em Math. Z.}, {\bf 24}, 500--518.
 
-\bibitem[\protect\citename{Johnston \& Yang, }2023]{Johnston-Yang*23}
-Johnston, Daniel~R., \& Yang, Andrew. 2023.
-\newblock Some explicit estimates for the error term in the prime number
-  theorem.
-\newblock {\em J. Math. Anal. Appl.}, {\bf 527}(2), Paper No. 127460.
-
 \bibitem[\protect\citename{Kadiri, }2002]{Kadiri*02}
 Kadiri, H. 2002.
 \newblock {\em Une r\'egion explicite sans z\'eros pour les fonctions {$L$} de
@@ -693,12 +663,6 @@ Kadiri, Habiba, Lumley, Allysa, \& Ng, Nathan. 2018.
 \newblock Explicit zero density for the {R}iemann zeta function.
 \newblock {\em J. Math. Anal. Appl.}, {\bf 465}(1), 22--46.
 
-\bibitem[\protect\citename{Karatsuba \& Korol\"{e}v,
-  }2007]{Karatsuba-Korolev*07}
-Karatsuba, A.~A., \& Korol\"{e}v, M.~A. 2007.
-\newblock Approximation of a trigonometric sum by a shorter one.
-\newblock {\em Dokl. Akad. Nauk}, {\bf 412}(2), 159--161.
-
 \bibitem[\protect\citename{Kotnik \& van~de Lune, }2004]{Kotnik-VanDeLune*04}
 Kotnik, Tadej, \& van~de Lune, Jan. 2004.
 \newblock On the order of the {M}ertens function.
@@ -731,11 +695,6 @@ Lapkova, Kostadinka. 2016.
 Lapkova, Kostadinka. 2017.
 \newblock On the average number of divisors of reducible quadratic polynomials.
 \newblock {\em J. Number Theory}, {\bf 180}, 710--729.
-
-\bibitem[\protect\citename{Lee, }2023]{Lee*22}
-Lee, Ethan~S. 2023.
-\newblock On the number of integral ideals in a number field.
-\newblock {\em J. Math. Anal. Appl.}, {\bf 517}(1), Paper No. 126585, 25.
 
 \bibitem[\protect\citename{Lehman, }1966a]{Lehman*66a}
 Lehman, R.~Sherman. 1966a.
@@ -969,11 +928,6 @@ P., Akhilesh, \& Ramar\'e, O. 2017.
 Panaitopol, L. 2000.
 \newblock A formula for {$\pi(x)$} applied to a result of {K}oninck-{I}vi\'c.
 \newblock {\em Nieuw Arch. Wiskd. (5)}, {\bf 1}(1), 55--56.
-
-\bibitem[\protect\citename{Patel, }2022]{Patel*22}
-Patel, Dhir. 2022.
-\newblock An explicit upper bound for {$|\zeta (1+it) |$}.
-\newblock {\em Indag. Math. (N.S.)}, {\bf 33}(5), 1012--1032.
 
 \bibitem[\protect\citename{Platt \& Trudgian, }2021a]{Platt-Trudgian*21a}
 Platt, Dave, \& Trudgian, Tim. 2021a.
@@ -1231,12 +1185,6 @@ Stechkin, S.B. 1989.
 \newblock {\em Trudy Mat. Inst. Steklov (english translation: in Proc. Steklov
   Inst. Math. 189 (1990))}, {\bf 189}, 127--134.
 
-\bibitem[\protect\citename{Sunley, }1973]{Sunley*73}
-Sunley, Judith~S. 1973.
-\newblock Class numbers of totally imaginary quadratic extensions of totally
-  real fields.
-\newblock {\em Trans. Amer. Math. Soc.}, {\bf 175}, 209--232.
-
 \bibitem[\protect\citename{Swinnerton-Dyer, }1974]{Swinnerton-Dyer*74}
 Swinnerton-Dyer, H.P.F. 1974.
 \newblock {The number of lattice points on a convex curve}.
@@ -1267,6 +1215,11 @@ Trudgian, T. 2011.
 \newblock Improvements to {T}uring's method.
 \newblock {\em Math. Comp.}, {\bf 80}(276), 2259--2279.
 
+\bibitem[\protect\citename{Trudgian, }2012]{Trudgian*12b}
+Trudgian, T. 2012.
+\newblock A new upper bound for $|\zeta(1+it)|$.
+\newblock \url{http://arxiv.org/abs/1210.6743}.
+
 \bibitem[\protect\citename{Trudgian, }2015a]{Trudgian*14-1}
 Trudgian, T. 2015a.
 \newblock An improved upper bound for the error in the zero-counting formulae
@@ -1284,13 +1237,8 @@ Trudgian, Tim. 2016.
 \newblock Updating the error term in the prime number theorem.
 \newblock {\em Ramanujan J.}, {\bf 39}(2), 225--234.
 
-\bibitem[\protect\citename{Trudgian, }2014a]{Trudgian*12b}
-Trudgian, Timothy. 2014a.
-\newblock A new upper bound for {$|\zeta(1+it)|$}.
-\newblock {\em Bull. Aust. Math. Soc.}, {\bf 89}(2), 259--264.
-
-\bibitem[\protect\citename{Trudgian, }2014b]{Trudgian*13}
-Trudgian, Timothy~S. 2014b.
+\bibitem[\protect\citename{Trudgian, }2014]{Trudgian*13}
+Trudgian, Timothy~S. 2014.
 \newblock An improved upper bound for the argument of the {R}iemann
   zeta-function on the critical line {II}.
 \newblock {\em J. Number Theory}, {\bf 134}, 280--292.

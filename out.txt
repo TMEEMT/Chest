@@ -6401,3 +6401,8 @@ Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config
 Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
 done.
 Back to ../Biblio directory
+[main 36d3325] NbFields
+ 7 files changed, 31 insertions(+), 54 deletions(-)
+ rewrite Latex/booklet.blg (63%)
+To https://github.com/TMEEMT/Chest.git
+   6b9649c..36d3325  main -> main
