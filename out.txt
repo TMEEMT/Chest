@@ -4,239 +4,6 @@ Value of <HANDLE> construct can be "0"; test with defined() at UpDateBiblio.pl l
 Copying the new bib-file from ../GlobalBiblioFile/Global.bib ...
 done.
 Build RefToBeProcessed.txt...
-Scanning Art13.html for keys ...
- --> Adding Louboutin*00 from Art13.html
- --> Adding Louboutin*01 from Art13.html
- --> Adding Ramare*01 from Art13.html
- --> Adding Ramare*01 from Art13.html
- --> Adding Pohst-Zassenhaus*89 from Art13.html
- --> Adding Bordelles*02 from Art13.html
- --> Adding Bordelles*06 from Art13.html
- --> Adding Cully-Trudgian*21 from Art13.html
- --> Adding Louboutin*05 from Art13.html
- --> Adding Louboutin*05 from Art13.html
- --> Adding Louboutin*00 from Art13.html
- --> Adding Louboutin*03 from Art13.html
- --> Adding Louboutin*03 from Art13.html
- --> Adding Louboutin*03 from Art13.html
-Scanning Art05.html for keys ...
- --> Adding Daboussi-Rivat*01 from Art05.html
- --> Adding Cheng-Graham*01 from Art05.html
- --> Adding Patel*22 from Art05.html
- --> Adding Hiary*16 from Art05.html
- --> Adding Patel*22 from Art05.html
- --> Adding Patel*22 from Art05.html
- --> Adding Granville-Ramare*96 from Art05.html
- --> Adding Karatsuba-Korolev*07 from Art05.html
-Scanning Art11.html for keys ...
- --> Adding Filaseta*90 from Art11.html
- --> Adding Filaseta-Trifonov*96 from Art11.html
- --> Adding Huxley*96 from Art11.html
- --> Adding Huxley-Sargos*95 from Art11.html
- --> Adding Huxley-Sargos*06 from Art11.html
- --> Adding Huxley-Trifonov*96 from Art11.html
- --> Adding Vinogradov*54 from Art11.html
- --> Adding Bordelles*12 from Art11.html
- --> Adding Huxley*96 from Art11.html
- --> Adding Bordelles*12 from Art11.html
- --> Adding Huxley-Sargos*95 from Art11.html
- --> Adding Huxley-Sargos*06 from Art11.html
- --> Adding Bordelles*12 from Art11.html
- --> Adding Graham-Kolesnik*91 from Art11.html
- --> Adding Filaseta*90 from Art11.html
- --> Adding Jarnik*25 from Art11.html
- --> Adding Swinnerton-Dyer*74 from Art11.html
- --> Adding Bombieri-Pila*89 from Art11.html
-Scanning Art17.html for keys ...
- --> Adding Ramare*07a from Art17.html
- --> Adding Ramare*14-6 from Art17.html
- --> Adding Montgomery*94 from Art17.html
- --> Adding Logan*88 from Art17.html
- --> Adding Montgomery-Vaughan*74 from Art17.html
- --> Adding Preissmann*84 from Art17.html
- --> Adding Ramare*13d from Art17.html
- --> Adding Ramare*13d from Art17.html
- --> Adding Gallagher*70 from Art17.html
-Scanning Art04.html for keys ...
- --> Adding Cazaran-Moree*99 from Art04.html
- --> Adding Moree*12 from Art04.html
-Scanning Art14.html for keys ...
- --> Adding Montgomery-Vaughan*73 from Art14.html
- --> Adding Buethe*14 from Art14.html
- --> Adding Ramare*13a from Art14.html
- --> Adding Siebert*76 from Art14.html
- --> Adding Greaves*01 from Art14.html
- --> Adding Nathanson*96-2 from Art14.html
- --> Adding Fan*22 from Art14.html
-Scanning Art12.html for keys ...
- --> Adding Robin*83-1 from Art12.html
- --> Adding Nicolas-Robin*83 from Art12.html
- --> Adding Robin*83-0 from Art12.html
- --> Adding Duras*93 from Art12.html
- --> Adding Duras-Nicolas-Robin*99 from Art12.html
- --> Adding Nicolas*08 from Art12.html
- --> Adding Ivic*77 from Art12.html
- --> Adding Eum-Koo*15 from Art12.html
- --> Adding Washington-Yang*21 from Art12.html
-Scanning Art03.html for keys ...
- --> Adding Deleglise-Rivat*96-1 from Art03.html
- --> Adding Deleglise-Rivat*98 from Art03.html
- --> Adding Platt*11 from Art03.html
-Scanning Art08.html for keys ...
- --> Adding Lune-Riele-Winter*86 from Art08.html
- --> Adding Platt*11 from Art08.html
- --> Adding Platt*17 from Art08.html
- --> Adding Wedeniwski*02 from Art08.html
- --> Adding Gourdon-Demichel*04 from Art08.html
- --> Adding Platt-Trudgian*21a from Art08.html
- --> Adding Gabcke*79 from Art08.html
- --> Adding Rumely*93 from Art08.html
- --> Adding Bennett*01 from Art08.html
- --> Adding Platt*11 from Art08.html
- --> Adding Platt*13 from Art08.html
- --> Adding Omar*01 from Art08.html
- --> Adding Rosser*38 from Art08.html
- --> Adding Rosser-Schoenfeld*75 from Art08.html
- --> Adding Stechkin*70 from Art08.html
- --> Adding Ramare-Rumely*96 from Art08.html
- --> Adding Stechkin*89 from Art08.html
- --> Adding Kadiri*02 from Art08.html
- --> Adding Kadiri*05 from Art08.html
- --> Adding Jang-Kwon*14 from Art08.html
- --> Adding Mossinghoff-Trudgian*15 from Art08.html
- --> Adding McCurley*84-1 from Art08.html
- --> Adding Rosser-Schoenfeld*75 from Art08.html
- --> Adding Kadiri*02 from Art08.html
- --> Adding Kadiri*02-2 from Art08.html
- --> Adding Kadiri*18 from Art08.html
- --> Adding Ford*01 from Art08.html
- --> Adding Kadiri*12 from Art08.html
- --> Adding Rosser*49 from Art08.html
- --> Adding Rosser*50 from Art08.html
- --> Adding Chua*05 from Art08.html
- --> Adding Watkins*00-1 from Art08.html
- --> Adding Chen-Wang*89-2 from Art08.html
- --> Adding Liu-Wang*02-1 from Art08.html
- --> Adding Kadiri-Ng*12 from Art08.html
- --> Adding Kadiri*13 from Art08.html
- --> Adding Ramare*13d from Art08.html
- --> Adding Kadiri-Lumley-Ng*18 from Art08.html
-Scanning Art15.html for keys ...
- --> Adding Qiu*91 from Art15.html
- --> Adding Bachman-Rachakonda*01 from Art15.html
- --> Adding Frolenkov*11 from Art15.html
- --> Adding Frolenkov-Soundararajan*13 from Art15.html
- --> Adding Pomerance*11 from Art15.html
- --> Adding Landau*18-3 from Art15.html
- --> Adding Granville-Soundararajan*07 from Art15.html
- --> Adding Granville-Soundararajan*07 from Art15.html
- --> Adding Bordignon-Kerr*20 from Art15.html
- --> Adding Bordignon*21 from Art15.html
- --> Adding Trevino*15-2 from Art15.html
- --> Adding McGown*12 from Art15.html
- --> Adding Booker*06 from Art15.html
- --> Adding Jain-Sharma-Khale-Liu*21 from Art15.html
-Scanning Art18.html for keys ...
- --> Adding Rademacher*59 from Art18.html
- --> Adding Trudgian*13 from Art18.html
- --> Adding Sunley*73 from Art18.html
- --> Adding Lee*22 from Art18.html
- --> Adding Debaene*19 from Art18.html
- --> Adding Gun-Ramare-Sivaraman*22b from Art18.html
- --> Adding Kadiri-Ng*12 from Art18.html
- --> Adding Trudgian*14-1 from Art18.html
- --> Adding Hasanalizade-Shen-Wong*21 from Art18.html
- --> Adding Kadiri*12 from Art18.html
- --> Adding Ahn-Kwon*14 from Art18.html
- --> Adding Louboutin*17 from Art18.html
- --> Adding Louboutin*15b from Art18.html
-Scanning Art10.html for keys ...
- --> Adding Ramare*95 from Art10.html
- --> Adding Berment-Ramare*12 from Art10.html
- --> Adding Ramare*95 from Art10.html
- --> Adding Berkane-Bordelles-Ramare*11 from Art10.html
- --> Adding Kreminski*03 from Art10.html
- --> Adding Coffey*06 from Art10.html
- --> Adding Ramare*95 from Art10.html
- --> Adding Ramare*13d from Art10.html
- --> Adding Ramare*14-1 from Art10.html
- --> Adding Ramare*06 from Art10.html
- --> Adding Levin-Fainleib*67 from Art10.html
- --> Adding Daboussi-Rivat*01 from Art10.html
- --> Adding Hall-Tenenbaum*88 from Art10.html
- --> Adding Bordelles*12 from Art10.html
- --> Adding Bordelles*12 from Art10.html
- --> Adding van-Lint-Richert*65 from Art10.html
- --> Adding Ramare*10 from Art10.html
- --> Adding Cohen-Dress*88 from Art10.html
- --> Adding CostaPereira*89 from Art10.html
- --> Adding Moser-MacLeod*66 from Art10.html
- --> Adding Cohen-Dress-ElMarraki*07 from Art10.html
- --> Adding Ramare*18-9 from Art10.html
- --> Adding Ramare*13d from Art10.html
- --> Adding Ramare*18-9 from Art10.html
- --> Adding Schoenfeld*69 from Art10.html
- --> Adding Berkane-Bordelles-Ramare*11 from Art10.html
- --> Adding Deshouillers-Dress*88 from Art10.html
- --> Adding Mardjanichvili*39 from Art10.html
- --> Adding Deshouillers-Dress*88 from Art10.html
- --> Adding Bordelles*02 from Art10.html
- --> Adding Cully-Trudgian*21 from Art10.html
- --> Adding Lapkova*16 from Art10.html
- --> Adding Lapkova*16-2 from Art10.html
- --> Adding Cipu*15-1 from Art10.html
- --> Adding Trudgian*15-2 from Art10.html
- --> Adding Cipu*15-1 from Art10.html
- --> Adding Trevino*15-2 from Art10.html
- --> Adding Ramare*14-1 from Art10.html
- --> Adding Ramare*13a from Art10.html
- --> Adding Ramare*18-9 from Art10.html
- --> Adding Montgomery-Vaughan*73 from Art10.html
- --> Adding Ramare*95 from Art10.html
- --> Adding Ward*27 from Art10.html
- --> Adding Buethe*14 from Art10.html
- --> Adding Rosser-Schoenfeld*62 from Art10.html
- --> Adding Rosser-Schoenfeld*62 from Art10.html
- --> Adding Dusart*16 from Art10.html
- --> Adding Bordelles*05 from Art10.html
- --> Adding Vanlalnagaia*15-1 from Art10.html
- --> Adding Rosser-Schoenfeld*62 from Art10.html
-Scanning Art02.html for keys ...
- --> Adding Diamond-Erdos*80 from Art02.html
- --> Adding Deleglise-Rivat*96-2 from Art02.html
- --> Adding Borwein-Ferguson-Mossinghoff*08 from Art02.html
- --> Adding VonSterneck*98 from Art02.html
- --> Adding MacLeod*69 from Art02.html
- --> Adding Dress*83 from Art02.html
- --> Adding CostaPereira*89 from Art02.html
- --> Adding Dress-ElMarraki*93 from Art02.html
- --> Adding Dress*93 from Art02.html
- --> Adding Kotnik-VanDeLune*04 from Art02.html
- --> Adding Hurst*18 from Art02.html
- --> Adding Cohen-Dress*88 from Art02.html
- --> Adding Cohen-Dress-ElMarraki*96 from Art02.html
- --> Adding Cohen-Dress-ElMarraki*07 from Art02.html
- --> Adding Dress*99 from Art02.html
- --> Adding Schoenfeld*69 from Art02.html
- --> Adding ElMarraki*95 from Art02.html
- --> Adding Ramare*12-2 from Art02.html
- --> Adding Ramare*12-5 from Art02.html
- --> Adding MacLeod*69 from Art02.html
- --> Adding Granville-Ramare*96 from Art02.html
- --> Adding Davenport*37-1 from Art02.html
- --> Adding Ramare*12-5 from Art02.html
- --> Adding Ramare*12-4 from Art02.html
- --> Adding ElMarraki*96 from Art02.html
- --> Adding Bordelles*15 from Art02.html
- --> Adding Ramare*12-2 from Art02.html
- --> Adding Ramare*12-5 from Art02.html
- --> Adding Balazard*12 from Art02.html
- --> Adding Ramare*12-3 from Art02.html
- --> Adding Ramare*12-5 from Art02.html
- --> Adding vonSterneck*02 from Art02.html
- --> Adding Ramare*12-5 from Art02.html
- --> Adding Trevino*15 from Art02.html
- --> Adding Bordelles*15 from Art02.html
 Scanning Art01.html for keys ...
  --> Adding Dusart*98 from Art01.html
  --> Adding Dusart*07 from Art01.html
@@ -292,42 +59,46 @@ Scanning Art01.html for keys ...
  --> Adding Ramare*02 from Art01.html
  --> Adding Bach-Sorenson*96 from Art01.html
  --> Adding Kadiri*05-2 from Art01.html
-Scanning Art16.html for keys ...
- --> Adding Montgomery-Vaughan*74 from Art16.html
- --> Adding Montgomery-Vaughan*73 from Art16.html
-Scanning Art19.html for keys ...
-Scanning Art09.html for keys ...
- --> Adding Baker-Harman-Pintz*01 from Art09.html
- --> Adding Wolke*83 from Art09.html
- --> Adding Schoenfeld*76 from Art09.html
- --> Adding Cramer*36 from Art09.html
- --> Adding Selberg*43 from Art09.html
- --> Adding Schoenfeld*76 from Art09.html
- --> Adding Wedeniwski*02 from Art09.html
- --> Adding Gourdon-Demichel*04 from Art09.html
- --> Adding Lune-Riele-Winter*86 from Art09.html
- --> Adding Saouter-Demichel*10 from Art09.html
- --> Adding Wedeniwski*02 from Art09.html
- --> Adding Gourdon-Demichel*04 from Art09.html
- --> Adding Ramare-Saouter*02 from Art09.html
- --> Adding Ramare-Saouter*02 from Art09.html
- --> Adding Gourdon-Demichel*04 from Art09.html
- --> Adding Nicely*99 from Art09.html
- --> Adding Young-Potler*89 from Art09.html
- --> Adding Trudgian*16 from Art09.html
- --> Adding Dusart*16 from Art09.html
- --> Adding Maurer*95 from Art09.html
- --> Adding Deshouillers-teRiele-Saouter*98 from Art09.html
- --> Adding Brillhart-Lehmer-Selfridge*75 from Art09.html
- --> Adding Jaeschke*93 from Art09.html
- --> Adding CostaPereira*89 from Art09.html
- --> Adding Dudek*16b from Art09.html
- --> Adding Cully*21 from Art09.html
- --> Adding Dudek*15 from Art09.html
- --> Adding Carneiro-Milinovich-Soundararajan*19 from Art09.html
- --> Adding McCurley*84-2 from Art09.html
- --> Adding McCurley*84-3 from Art09.html
- --> Adding Kadiri*05-2 from Art09.html
+Scanning Art02.html for keys ...
+ --> Adding Diamond-Erdos*80 from Art02.html
+ --> Adding Deleglise-Rivat*96-2 from Art02.html
+ --> Adding Borwein-Ferguson-Mossinghoff*08 from Art02.html
+ --> Adding VonSterneck*98 from Art02.html
+ --> Adding MacLeod*69 from Art02.html
+ --> Adding Dress*83 from Art02.html
+ --> Adding CostaPereira*89 from Art02.html
+ --> Adding Dress-ElMarraki*93 from Art02.html
+ --> Adding Dress*93 from Art02.html
+ --> Adding Kotnik-VanDeLune*04 from Art02.html
+ --> Adding Hurst*18 from Art02.html
+ --> Adding Cohen-Dress*88 from Art02.html
+ --> Adding Cohen-Dress-ElMarraki*96 from Art02.html
+ --> Adding Cohen-Dress-ElMarraki*07 from Art02.html
+ --> Adding Dress*99 from Art02.html
+ --> Adding Schoenfeld*69 from Art02.html
+ --> Adding ElMarraki*95 from Art02.html
+ --> Adding Ramare*12-2 from Art02.html
+ --> Adding Ramare*12-5 from Art02.html
+ --> Adding MacLeod*69 from Art02.html
+ --> Adding Granville-Ramare*96 from Art02.html
+ --> Adding Davenport*37-1 from Art02.html
+ --> Adding Ramare*12-5 from Art02.html
+ --> Adding Ramare*12-4 from Art02.html
+ --> Adding ElMarraki*96 from Art02.html
+ --> Adding Bordelles*15 from Art02.html
+ --> Adding Ramare*12-2 from Art02.html
+ --> Adding Ramare*12-5 from Art02.html
+ --> Adding Balazard*12 from Art02.html
+ --> Adding Ramare*12-3 from Art02.html
+ --> Adding Ramare*12-5 from Art02.html
+ --> Adding vonSterneck*02 from Art02.html
+ --> Adding Ramare*12-5 from Art02.html
+ --> Adding Trevino*15 from Art02.html
+ --> Adding Bordelles*15 from Art02.html
+Scanning Art03.html for keys ...
+ --> Adding Deleglise-Rivat*96-1 from Art03.html
+ --> Adding Deleglise-Rivat*98 from Art03.html
+ --> Adding Platt*11 from Art03.html
 Scanning Art06.html for keys ...
  --> Adding Trudgian*11 from Art06.html
  --> Adding Kadiri-Ng*12 from Art06.html
@@ -368,6 +139,18 @@ Scanning Art06.html for keys ...
  --> Adding Ramare*13d from Art06.html
  --> Adding Delange*87 from Art06.html
  --> Adding Ford*01 from Art06.html
+Scanning Art05.html for keys ...
+ --> Adding Daboussi-Rivat*01 from Art05.html
+ --> Adding Cheng-Graham*01 from Art05.html
+ --> Adding Patel*22 from Art05.html
+ --> Adding Hiary*16 from Art05.html
+ --> Adding Patel*22 from Art05.html
+ --> Adding Patel*22 from Art05.html
+ --> Adding Granville-Ramare*96 from Art05.html
+ --> Adding Karatsuba-Korolev*07 from Art05.html
+Scanning Art04.html for keys ...
+ --> Adding Cazaran-Moree*99 from Art04.html
+ --> Adding Moree*12 from Art04.html
 Scanning Art07.html for keys ...
  --> Adding Louboutin*93 from Art07.html
  --> Adding Louboutin*96 from Art07.html
@@ -378,29 +161,246 @@ Scanning Art07.html for keys ...
  --> Adding Louboutin*98 from Art07.html
  --> Adding Louboutin*13 from Art07.html
  --> Adding Louboutin*15 from Art07.html
+Scanning Art10.html for keys ...
+ --> Adding Ramare*95 from Art10.html
+ --> Adding Berment-Ramare*12 from Art10.html
+ --> Adding Ramare*95 from Art10.html
+ --> Adding Berkane-Bordelles-Ramare*11 from Art10.html
+ --> Adding Kreminski*03 from Art10.html
+ --> Adding Coffey*06 from Art10.html
+ --> Adding Ramare*95 from Art10.html
+ --> Adding Ramare*13d from Art10.html
+ --> Adding Ramare*14-1 from Art10.html
+ --> Adding Ramare*06 from Art10.html
+ --> Adding Levin-Fainleib*67 from Art10.html
+ --> Adding Daboussi-Rivat*01 from Art10.html
+ --> Adding Hall-Tenenbaum*88 from Art10.html
+ --> Adding Bordelles*12 from Art10.html
+ --> Adding Bordelles*12 from Art10.html
+ --> Adding van-Lint-Richert*65 from Art10.html
+ --> Adding Ramare*10 from Art10.html
+ --> Adding Cohen-Dress*88 from Art10.html
+ --> Adding CostaPereira*89 from Art10.html
+ --> Adding Moser-MacLeod*66 from Art10.html
+ --> Adding Cohen-Dress-ElMarraki*07 from Art10.html
+ --> Adding Ramare*18-9 from Art10.html
+ --> Adding Ramare*13d from Art10.html
+ --> Adding Ramare*18-9 from Art10.html
+ --> Adding Schoenfeld*69 from Art10.html
+ --> Adding Berkane-Bordelles-Ramare*11 from Art10.html
+ --> Adding Deshouillers-Dress*88 from Art10.html
+ --> Adding Mardjanichvili*39 from Art10.html
+ --> Adding Deshouillers-Dress*88 from Art10.html
+ --> Adding Bordelles*02 from Art10.html
+ --> Adding Cully-Trudgian*21 from Art10.html
+ --> Adding Lapkova*16 from Art10.html
+ --> Adding Lapkova*16-2 from Art10.html
+ --> Adding Cipu*15-1 from Art10.html
+ --> Adding Trudgian*15-2 from Art10.html
+ --> Adding Cipu*15-1 from Art10.html
+ --> Adding Trevino*15-2 from Art10.html
+ --> Adding Ramare*14-1 from Art10.html
+ --> Adding Ramare*13a from Art10.html
+ --> Adding Ramare*18-9 from Art10.html
+ --> Adding Montgomery-Vaughan*73 from Art10.html
+ --> Adding Ramare*95 from Art10.html
+ --> Adding Ward*27 from Art10.html
+ --> Adding Buethe*14 from Art10.html
+ --> Adding Rosser-Schoenfeld*62 from Art10.html
+ --> Adding Rosser-Schoenfeld*62 from Art10.html
+ --> Adding Dusart*16 from Art10.html
+ --> Adding Bordelles*05 from Art10.html
+ --> Adding Vanlalnagaia*15-1 from Art10.html
+ --> Adding Rosser-Schoenfeld*62 from Art10.html
+Scanning Art08.html for keys ...
+ --> Adding Lune-Riele-Winter*86 from Art08.html
+ --> Adding Platt*11 from Art08.html
+ --> Adding Platt*17 from Art08.html
+ --> Adding Wedeniwski*02 from Art08.html
+ --> Adding Gourdon-Demichel*04 from Art08.html
+ --> Adding Platt-Trudgian*21a from Art08.html
+ --> Adding Gabcke*79 from Art08.html
+ --> Adding Rumely*93 from Art08.html
+ --> Adding Bennett*01 from Art08.html
+ --> Adding Platt*11 from Art08.html
+ --> Adding Platt*13 from Art08.html
+ --> Adding Omar*01 from Art08.html
+ --> Adding Rosser*38 from Art08.html
+ --> Adding Rosser-Schoenfeld*75 from Art08.html
+ --> Adding Stechkin*70 from Art08.html
+ --> Adding Ramare-Rumely*96 from Art08.html
+ --> Adding Stechkin*89 from Art08.html
+ --> Adding Kadiri*02 from Art08.html
+ --> Adding Kadiri*05 from Art08.html
+ --> Adding Jang-Kwon*14 from Art08.html
+ --> Adding Mossinghoff-Trudgian*15 from Art08.html
+ --> Adding McCurley*84-1 from Art08.html
+ --> Adding Rosser-Schoenfeld*75 from Art08.html
+ --> Adding Kadiri*02 from Art08.html
+ --> Adding Kadiri*02-2 from Art08.html
+ --> Adding Kadiri*18 from Art08.html
+ --> Adding Ford*01 from Art08.html
+ --> Adding Kadiri*12 from Art08.html
+ --> Adding Rosser*49 from Art08.html
+ --> Adding Rosser*50 from Art08.html
+ --> Adding Chua*05 from Art08.html
+ --> Adding Watkins*00-1 from Art08.html
+ --> Adding Chen-Wang*89-2 from Art08.html
+ --> Adding Liu-Wang*02-1 from Art08.html
+ --> Adding Kadiri-Ng*12 from Art08.html
+ --> Adding Kadiri*13 from Art08.html
+ --> Adding Ramare*13d from Art08.html
+ --> Adding Kadiri-Lumley-Ng*18 from Art08.html
+Scanning Art09.html for keys ...
+ --> Adding Baker-Harman-Pintz*01 from Art09.html
+ --> Adding Wolke*83 from Art09.html
+ --> Adding Schoenfeld*76 from Art09.html
+ --> Adding Cramer*36 from Art09.html
+ --> Adding Selberg*43 from Art09.html
+ --> Adding Schoenfeld*76 from Art09.html
+ --> Adding Wedeniwski*02 from Art09.html
+ --> Adding Gourdon-Demichel*04 from Art09.html
+ --> Adding Lune-Riele-Winter*86 from Art09.html
+ --> Adding Saouter-Demichel*10 from Art09.html
+ --> Adding Wedeniwski*02 from Art09.html
+ --> Adding Gourdon-Demichel*04 from Art09.html
+ --> Adding Ramare-Saouter*02 from Art09.html
+ --> Adding Ramare-Saouter*02 from Art09.html
+ --> Adding Gourdon-Demichel*04 from Art09.html
+ --> Adding Nicely*99 from Art09.html
+ --> Adding Young-Potler*89 from Art09.html
+ --> Adding Trudgian*16 from Art09.html
+ --> Adding Dusart*16 from Art09.html
+ --> Adding Maurer*95 from Art09.html
+ --> Adding Deshouillers-teRiele-Saouter*98 from Art09.html
+ --> Adding Brillhart-Lehmer-Selfridge*75 from Art09.html
+ --> Adding Jaeschke*93 from Art09.html
+ --> Adding CostaPereira*89 from Art09.html
+ --> Adding Dudek*16b from Art09.html
+ --> Adding Cully*21 from Art09.html
+ --> Adding Dudek*15 from Art09.html
+ --> Adding Carneiro-Milinovich-Soundararajan*19 from Art09.html
+ --> Adding McCurley*84-2 from Art09.html
+ --> Adding McCurley*84-3 from Art09.html
+ --> Adding Kadiri*05-2 from Art09.html
+Scanning Art11.html for keys ...
+ --> Adding Filaseta*90 from Art11.html
+ --> Adding Filaseta-Trifonov*96 from Art11.html
+ --> Adding Huxley*96 from Art11.html
+ --> Adding Huxley-Sargos*95 from Art11.html
+ --> Adding Huxley-Sargos*06 from Art11.html
+ --> Adding Huxley-Trifonov*96 from Art11.html
+ --> Adding Vinogradov*54 from Art11.html
+ --> Adding Bordelles*12 from Art11.html
+ --> Adding Huxley*96 from Art11.html
+ --> Adding Bordelles*12 from Art11.html
+ --> Adding Huxley-Sargos*95 from Art11.html
+ --> Adding Huxley-Sargos*06 from Art11.html
+ --> Adding Bordelles*12 from Art11.html
+ --> Adding Graham-Kolesnik*91 from Art11.html
+ --> Adding Filaseta*90 from Art11.html
+ --> Adding Jarnik*25 from Art11.html
+ --> Adding Swinnerton-Dyer*74 from Art11.html
+ --> Adding Bombieri-Pila*89 from Art11.html
+Scanning Art12.html for keys ...
+ --> Adding Robin*83-1 from Art12.html
+ --> Adding Nicolas-Robin*83 from Art12.html
+ --> Adding Robin*83-0 from Art12.html
+ --> Adding Duras*93 from Art12.html
+ --> Adding Duras-Nicolas-Robin*99 from Art12.html
+ --> Adding Nicolas*08 from Art12.html
+ --> Adding Ivic*77 from Art12.html
+ --> Adding Eum-Koo*15 from Art12.html
+ --> Adding Washington-Yang*21 from Art12.html
+Scanning Art14.html for keys ...
+ --> Adding Montgomery-Vaughan*73 from Art14.html
+ --> Adding Buethe*14 from Art14.html
+ --> Adding Ramare*13a from Art14.html
+ --> Adding Siebert*76 from Art14.html
+ --> Adding Greaves*01 from Art14.html
+ --> Adding Nathanson*96-2 from Art14.html
+ --> Adding Fan*22 from Art14.html
+Scanning Art13.html for keys ...
+ --> Adding Louboutin*00 from Art13.html
+ --> Adding Louboutin*01 from Art13.html
+ --> Adding Ramare*01 from Art13.html
+ --> Adding Ramare*01 from Art13.html
+ --> Adding Pohst-Zassenhaus*89 from Art13.html
+ --> Adding Bordelles*02 from Art13.html
+ --> Adding Bordelles*06 from Art13.html
+ --> Adding Cully-Trudgian*21 from Art13.html
+ --> Adding Louboutin*05 from Art13.html
+ --> Adding Louboutin*05 from Art13.html
+ --> Adding Louboutin*00 from Art13.html
+ --> Adding Louboutin*03 from Art13.html
+ --> Adding Louboutin*03 from Art13.html
+ --> Adding Louboutin*03 from Art13.html
+Scanning Art15.html for keys ...
+ --> Adding Qiu*91 from Art15.html
+ --> Adding Bachman-Rachakonda*01 from Art15.html
+ --> Adding Frolenkov*11 from Art15.html
+ --> Adding Frolenkov-Soundararajan*13 from Art15.html
+ --> Adding Pomerance*11 from Art15.html
+ --> Adding Landau*18-3 from Art15.html
+ --> Adding Granville-Soundararajan*07 from Art15.html
+ --> Adding Granville-Soundararajan*07 from Art15.html
+ --> Adding Bordignon-Kerr*20 from Art15.html
+ --> Adding Bordignon*21 from Art15.html
+ --> Adding Trevino*15-2 from Art15.html
+ --> Adding McGown*12 from Art15.html
+ --> Adding Booker*06 from Art15.html
+ --> Adding Jain-Sharma-Khale-Liu*21 from Art15.html
+Scanning Art17.html for keys ...
+ --> Adding Ramare*07a from Art17.html
+ --> Adding Ramare*14-6 from Art17.html
+ --> Adding Montgomery*94 from Art17.html
+ --> Adding Logan*88 from Art17.html
+ --> Adding Montgomery-Vaughan*74 from Art17.html
+ --> Adding Preissmann*84 from Art17.html
+ --> Adding Ramare*13d from Art17.html
+ --> Adding Ramare*13d from Art17.html
+ --> Adding Gallagher*70 from Art17.html
+Scanning Art18.html for keys ...
+ --> Adding Rademacher*59 from Art18.html
+ --> Adding Trudgian*13 from Art18.html
+ --> Adding Sunley*73 from Art18.html
+ --> Adding Lee*22 from Art18.html
+ --> Adding Debaene*19 from Art18.html
+ --> Adding Gun-Ramare-Sivaraman*22b from Art18.html
+ --> Adding Kadiri-Ng*12 from Art18.html
+ --> Adding Trudgian*14-1 from Art18.html
+ --> Adding Hasanalizade-Shen-Wong*21 from Art18.html
+ --> Adding Kadiri*12 from Art18.html
+ --> Adding Ahn-Kwon*14 from Art18.html
+ --> Adding Louboutin*17 from Art18.html
+ --> Adding Louboutin*15b from Art18.html
+Scanning Art19.html for keys ...
+Scanning Art16.html for keys ...
+ --> Adding Montgomery-Vaughan*74 from Art16.html
+ --> Adding Montgomery-Vaughan*73 from Art16.html
 done.
 Build biblio.tex from RefToBeProcessed.txt...done.
 Build biblio.bbl from biblio.tex...done.
 Build RefToCitation.js, RefToTitle.js, RefToRefs.js, RefToURL.js and Biblio.html from biblio.bbl...done.
-Adding chapter Art13.tex from Art13.html  ...
-Adding chapter Art05.tex from Art05.html  ...
-Adding chapter Art11.tex from Art11.html  ...
-Adding chapter Art17.tex from Art17.html  ...
-Adding chapter Art04.tex from Art04.html  ...
-Adding chapter Art14.tex from Art14.html  ...
-Adding chapter Art12.tex from Art12.html  ...
-Adding chapter Art03.tex from Art03.html  ...
-Adding chapter Art08.tex from Art08.html  ...
-Adding chapter Art15.tex from Art15.html  ...
-Adding chapter Art18.tex from Art18.html  ...
-Adding chapter Art10.tex from Art10.html  ...
-Adding chapter Art02.tex from Art02.html  ...
 Adding chapter Art01.tex from Art01.html  ...
-Adding chapter Art16.tex from Art16.html  ...
-Adding chapter Art19.tex from Art19.html  ...
-Adding chapter Art09.tex from Art09.html  ...
+Adding chapter Art02.tex from Art02.html  ...
+Adding chapter Art03.tex from Art03.html  ...
 Adding chapter Art06.tex from Art06.html  ...
+Adding chapter Art05.tex from Art05.html  ...
+Adding chapter Art04.tex from Art04.html  ...
 Adding chapter Art07.tex from Art07.html  ...
+Adding chapter Art10.tex from Art10.html  ...
+Adding chapter Art08.tex from Art08.html  ...
+Adding chapter Art09.tex from Art09.html  ...
+Adding chapter Art11.tex from Art11.html  ...
+Adding chapter Art12.tex from Art12.html  ...
+Adding chapter Art14.tex from Art14.html  ...
+Adding chapter Art13.tex from Art13.html  ...
+Adding chapter Art15.tex from Art15.html  ...
+Adding chapter Art17.tex from Art17.html  ...
+Adding chapter Art18.tex from Art18.html  ...
+Adding chapter Art19.tex from Art19.html  ...
+Adding chapter Art16.tex from Art16.html  ...
 Copying Local-TME-EMT.bib to ../Latex directory
 Entering ../Latex directory
 Compile booklet.tex (can be long due to biber!)...Use of uninitialized value in quotemeta at /usr/share/perl5/Biber/Config.pm line 228.
@@ -6401,8 +6401,3 @@ Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config
 Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
 done.
 Back to ../Biblio directory
-[main 36d3325] NbFields
- 7 files changed, 31 insertions(+), 54 deletions(-)
- rewrite Latex/booklet.blg (63%)
-To https://github.com/TMEEMT/Chest.git
-   6b9649c..36d3325  main -> main

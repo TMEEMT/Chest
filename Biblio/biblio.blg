@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: biblio.aux
+The style file: authordate1.bst
+Reallocated field_info (elt_size=4) to 10520 items from 5000.
+Database file #1: Local-TME-EMT.bib
+Repeated entry---line 157 of file Local-TME-EMT.bib
+ : @article {Bordignon*21
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4039 of file Local-TME-EMT.bib
+ : @article {Debaene*19
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13085 of file Local-TME-EMT.bib
+ : @article{Kotnik-vandeLune*04
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "Carneiro-Milinovich-Soundararajan*19" isn't style-file defined
+--line 19526 of file Local-TME-EMT.bib
+Warning--I didn't find a database entry for "Kadiri-Faber*18"
+Warning--empty school in Platt*13
+Warning--empty journal in Wedeniwski*02
+You've used 239 entries,
+            2441 wiz_defined-function locations,
+            2071 strings with 36493 characters,
+and the built_in function-call counts, 97012 in all, are:
+= -- 9768
+> -- 2459
+< -- 787
++ -- 771
+- -- 660
+* -- 8275
+:= -- 15455
+add.period$ -- 982
+call.type$ -- 239
+change.case$ -- 1498
+chr.to.int$ -- 224
+cite$ -- 241
+duplicate$ -- 3773
+empty$ -- 7758
+format.name$ -- 1010
+if$ -- 19809
+int.to.chr$ -- 16
+int.to.str$ -- 0
+missing$ -- 240
+newline$ -- 1224
+num.names$ -- 719
+pop$ -- 1190
+preamble$ -- 1
+purify$ -- 1737
+quote$ -- 0
+skip$ -- 3550
+stack$ -- 0
+substring$ -- 8053
+swap$ -- 737
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1888
+warning$ -- 2
+while$ -- 799
+width$ -- 0
+write$ -- 3141
+(There were 3 error messages)
