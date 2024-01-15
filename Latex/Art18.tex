@@ -39,7 +39,6 @@ $$
 
 
 \par 
-
 \section{Number of ideals}
 
 
@@ -51,36 +50,39 @@ of J.S. Sunley. It is recalled in Theorem 1.1 of
 and further refined there in Theorem 1.2.
 \par 
 \begin{thm}{Theorem (2022)}
-
     For $x > 0$ and $n_K\ge 0$, the number $I_K(x)$ of integral ideals
     of norm at most $x$ in the
     number field $K$ of degree $n_K$ and discriminant $\Delta_K$ is approximated given by
     $$
     I_K(x)
     =\kappa_K x
-    +\O^*\biggl(C(K)|\Delta_K|^{\frac{1}{n_K+1}}(\log|\Delta_K|)^{n_K-1}
+    + O^*\biggl(C(K)|\Delta_K|^{\frac{1}{n_K+1}}(\log|\Delta_K|)^{n_K-1}
     x^{1-\frac{2}{n_K+1}}\biggr)
     $$
     where
     $$
-    C(K)=0.17\frac{6n_K-2}{n_K-1}
-    2.26^{n_K} e^{4n_K+(26/n_K)}n_K^{n_K+(1/2)}
-    \biggl(
-    44.39\biggl(\frac{82}{1000}\biggr)^{n_K}n_K!
-    +
-    \frac{13}{n_K-1}
-    \biggr).
+    C(K) = \frac{0.54 (3 n_K-1) \lambda_{K}(n_K)}{(n_K-1)^2 (\log{\mathfrak{m}(n_K)})^{n_K-1}} n_K^{3/2} n_K!,
     $$
+    $\mathfrak{m}(n_K) = \left(\frac{\pi}{4}\right)^{n_K} n_K^{2 n_K} n_K!^{-2}$, and
+    $$
+    \lambda_{K}(n_K) =
+    \begin{cases}
+          (n_K+1)^{\frac{1}{2} - \frac{1}{2 n_K}} \left(\frac{5}{8} + \frac{\pi}{2} - \frac{1}{n_K} + \frac{3}{8 n_K^2}\right)^{\frac{1}{2}} e^{n_K\left(2.27 + \frac{4 n_K}{n_K-1} + \frac{0.01}{n_K^2} + \frac{1}{500 n_K^6}\right)} &\text{if }n_K \leq 13, \\
+          (n_K+1)^{n_K-\frac{1}{2}-\frac{1}{2\,n_K}} \left(\frac{5}{8} + \frac{\pi}{2} + \frac{1}{n_K} + \frac{3}{8 n_K^2}\right)^{\frac{1}{2}} e^{4.13 n_K + \frac{0.02}{n_K}} &\text{if }n_K > 13.
+      \end{cases}
+    $$
+\end{thm}
 
-
-For $n_K=2$, the constant $\Delta_K$ is about $8.80\cdot 10^{11}$. The
-constant arising from Sunley's work was about $1.75\cdot 10^{30}$.
+For $n_K=2$, the constant $C(K)$ is approximately equal to $2.49\cdot 10^{10}$. The
+constant arising from Sunley's work was about $1.75\cdot 10^{30}$. 
+For $n_K=3$, the constant $C(K)$ is approximately equal to $8.45\cdot 10^{11}$. The
+constant arising from Sunley's work was about $8.57\cdot 10^{44}$.
 
 An approximation not relying on the discriminant but on the regulator
 and the class number has been given in Corollary 2 of
 \cite{Debaene*19}.
 \par 
-Theorem (2019)
+\begin{thm}{Theorem (2019)}
 
 
   The notation being as above, we have
@@ -98,6 +100,31 @@ on the number ideals in a given ideal class.
 The number of integral ideals in a given ray class is approximated
 explicitely following the same scheme in Theorem 1 of
 \cite{Gun-Ramare-Sivaraman*22b}.
+
+\section{Bounds for the residue of the Dedekind zeta-function}
+
+Let $K$ be a number field over $\mathbb{Q}$ with degree $n_K$ and discriminant $\Delta_K$. Furthermore, suppose that the residue of the Dedekind zeta
+function $\zeta_K(s)$ at $s=1$ is denoted $\kappa_K$. Unconditional bounds for the residue of the Dedekind zeta-function at $s=1$ are found in \cite{Louboutin*00} \cite{Garcia-Lee*22}.
+
+\par 
+\begin{thm}{Theorem (2000 (upper bound), 2022 (lower bound))}
+If $n_K\geq 3$, then
+$$
+    \frac{0.0014480}{n_K g(n_K){|\Delta_K|}^{1/n_K}}
+    < \kappa_K \leq
+    \left(\frac{e\log |\Delta_K| }{2(n_K - 1)}\right)^{n_K - 1},
+$$
+in which $g(n_K)=1$ if $K$ has a normal tower over $\mathbb{Q}$ and $g(n_K) = n_K!$ otherwise. 
+\end{thm}
+
+If the Generalised Riemann Hypothesis and Dedekind Conjecture are true, then stronger bounds are found in \cite{Garcia-Lee*22a}.
+
+\begin{thm}{Theorem (2022)}
+Assume that the Generalised Riemann Hypothesis and the Dedekind Conjecture are true. If $n_K\geq 2$, then
+$$
+    \frac{e^{-17.81(n_K -1)}}{\log\log{|\Delta_K|}} \leq \kappa_{\K} \leq e^{17.81(n_K -1 )} (\log\log{|\Delta_K|})^{n_K-1} .
+$$
+\end{thm}
 
 \section{Zeroes and zero-free regions }
 
@@ -222,10 +249,6 @@ $$
 \sigma\ge 1-\frac{(5+\sqrt{5})(\sqrt{m+1}-1)^2}{2\log|d_K|}.
 $$
 \end{thm}
-
-
-
-
 
 
 
