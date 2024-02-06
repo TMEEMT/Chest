@@ -98,7 +98,7 @@ function DefaultGDTTANPicture(){
 
 function TellDevTeam(){
     var newHTML ="";
-    newHTML = "<div class=\"explanation\"><ul><li>Olivier Bordell&egrave;s</li><li>Pierre Dusart</li><li>Harald Helfgott</li><li>Pieter Moree</li><li>Akhilesh P</li><li>Olivier Ramar&eacute;</li><li>Enrique Trevi&ntilde;o</li></ul></div>";
+    newHTML = "<div class=\"explanation\"><ul><li>Olivier Bordell&egrave;s</li><li>Pierre Dusart</li><li>Harald Helfgott</li><li>Ethan Lee</li><li>Pieter Moree</li><li>Akhilesh P</li><li>Olivier Ramar&eacute;</li><li>Enrique Trevi&ntilde;o</li></ul></div>";
     document.getElementById("TemporaryWindow").innerHTML = newHTML;
 }
 
