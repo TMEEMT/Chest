@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.14)  6 FEB 2024 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.14)  6 FEB 2024 12:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3198,19 +3198,19 @@ l.114 \cite{Garcia-Lee*22}.
 ntifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.131 \cite{Garcia-Lee*22b}.
+l.132 \cite{Garcia-Lee*22b}.
                              [98]pdfTeX warning (ext4): destination with the sa
 me identifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.155 \cite{Kadiri-Ng*12},
+l.156 \cite{Kadiri-Ng*12},
                           pdfTeX warning (ext4): destination with the same iden
 tifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.157 \cite{Trudgian*14-1}
+l.158 \cite{Trudgian*14-1}
                           
-Overfull \hbox (52.31993pt too wide) in paragraph at lines 163--166
+Overfull \hbox (52.31993pt too wide) in paragraph at lines 164--167
 []\OT1/cmr/m/n/10 When $\OML/cmm/m/it/10 T \OMS/cmsy/m/n/10 ^^U \OT1/cmr/m/n/10
  1$, we have $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 T\OT1/cmr/m
 /n/10 ) = [] [][]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 d[]\OMS/cmsy/m/n/10 j[][][]
@@ -3223,9 +3223,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.170 \cite{Hasanalizade-Shen-Wong*21}
+l.171 \cite{Hasanalizade-Shen-Wong*21}
                                       
-Overfull \hbox (52.31993pt too wide) in paragraph at lines 176--179
+Overfull \hbox (52.31993pt too wide) in paragraph at lines 177--180
 []\OT1/cmr/m/n/10 When $\OML/cmm/m/it/10 T \OMS/cmsy/m/n/10 ^^U \OT1/cmr/m/n/10
  1$, we have $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 T\OT1/cmr/m
 /n/10 ) = [] [][]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 d[]\OMS/cmsy/m/n/10 j[][][]
@@ -3238,27 +3238,27 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183 \cite{Kadiri*12},
+l.184 \cite{Kadiri*12},
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.204 \cite{Lee*21a}
+l.205 \cite{Lee*21a}
                      [99]pdfTeX warning (ext4): destination with the same ident
 ifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.224 \cite{Ahn-Kwon*14}
+l.225 \cite{Ahn-Kwon*14}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.230 \cite{Louboutin*17},
+l.231 \cite{Louboutin*17},
                           pdfTeX warning (ext4): destination with the same iden
 tifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.258 \cite{Louboutin*15b},
+l.259 \cite{Louboutin*15b},
                            ) [100] [101
 
 ] [102] (./Art13.tex
@@ -3598,7 +3598,7 @@ mf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sfrm1000.pfb>
-Output written on booklet.pdf (132 pages, 904187 bytes).
+Output written on booklet.pdf (132 pages, 904249 bytes).
 PDF statistics:
  2497 PDF objects out of 2984 (max. 8388607)
  2252 compressed objects within 23 object streams
