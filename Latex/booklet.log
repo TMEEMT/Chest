@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  14 AUG 2023 12:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.14)  6 FEB 2024 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -224,7 +224,7 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \bibhang=\skip59
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language35
+\blx@langwohyphens=\language87
 \c@mincomprange=\count322
 \c@maxcomprange=\count323
 \c@mincompwidth=\count324
@@ -3520,71 +3520,65 @@ OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
  []
 
 [129] [130] (./booklet.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `booklet.out' has not changed.
 (rerunfilecheck)             Checksum: CA058241855EC493357C840E639FF93D;19131.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29899 strings out of 479583
- 548514 string characters out of 5876739
- 1284684 words of memory out of 5000000
- 46966 multiletter control sequences out of 15000+600000
+ 29899 strings out of 478287
+ 548514 string characters out of 5849288
+ 1288029 words of memory out of 5000000
+ 47167 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
- 372 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/ramare/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
-8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (132 pages, 893321 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmex7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfrm1000.pfb>
+Output written on booklet.pdf (132 pages, 900297 bytes).
 PDF statistics:
- 2475 PDF objects out of 2487 (max. 8388607)
+ 2476 PDF objects out of 2487 (max. 8388607)
  2231 compressed objects within 23 object streams
  476 named destinations out of 1000 (max. 500000)
  729 words of extra memory for PDF output out of 10000 (max. 10000000)
