@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2023.12.14)  6 FEB 2024 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2023.12.14)  6 FEB 2024 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -242,7 +242,7 @@ LaTeX Info: Redefining \nameref on input line 8.
 
 
 
-LaTeX Warning: Citation `Kadiri-Faber*18' undefined on input line 190.
+LaTeX Warning: Citation `Kadiri-Faber*18' undefined on input line 191.
 
 (./biblio.bbl
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
@@ -364,12 +364,12 @@ Package rerunfilecheck Info: File `biblio.out' has not changed.
 (rerunfilecheck)             Checksum: EDE23595DCA8A4392503813D74F4CD13;94.
  ) 
 Here is how much of TeX's memory you used:
- 8202 strings out of 478288
- 128255 string characters out of 5849314
- 435358 words of memory out of 5000000
- 26324 multiletter control sequences out of 15000+600000
+ 8203 strings out of 478288
+ 128274 string characters out of 5849314
+ 435423 words of memory out of 5000000
+ 26325 multiletter control sequences out of 15000+600000
  472871 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,5n,67p,250b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,5n,67p,250b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on biblio.dvi (16 pages, 93784 bytes).
+Output written on biblio.dvi (16 pages, 94032 bytes).

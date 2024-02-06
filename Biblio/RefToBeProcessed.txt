@@ -71,6 +71,7 @@ Montgomery-Vaughan*73
 Buethe*14
 Ramare*13a
 Siebert*76
+Riesel-Vaughan*83
 Greaves*01
 Nathanson*96-2
 Fan*22
@@ -260,6 +261,7 @@ Ramare*18-9
 Ramare*13d
 Ramare*18-9
 Schoenfeld*69
+Riesel-Vaughan*83
 Berkane-Bordelles-Ramare*11
 Deshouillers-Dress*88
 Mardjanichvili*39

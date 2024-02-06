@@ -446,10 +446,20 @@ $$
 Though it is somewhat difficult to get, this lemma has been further generalized in Lemma 4.1 of
 <script type="text/javascript">bibref("Ramare*10")</script>.
 
+
+
+
+
+
 <div class="section">
   <a name="spe"></a>
 3. Estimates of some special functions
 </div>
+
+
+
+
+
 
 <script type="text/javascript">bibref("Cohen-Dress*88")</script> contains the
 following Theorem.
@@ -531,6 +541,26 @@ of <script type="text/javascript">bibref("Schoenfeld*69")</script> for an
 earlier version.
 
 
+<br>
+  Lemma 2 of
+  <script type="text/javascript">bibref("Riesel-Vaughan*83")</script>
+  contains the next evaluation.
+  <br>
+    <span class="THM">Theorem (1983)</span>
+    <blockquote class="outer-thm">
+      <div class="thm">
+	For $y \ge 1$, we have
+	$$
+	\sum_{q\le y}\mu^2(q)\prod_{\substack{p|q\\ p\neq
+	2}}\frac{2}{p-2}
+	=
+	\tfrac14\prod_{p > 2}\frac{(p-1)^2}{p(p-2)}
+	\biggl((\log y)^2-A_3\log y - A_4+\mathcal{O}^*(1088/y^{1/3})\biggr)
+	$$
+	where
+	$A_3=6.023476\cdots$ and $A_4=1.114073\cdots$.
+   </div></blockquote>
+  
 
 <br>
 The main result
@@ -596,7 +626,7 @@ we find the next result.
 <div class="thm">
   For $x\ge 2$, we have
 $$
-\sum_{n\le x} d_4(n) = C_1x(\log x)^3
+\sum_{n\le x} \tau_4(n) = C_1x(\log x)^3
 + C_2x(\log x)^2
 +C_3x(\log x
 +C_4x
@@ -607,7 +637,7 @@ where the constants $C_1=1/6$, $C_2=2\gamma-1/2$, and $C_3$ and $C_4$
   constants $\gamma_i$.
 </div></blockquote>
 They deduce for instance from this that $\sum_{n\le
-x}d_4(n)\le(1/3)x(\log x)^3$ when $x\ge 193$.
+x}\tau_4(n)\le(1/3)x(\log x)^3$ when $x\ge 193$.
 
 In the same paper, these authors also establish the next estimate.
 <br>
@@ -616,7 +646,7 @@ In the same paper, these authors also establish the next estimate.
 <div class="thm">
   For $x\ge 2$, we have
 $$
-\sum_{n\le x} d(n)^2 = D_1x(\log x)^3
+\sum_{n\le x} \tau(n)^2 = D_1x(\log x)^3
 + D_2x(\log x)^2
 +D_3x(\log x
 +D_4x
@@ -626,9 +656,9 @@ where the constants $D_1=1/\pi^2$, and $D_2$, $D_3$ and $D_4$
   are the expected ones and may be expressed in terms of usual constants.
 </div></blockquote>
 They deduce for instance from this that $\sum_{n\le
-x}d(n)^2\le(1/4)x(\log x)^3$ when $x\ge 433$ and that 
+x}\tau(n)^2\le(1/4)x(\log x)^3$ when $x\ge 433$ and that 
 $\sum_{n\le
-x}d(n)^2\le x(\log x)^3$ when $x\ge 7$.
+x}\tau(n)^2\le x(\log x)^3$ when $x\ge 7$.
 
 In
 <script type="text/javascript">bibref("Lapkova*16")</script>, we find
@@ -820,7 +850,7 @@ gives an approximate value for $B$.
 </center>
 <div align="right" class="lastmodif">
   <!-- ==== LAST UPDATE HERE ======= -->
-  Last updated on December 26th, 2022, by Olivier Ramar&eacute;
+  Last updated on February 6th, 2024, by Olivier Ramar&eacute;
 </div>
 
 

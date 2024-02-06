@@ -6443,6 +6443,36 @@
       \verb 10.4213/tm4191
       \endverb
     \endentry
+    \entry{Riesel-Vaughan*83}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e7e76237251b92fd763fe748eb679e8a}{%
+           family={Riesel},
+           familyi={R\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=beb3e81c79dd4982fbe203acce8710b1}{%
+           family={{Vaughan}},
+           familyi={V\bibinitperiod},
+           given={R.C.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{54d7f18c35dcb25a126a4ba2a7ed9be3}
+      \strng{fullhash}{54d7f18c35dcb25a126a4ba2a7ed9be3}
+      \strng{bibnamehash}{54d7f18c35dcb25a126a4ba2a7ed9be3}
+      \strng{authorbibnamehash}{54d7f18c35dcb25a126a4ba2a7ed9be3}
+      \strng{authornamehash}{54d7f18c35dcb25a126a4ba2a7ed9be3}
+      \strng{authorfullhash}{54d7f18c35dcb25a126a4ba2a7ed9be3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ark. Mat.}
+      \field{title}{On sums of primes}
+      \field{volume}{21}
+      \field{year}{1983}
+      \field{pages}{46\bibrangedash 74}
+      \range{pages}{29}
+    \endentry
     \entry{Robin*83-1}{article}{}
       \name{author}{1}{}{%
         {{hash=4440c3774c4e033603367ee77d77249f}{%
