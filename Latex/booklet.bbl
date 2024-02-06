@@ -4137,6 +4137,36 @@
       \verb https://doi.org/10.1016/j.jnt.2017.05.002
       \endverb
     \endentry
+    \entry{Lee*21a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=59726ea2f4cabedd608247c5fa708646}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ethan\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{fullhash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{bibnamehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{authorbibnamehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{authornamehash}{59726ea2f4cabedd608247c5fa708646}
+      \strng{authorfullhash}{59726ea2f4cabedd608247c5fa708646}
+      \field{extraname}{1}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-314X}
+      \field{journaltitle}{J. Number Theory}
+      \field{title}{On an explicit zero-free region for the {D}edekind zeta-function}
+      \field{volume}{224}
+      \field{year}{2021}
+      \field{pages}{307\bibrangedash 322}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.jnt.2020.12.015
+      \endverb
+    \endentry
     \entry{Lee*22}{article}{}
       \name{author}{1}{}{%
         {{hash=59726ea2f4cabedd608247c5fa708646}{%
@@ -4151,6 +4181,7 @@
       \strng{authorbibnamehash}{59726ea2f4cabedd608247c5fa708646}
       \strng{authornamehash}{59726ea2f4cabedd608247c5fa708646}
       \strng{authorfullhash}{59726ea2f4cabedd608247c5fa708646}
+      \field{extraname}{2}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
@@ -7447,6 +7478,7 @@
       \range{pages}{4}
     \endentry
   \enddatalist
+  \missing{Garcia-Lee*22}
   \missing{Kadiri-Faber*18}
 \endrefsection
 \endinput

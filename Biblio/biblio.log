@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2023.12.14)  6 FEB 2024 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2023.12.14)  6 FEB 2024 12:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -242,7 +242,13 @@ LaTeX Info: Redefining \nameref on input line 8.
 
 
 
-LaTeX Warning: Citation `Kadiri-Faber*18' undefined on input line 186.
+LaTeX Warning: Citation `Garcia-Lee*22' undefined on input line 135.
+
+
+LaTeX Warning: Citation `Garcia-Lee*22' undefined on input line 136.
+
+
+LaTeX Warning: Citation `Kadiri-Faber*18' undefined on input line 190.
 
 (./biblio.bbl
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
@@ -351,7 +357,7 @@ cmr/m/n/10 , \OT1/cmr/bx/n/10 8\OT1/cmr/m/n/10 (1), 125--147.
  []
 
 [8] [9] [10]
-Underfull \hbox (badness 1859) in paragraph at lines 942--946
+Underfull \hbox (badness 1859) in paragraph at lines 947--951
 []\OT1/cmr/m/n/10 Nicolas, J.-L. 2008.  Quelques in^^Segalit^^Ses ef-fec-tives 
 en-tre des fonc-tions
  []
@@ -364,12 +370,12 @@ Package rerunfilecheck Info: File `biblio.out' has not changed.
 (rerunfilecheck)             Checksum: EDE23595DCA8A4392503813D74F4CD13;94.
  ) 
 Here is how much of TeX's memory you used:
- 8199 strings out of 478288
- 128215 string characters out of 5849314
- 435205 words of memory out of 5000000
- 26321 multiletter control sequences out of 15000+600000
+ 8200 strings out of 478288
+ 128224 string characters out of 5849314
+ 435245 words of memory out of 5000000
+ 26322 multiletter control sequences out of 15000+600000
  472871 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,5n,67p,250b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,5n,67p,250b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on biblio.dvi (15 pages, 92248 bytes).
+Output written on biblio.dvi (15 pages, 92548 bytes).

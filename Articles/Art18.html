@@ -71,6 +71,7 @@ MathJax.Hub.Config({
 <dd><a href="#Top">Back to top</a></dd>
 <dd><a href="#Size">Size</a></dd>
 <dd><a href="#NbI">Number of ideals</a></dd>
+<dd><a href="#Bounds">Bounds for the residue of the Dedekind zeta-fn</a></dd>
 <dd><a href="#Zero">Zeroes and zero-free regions</a></dd>
 <dd><a href="#RealZero">Real Zeroes</a></dd>
 </dl>
@@ -153,7 +154,7 @@ and further refined there in Theorem 1.2.
     $$
     I_K(x)
     =\kappa_K x
-    +\O^*\biggl(C(K)|\Delta_K|^{\frac{1}{n_K+1}}(\log|\Delta_K|)^{n_K-1}
+    +\mathcal{O}^*\biggl(C(K)|\Delta_K|^{\frac{1}{n_K+1}}(\log|\Delta_K|)^{n_K-1}
     x^{1-\frac{2}{n_K+1}}\biggr)
     $$
     where
@@ -170,6 +171,9 @@ and further refined there in Theorem 1.2.
 </blockquote>
 For $n_K=2$, the constant $\Delta_K$ is about $8.80\cdot 10^{11}$. The
 constant arising from Sunley's work was about $1.75\cdot 10^{30}$.
+<br>
+For $n_K=3$, the constant $C(K)$ is approximately equal to $8.45\cdot 10^{11}$. The
+constant arising from Sunley's work was about $8.57\cdot 10^{44}$.
 
 An approximation not relying on the discriminant but on the regulator
 and the class number has been given in Corollary 2 of
@@ -194,8 +198,50 @@ explicitely following the same scheme in Theorem 1 of
 <script language="javascript">bibref("Gun-Ramare-Sivaraman*22b")</script>.
 
 <div class="section">
+  <a name="Bounds"></a>
+3. Bounds for the residue of the Dedekind zeta-function
+</div>
+Let $K$ be a number field over $\mathbb{Q}$ with degree $n_K$ and
+discriminant $\Delta_K$. Furthermore, suppose that the residue of the
+Dedekind zeta function $\zeta_K(s)$ at $s=1$ is denoted
+$\kappa_K$. Unconditional bounds for the residue of the Dedekind
+zeta-function at $s=1$ are found in
+<script language="javascript">bibref("Louboutin*00")</script> and in
+<script language="javascript">bibref("Garcia-Lee*22")</script>.
+<br>
+<span class="THM">Theorem (2000, 2022)</span>
+<blockquote class="outer-thm">
+<div class="thm">
+If $n_K\geq 3$, then
+$$
+    \frac{0.0014480}{n_K g(n_K){|\Delta_K|}^{1/n_K}}
+    < \kappa_K \leq
+    \left(\frac{e\log |\Delta_K| }{2(n_K - 1)}\right)^{n_K - 1},
+$$
+in which $g(n_K)=1$ if $K$ has a normal tower over $\mathbb{Q}$ and
+      $g(n_K) = n_K!$ otherwise.
+</div></blockquote>
+
+If the Generalised Riemann Hypothesis and Dedekind Conjecture are
+true, then stronger bounds are found in
+<script language="javascript">bibref("Garcia-Lee*22")</script>.
+<br>
+<span class="THM">Theorem (2022)</span>
+<blockquote class="outer-thm">
+  <div class="thm">
+    Assume that the Generalised Riemann Hypothesis and the Dedekind
+    Conjecture are true. If $n_K\geq 2$, then 
+$$
+    \frac{e^{-17.81(n_K -1)}}{\log\log{|\Delta_K|}} \leq \kappa_{\K}
+    \leq e^{17.81(n_K -1 )} (\log\log{|\Delta_K|})^{n_K-1} . 
+$$
+</div></blockquote>
+    
+
+
+<div class="section">
   <a name="Zero"></a>
-3. Zeroes and zero-free regions 
+4. Zeroes and zero-free regions 
 </div>
 
 We denote by $N_K(T)$ the number of zeros $\rho$, of the Dedekind
@@ -251,6 +297,27 @@ $$
 $$
 The exceptional zero, if it exists, is simple and real.
 </div></blockquote>
+
+This is improved in
+<script language="javascript">bibref("Lee*21a")</script>
+into:
+<br>
+<span class="THM">Theorem (2021)</span>
+<blockquote class="outer-thm">
+  <div class="thm">
+    Let $K$ be a number field of degree $n$ over $\mathbb{Q}$ and of
+discriminant $d_K$ such that $|d_K| \ge 2$. The associated Dedekind
+zeta-function $\zeta_K$ has no zeros in the region
+$$
+\sigma\ge 1-\frac{1}{12.2411\log|d_K|+n(9.5347\log|t|+0.0501)+2.2692}, |t|\ge1 
+$$
+and if $d_K$ is sufficiently large, then there is at most one zero in the region
+$$
+\sigma\ge 1-\frac{1}{12.4343\log|d_K|}, |t|< 1.
+$$
+The exceptional zero, if it exists, is simple and real.
+</div></blockquote>
+
 See
 <script language="javascript">bibref("Ahn-Kwon*14")</script>
 for a result for Hecke $L$-series.
@@ -312,7 +379,7 @@ $$
 </center>
 <div align="right" class="lastmodif">
   <!-- ==== LAST UPDATE HERE ======= -->
-  Last updated on February 6th, 2024, by Etahn Lee;
+  Last updated on January 15th, 2024, by Ethan Lee;
 </div>
 
 <!-- =============================================================== -->

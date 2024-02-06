@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.14)  6 FEB 2024 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.14)  6 FEB 2024 12:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -894,6 +894,13 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'booklet.bbl' found.
 
 (./booklet.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Garcia-Lee*22
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
@@ -2223,7 +2230,7 @@ fier (name{Hfootnote.3}) has been already used, duplicate ignored
 l.31 \cite{Louboutin*15}
                         
 Overfull \hbox (14.09077pt too wide) in paragraph at lines 29--33
-\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]136[][]] an-nounces the fol-low-ing lowe
+\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]137[][]] an-nounces the fol-low-ing lowe
 r bound proved in [[][]S. R. Louboutin,
  []
 
@@ -3163,11 +3170,7 @@ r (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 \cite{Lee*22}
-                  
-
-LaTeX Warning: Command \O invalid in math mode on input line 61.
-
-[97
+                   [97
 
 ]
 Overfull \hbox (25.02621pt too wide) detected at line 73
@@ -3181,25 +3184,49 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \cite{Debaene*19}.
+l.84 \cite{Debaene*19}.
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.100 \cite{Gun-Ramare-Sivaraman*22b}.
+l.103 \cite{Gun-Ramare-Sivaraman*22b}.
                                       pdfTeX warning (ext4): destination with t
 he same identifier (name{Hfootnote.6}) has been already used, duplicate ignored
 
 <to be read again> 
                    \relax 
-l.111 \cite{Kadiri-Ng*12},
+l.112 \cite{Louboutin*00} 
+                          and in
+
+LaTeX Warning: Citation 'Garcia-Lee*22' on page 98 undefined on input line 113.
+
+
+
+LaTeX Warning: Citation 'Garcia-Lee*22' on page 98 undefined on input line 130.
+
+
+[98]
+! Undefined control sequence.
+l.137 ...)}}{\log\log{|\Delta_K|}} \leq \kappa_{\K
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.154 \cite{Kadiri-Ng*12},
                           pdfTeX warning (ext4): destination with the same iden
 tifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.113 \cite{Trudgian*14-1}
+l.156 \cite{Trudgian*14-1}
                           
-Overfull \hbox (52.31993pt too wide) in paragraph at lines 119--122
+Overfull \hbox (52.31993pt too wide) in paragraph at lines 162--165
 []\OT1/cmr/m/n/10 When $\OML/cmm/m/it/10 T \OMS/cmsy/m/n/10 ^^U \OT1/cmr/m/n/10
  1$, we have $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 T\OT1/cmr/m
 /n/10 ) = [] [][]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 d[]\OMS/cmsy/m/n/10 j[][][]
@@ -3212,9 +3239,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.126 \cite{Hasanalizade-Shen-Wong*21}
+l.169 \cite{Hasanalizade-Shen-Wong*21}
                                       
-Overfull \hbox (52.31993pt too wide) in paragraph at lines 132--135
+Overfull \hbox (52.31993pt too wide) in paragraph at lines 175--178
 []\OT1/cmr/m/n/10 When $\OML/cmm/m/it/10 T \OMS/cmsy/m/n/10 ^^U \OT1/cmr/m/n/10
  1$, we have $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 T\OT1/cmr/m
 /n/10 ) = [] [][]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 d[]\OMS/cmsy/m/n/10 j[][][]
@@ -3227,25 +3254,30 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.6})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.139 \cite{Kadiri*12},
-                        [98]pdfTeX warning (ext4): destination with the same id
-entifier (name{Hfootnote.6}) has been already used, duplicate ignored
+l.182 \cite{Kadiri*12},
+                       pdfTeX warning (ext4): destination with the same identif
+ier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.159 \cite{Ahn-Kwon*14}
+l.203 \cite{Lee*21a}
+                     [99]pdfTeX warning (ext4): destination with the same ident
+ifier (name{Hfootnote.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.223 \cite{Ahn-Kwon*14}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 \cite{Louboutin*17},
+l.229 \cite{Louboutin*17},
                           pdfTeX warning (ext4): destination with the same iden
 tifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.193 \cite{Louboutin*15b},
-                           ) [99] [100
+l.257 \cite{Louboutin*15b},
+                           ) [100] [101
 
-] [101] [102] (./Art13.tex
+] [102] (./Art13.tex
 Chapter 18.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -3460,6 +3492,12 @@ n-heiten und Klassen-
  []
 
 
+Overfull \hbox (2.20613pt too wide) in paragraph at lines 286--286
+[][]\OT1/cmr/m/n/10 E. S. Lee. \  On an ex-plicit zero-free re-gion for the Ded
+ekind zeta-function".
+ []
+
+
 Overfull \hbox (7.739pt too wide) in paragraph at lines 286--286
 \OT1/cmr/m/n/10 prob-lems of num-ber the-ory". In: \OT1/cmr/m/it/10 Rus-sian Ma
 th. Sur-veys \OT1/cmr/m/n/10 22 (1967), pp. 119{
@@ -3521,16 +3559,16 @@ OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
 
 [129] [130] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
-(rerunfilecheck)             Checksum: CA058241855EC493357C840E639FF93D;19131.
+(rerunfilecheck)             Checksum: 114927C41C394A946881CAEF6E0E5B8C;19469.
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29899 strings out of 478287
- 548514 string characters out of 5849288
- 1288029 words of memory out of 5000000
- 47167 multiletter control sequences out of 15000+600000
+ 29910 strings out of 478287
+ 548746 string characters out of 5849288
+ 1287134 words of memory out of 5000000
+ 47176 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3576,10 +3614,10 @@ mf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sfrm1000.pfb>
-Output written on booklet.pdf (132 pages, 900297 bytes).
+Output written on booklet.pdf (132 pages, 903447 bytes).
 PDF statistics:
- 2476 PDF objects out of 2487 (max. 8388607)
- 2231 compressed objects within 23 object streams
- 476 named destinations out of 1000 (max. 500000)
- 729 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2487 PDF objects out of 2487 (max. 8388607)
+ 2242 compressed objects within 23 object streams
+ 478 named destinations out of 1000 (max. 500000)
+ 737 words of extra memory for PDF output out of 10000 (max. 10000000)
 
