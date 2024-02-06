@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: biblio.aux
 The style file: authordate1.bst
-Reallocated field_info (elt_size=4) to 10566 items from 5000.
+Reallocated field_info (elt_size=4) to 10589 items from 5000.
 Database file #1: Local-TME-EMT.bib
 Repeated entry---line 157 of file Local-TME-EMT.bib
  : @article {Bordignon*21
@@ -12,55 +12,54 @@ Repeated entry---line 4039 of file Local-TME-EMT.bib
  : @article {Debaene*19
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 13085 of file Local-TME-EMT.bib
+Repeated entry---line 13116 of file Local-TME-EMT.bib
  : @article{Kotnik-vandeLune*04
  :                             ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "Carneiro-Milinovich-Soundararajan*19" isn't style-file defined
---line 19526 of file Local-TME-EMT.bib
-Warning--I didn't find a database entry for "Garcia-Lee*22"
+--line 19557 of file Local-TME-EMT.bib
 Warning--I didn't find a database entry for "Kadiri-Faber*18"
 Warning--empty school in Platt*13
 Warning--empty journal in Wedeniwski*02
-You've used 240 entries,
+You've used 242 entries,
             2441 wiz_defined-function locations,
-            2077 strings with 36605 characters,
-and the built_in function-call counts, 97407 in all, are:
-= -- 9809
-> -- 2467
-< -- 790
-+ -- 773
-- -- 662
-* -- 8307
-:= -- 15518
-add.period$ -- 986
-call.type$ -- 240
-change.case$ -- 1504
-chr.to.int$ -- 225
-cite$ -- 242
-duplicate$ -- 3789
-empty$ -- 7791
-format.name$ -- 1013
-if$ -- 19889
-int.to.chr$ -- 16
+            2086 strings with 36898 characters,
+and the built_in function-call counts, 98310 in all, are:
+= -- 9903
+> -- 2495
+< -- 798
++ -- 782
+- -- 670
+* -- 8388
+:= -- 15658
+add.period$ -- 994
+call.type$ -- 242
+change.case$ -- 1518
+chr.to.int$ -- 226
+cite$ -- 244
+duplicate$ -- 3821
+empty$ -- 7859
+format.name$ -- 1027
+if$ -- 20073
+int.to.chr$ -- 17
 int.to.str$ -- 0
-missing$ -- 241
-newline$ -- 1229
-num.names$ -- 722
-pop$ -- 1194
+missing$ -- 243
+newline$ -- 1239
+num.names$ -- 728
+pop$ -- 1208
 preamble$ -- 1
-purify$ -- 1744
+purify$ -- 1760
 quote$ -- 0
-skip$ -- 3565
+skip$ -- 3592
 stack$ -- 0
-substring$ -- 8089
-swap$ -- 740
+substring$ -- 8167
+swap$ -- 746
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1896
+type$ -- 1912
 warning$ -- 2
-while$ -- 803
+while$ -- 811
 width$ -- 0
-write$ -- 3154
+write$ -- 3180
 (There were 3 error messages)

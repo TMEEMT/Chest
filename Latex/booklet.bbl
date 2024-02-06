@@ -2797,6 +2797,77 @@
       \verb :/home/ramare/tex/Other/Gallagher/LargeSieveEstimate.pdf:PDF
       \endverb
     \endentry
+    \entry{Garcia-Lee*22b}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5fda3f0833c91ff123bace8d0aea484e}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Stephan\bibnamedelima Ramon},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bc298b3aeced6775995dbed09df872e1}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ethan\bibnamedelima Simpson},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{fullhash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{bibnamehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{authorbibnamehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{authornamehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{authorfullhash}{48a1f96f09d2c40f466d5603c74251b5}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-314X,1096-1658}
+      \field{journaltitle}{J. Number Theory}
+      \field{title}{Explicit estimates for {A}rtin {$L$}-functions: {D}uke's short-sum theorem and {D}edekind zeta residues}
+      \field{volume}{238}
+      \field{year}{2022}
+      \field{pages}{920\bibrangedash 943}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1016/j.jnt.2021.10.007
+      \endverb
+    \endentry
+    \entry{Garcia-Lee*22}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5fda3f0833c91ff123bace8d0aea484e}{%
+           family={Garcia},
+           familyi={G\bibinitperiod},
+           given={Stephan\bibnamedelima Ramon},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=bc298b3aeced6775995dbed09df872e1}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ethan\bibnamedelima Simpson},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{fullhash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{bibnamehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{authorbibnamehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{authornamehash}{48a1f96f09d2c40f466d5603c74251b5}
+      \strng{authorfullhash}{48a1f96f09d2c40f466d5603c74251b5}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1382-4090,1572-9303}
+      \field{journaltitle}{Ramanujan J.}
+      \field{number}{3}
+      \field{title}{Unconditional explicit {M}ertens' theorems for number fields and {D}edekind zeta residue bounds}
+      \field{volume}{57}
+      \field{year}{2022}
+      \field{pages}{1169\bibrangedash 1191}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s11139-021-00435-6
+      \endverb
+    \endentry
     \entry{Gourdon-Demichel*04}{article}{}
       \name{author}{2}{}{%
         {{hash=fc9bb32433d1fa81a846d6b3467e0689}{%
@@ -7478,7 +7549,6 @@
       \range{pages}{4}
     \endentry
   \enddatalist
-  \missing{Garcia-Lee*22}
   \missing{Kadiri-Faber*18}
 \endrefsection
 \endinput

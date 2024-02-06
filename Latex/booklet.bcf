@@ -2683,7 +2683,7 @@
     <bcf:citekey order="334">Gun-Ramare-Sivaraman*22b</bcf:citekey>
     <bcf:citekey order="335">Louboutin*00</bcf:citekey>
     <bcf:citekey order="336">Garcia-Lee*22</bcf:citekey>
-    <bcf:citekey order="337">Garcia-Lee*22</bcf:citekey>
+    <bcf:citekey order="337">Garcia-Lee*22b</bcf:citekey>
     <bcf:citekey order="338">Kadiri-Ng*12</bcf:citekey>
     <bcf:citekey order="339">Trudgian*14-1</bcf:citekey>
     <bcf:citekey order="340">Hasanalizade-Shen-Wong*21</bcf:citekey>
@@ -2937,17 +2937,18 @@
     <bcf:citekey order="588">Gun-Ramare-Sivaraman*22b</bcf:citekey>
     <bcf:citekey order="589">Louboutin*00</bcf:citekey>
     <bcf:citekey order="590">Garcia-Lee*22</bcf:citekey>
-    <bcf:citekey order="591">Trudgian*14-1</bcf:citekey>
-    <bcf:citekey order="592">Hasanalizade-Shen-Wong*21</bcf:citekey>
-    <bcf:citekey order="593">Lee*21a</bcf:citekey>
-    <bcf:citekey order="594">Ahn-Kwon*14</bcf:citekey>
-    <bcf:citekey order="595">Louboutin*17</bcf:citekey>
-    <bcf:citekey order="596">Louboutin*15b</bcf:citekey>
-    <bcf:citekey order="597">Louboutin*01</bcf:citekey>
-    <bcf:citekey order="598">Pohst-Zassenhaus*89</bcf:citekey>
-    <bcf:citekey order="599">Bordelles*06</bcf:citekey>
-    <bcf:citekey order="600">Louboutin*05</bcf:citekey>
-    <bcf:citekey order="601">Louboutin*03</bcf:citekey>
+    <bcf:citekey order="591">Garcia-Lee*22b</bcf:citekey>
+    <bcf:citekey order="592">Trudgian*14-1</bcf:citekey>
+    <bcf:citekey order="593">Hasanalizade-Shen-Wong*21</bcf:citekey>
+    <bcf:citekey order="594">Lee*21a</bcf:citekey>
+    <bcf:citekey order="595">Ahn-Kwon*14</bcf:citekey>
+    <bcf:citekey order="596">Louboutin*17</bcf:citekey>
+    <bcf:citekey order="597">Louboutin*15b</bcf:citekey>
+    <bcf:citekey order="598">Louboutin*01</bcf:citekey>
+    <bcf:citekey order="599">Pohst-Zassenhaus*89</bcf:citekey>
+    <bcf:citekey order="600">Bordelles*06</bcf:citekey>
+    <bcf:citekey order="601">Louboutin*05</bcf:citekey>
+    <bcf:citekey order="602">Louboutin*03</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

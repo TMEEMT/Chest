@@ -494,6 +494,18 @@ Gallagher, {P.X.} 1970.
 \newblock A large sieve density estimate near $\sigma =1$.
 \newblock {\em Invent. Math.}, {\bf 11}, 329--339.
 
+\bibitem[\protect\citename{Garcia \& Lee, }2022a]{Garcia-Lee*22b}
+Garcia, Stephan~Ramon, \& Lee, Ethan~Simpson. 2022a.
+\newblock Explicit estimates for {A}rtin {$L$}-functions: {D}uke's short-sum
+  theorem and {D}edekind zeta residues.
+\newblock {\em J. Number Theory}, {\bf 238}, 920--943.
+
+\bibitem[\protect\citename{Garcia \& Lee, }2022b]{Garcia-Lee*22}
+Garcia, Stephan~Ramon, \& Lee, Ethan~Simpson. 2022b.
+\newblock Unconditional explicit {M}ertens' theorems for number fields and
+  {D}edekind zeta residue bounds.
+\newblock {\em Ramanujan J.}, {\bf 57}(3), 1169--1191.
+
 \bibitem[\protect\citename{Gourdon \& Demichel, }2004]{Gourdon-Demichel*04}
 Gourdon, X., \& Demichel, P. 2004.
 \newblock The $10^{13}$ first zeros of the {R}iemann {Z}eta {F}unction and
