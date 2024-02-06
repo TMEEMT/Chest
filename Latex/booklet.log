@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.14)  6 FEB 2024 13:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.14)  6 FEB 2024 13:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1001,9 +1001,9 @@ Non-PDF special ignored!
 \tf@toc=\write5
 \openout5 = `booklet.toc'.
 
- [5] [6
+ [5] [6] [7
 
-] [7] [8] (./Art01.tex
+] [8] (./Art01.tex
 Chapter 1.
 
 Package hyperref Warning: Ignoring empty anchor on input line 19.
@@ -3259,10 +3259,14 @@ tifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.259 \cite{Louboutin*15b},
-                           ) [100] [101
-
-] [102] (./Art13.tex
+                           ) (./Art20.tex [100]
 Chapter 18.
+) [101
+
+] [102
+
+] [103] [104] (./Art13.tex
+Chapter 19.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 21.
@@ -3299,7 +3303,7 @@ l.52 \cite{Ramare*01},
 Overfull \vbox (1.76906pt too high) has occurred while \output is active []
 
 
-[103
+[105
 
 ]
 
@@ -3339,7 +3343,7 @@ identifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.115 \cite{Louboutin*05} 
-                          how the [104]
+                          how the [106]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 146.
@@ -3371,188 +3375,188 @@ l.183 From \cite{Louboutin*03}:
 <to be read again> 
                    \relax 
 l.200 Again from \cite{Louboutin*03}:
-                                      [105]) (./Art19.tex [106]
-Chapter 19.
-) [107
-
-] [108
-
-] [109] [110]
+                                      [107]) (./Art19.tex [108]
 Chapter 20.
+) [109
 
-Overfull \hbox (0.24724pt too wide) in paragraph at lines 234--234
+] [110
+
+] [111] [112]
+Chapter 21.
+
+Overfull \hbox (0.24724pt too wide) in paragraph at lines 235--235
  []    \OT1/cmtt/m/n/10 real part between 0 and 1 and an imaginary part not mor
 e,[] 
  []
 
-[111
+[113
 
 ]
-Overfull \hbox (3.83286pt too wide) in paragraph at lines 272--277
+Overfull \hbox (3.83286pt too wide) in paragraph at lines 273--278
 \OT1/cmr/m/n/10 This mod-i-fi-ca-tion changes the num-bers and each file \OT1/c
 mtt/m/n/10 Articles/Art**.html
  []
 
 
-Overfull \hbox (27.19415pt too wide) in paragraph at lines 272--277
+Overfull \hbox (27.19415pt too wide) in paragraph at lines 273--278
 \OT1/cmr/m/n/10 has to be sub-se-quently mod-i-fied at the level of the com-man
 d \OT1/cmtt/m/n/10 BandeauGeneral(2,
  []
 
-[112] [113
+[114] [115
 
 
 ]
-Overfull \hbox (1.36229pt too wide) in paragraph at lines 286--286
+Overfull \hbox (1.36229pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 G. Bastien and M. Ro-gal-ski. \  Con-vexit^^Se, compl^^Rete
  mono-tonie et in^^Segalit^^Ses
  []
 
-[114]
-Overfull \hbox (1.45403pt too wide) in paragraph at lines 286--286
+[116]
+Overfull \hbox (1.45403pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 M. Bor-dignon. \  A P^^Solya-Vinogradov in-equal-ity for sh
 ort char-ac-ter sums".
  []
 
 
 Package biblatex Warning: No driver for entry type '@article'.
-(biblatex)                Using fallback driver on input line 286.
+(biblatex)                Using fallback driver on input line 287.
 
-[115]
-Overfull \hbox (0.45438pt too wide) in paragraph at lines 286--286
+[117]
+Overfull \hbox (0.45438pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 M. Cully-Hugill. \  Primes be-tween con-sec-u-tive pow-ers"
 . In: \OT1/cmr/m/it/10 arXiv preprint
  []
 
-[116]
-Overfull \hbox (0.23302pt too wide) in paragraph at lines 286--286
+[118]
+Overfull \hbox (0.23302pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/n/10 garias, Miller, Odlyzko method". In: \OT1/cmr/m/it/10 Math. Com
 p. \OT1/cmr/m/n/10 65.213 (1996), pp. 235{
  []
 
-[117] [118]
-Overfull \hbox (11.35666pt too wide) in paragraph at lines 286--286
+[119] [120]
+Overfull \hbox (11.35666pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 W. Gabcke. \  Neue Her-leitung und ex-plizite Restab-schaet
 -zung der Riemann-
  []
 
 
-Overfull \hbox (10.12505pt too wide) in paragraph at lines 286--286
+Overfull \hbox (10.12505pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/n/10 Siegel-Formel". PhD the-sis. Mathematisch-Naturwissenschaftlich
 e Fakult^^?at
  []
 
-[119]
-Overfull \hbox (5.86592pt too wide) in paragraph at lines 286--286
+[121]
+Overfull \hbox (5.86592pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 A. Granville and K. Soundarara-jan. \  The dis-tri-bu-tion 
 of val-ues of $\OML/cmm/m/it/10 L\OT1/cmr/m/n/10 (1\OML/cmm/m/it/10 ; ^^_\OT1/c
 mr/m/n/10 )$".
  []
 
-[120]
-Overfull \hbox (59.4615pt too wide) in paragraph at lines 286--286
+[122]
+Overfull \hbox (59.4615pt too wide) in paragraph at lines 287--287
 \OT1/cmtt/m/n/10 S1793042112500078$[][]\OT1/cmr/m/n/10 , pp. 125{147. \OT1/cmr/
 m/sc/10 issn\OT1/cmr/m/n/10 : 1793-0421. \OT1/cmr/m/sc/10 doi\OT1/cmr/m/n/10 : 
 [][]$\OT1/cmtt/m/n/10 10 . 1142 / S1793042112500078$[][]
  []
 
-[121]
-Overfull \hbox (54.9682pt too wide) in paragraph at lines 286--286
+[123]
+Overfull \hbox (54.9682pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/it/10 e-matika \OT1/cmr/m/n/10 64.2 (2018), pp. 445{474. \OT1/cmr/m/
 sc/10 issn\OT1/cmr/m/n/10 : 0025-5793. \OT1/cmr/m/sc/10 doi\OT1/cmr/m/n/10 : []
 []$\OT1/cmtt/m/n/10 10 . 1112 / S0025579318000037$[][]
  []
 
 
-Overfull \hbox (0.98564pt too wide) in paragraph at lines 286--286
+Overfull \hbox (0.98564pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/n/10 func-tion". In: \OT1/cmr/m/it/10 Funct. Ap-prox. Com-ment. Math
 . \OT1/cmr/m/n/10 23 (1994), 123{134 (1995).
  []
 
 
-Overfull \hbox (11.54068pt too wide) in paragraph at lines 286--286
+Overfull \hbox (11.54068pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 E. Lan-dau. \  Ab-sch^^?atzungen von Charak-ter-sum-men, Ei
 n-heiten und Klassen-
  []
 
 
-Overfull \hbox (2.20613pt too wide) in paragraph at lines 286--286
+Overfull \hbox (2.20613pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 E. S. Lee. \  On an ex-plicit zero-free re-gion for the Ded
 ekind zeta-function".
  []
 
-[122]
-Overfull \hbox (7.739pt too wide) in paragraph at lines 286--286
+[124]
+Overfull \hbox (7.739pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/n/10 prob-lems of num-ber the-ory". In: \OT1/cmr/m/it/10 Rus-sian Ma
 th. Sur-veys \OT1/cmr/m/n/10 22 (1967), pp. 119{
  []
 
-[123] [124]
-Overfull \hbox (27.28345pt too wide) in paragraph at lines 286--286
+[125] [126]
+Overfull \hbox (27.28345pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/n/10 Grad-u-ate Texts in Math-e-mat-ics. Springer-Verlag, New York, 
 1996, pp. xiv+342.
  []
 
 
-Overfull \hbox (25.17613pt too wide) in paragraph at lines 286--286
+Overfull \hbox (25.17613pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 J.[]L. Nico-las. \  Quelques in^^Segalit^^Ses ef-fec-tives 
 en-tre des fonc-tions arithm^^Setiques".
  []
 
-[125]
-Overfull \hbox (4.38914pt too wide) in paragraph at lines 286--286
+[127]
+Overfull \hbox (4.38914pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 M. Pohst and H. Zassen-haus. \OT1/cmr/m/it/10 Al-go-rith-mi
 c al-ge-braic num-ber the-ory\OT1/cmr/m/n/10 . Vol. 30.
  []
 
-[126]
-Overfull \hbox (29.46968pt too wide) in paragraph at lines 286--286
+[128]
+Overfull \hbox (29.46968pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/n/10 lems with ir-reg-u-lar or prime num-bers". In: \OT1/cmr/m/it/10
  Tr. Mat. Inst. Steklova \OT1/cmr/m/n/10 314.Analitich-
  []
 
-[127] [128]
-Overfull \hbox (7.06023pt too wide) in paragraph at lines 286--286
+[129] [130]
+Overfull \hbox (7.06023pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 H. Siebert. \  Mont-gomery's weighted sieve for di-men-sion
  two". In: \OT1/cmr/m/it/10 Monatsh.
  []
 
 
-Overfull \hbox (9.03731pt too wide) in paragraph at lines 286--286
+Overfull \hbox (9.03731pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 S. Stechkin. \  Ra-tio-nal in-equal-i-ties and ze-ros of th
 e Rie-mann zeta-function".
  []
 
 
-Overfull \hbox (1.41916pt too wide) in paragraph at lines 286--286
+Overfull \hbox (1.41916pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 E. Trevi~no. \  The Burgess in-equal-ity and the least $\OM
 L/cmm/m/it/10 k$\OT1/cmr/m/n/10 th power non-residue".
  []
 
 
-Overfull \hbox (1.6206pt too wide) in paragraph at lines 286--286
+Overfull \hbox (1.6206pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 T. Trud-gian. \  An im-proved up-per bound for the er-ror i
 n the zero-counting
  []
 
 
-Overfull \hbox (4.4796pt too wide) in paragraph at lines 286--286
+Overfull \hbox (4.4796pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 T. Trud-gian. \  Im-prove-ments to Tur-ing's method". In: \
 OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
  []
 
-[129] [130] (./booklet.aux)
+[131] [132] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
-(rerunfilecheck)             Checksum: 114927C41C394A946881CAEF6E0E5B8C;19469.
+(rerunfilecheck)             Checksum: F11F4EE727D532E864082971669E8A71;20361.
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29926 strings out of 478287
- 549212 string characters out of 5849288
+ 29941 strings out of 478287
+ 549383 string characters out of 5849288
  1287258 words of memory out of 5000000
- 47190 multiletter control sequences out of 15000+600000
+ 47196 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3598,10 +3602,10 @@ mf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type
 1/public/cm-super/sfrm1000.pfb>
-Output written on booklet.pdf (132 pages, 904249 bytes).
+Output written on booklet.pdf (134 pages, 906657 bytes).
 PDF statistics:
- 2497 PDF objects out of 2984 (max. 8388607)
- 2252 compressed objects within 23 object streams
- 480 named destinations out of 1000 (max. 500000)
- 737 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2527 PDF objects out of 2984 (max. 8388607)
+ 2280 compressed objects within 23 object streams
+ 486 named destinations out of 1000 (max. 500000)
+ 769 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,13 +5,13 @@
                      '(("book" "10pt" "twoside" "svgnames")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
                      '(("biblatex" "backend=biber" "style=numeric-comp" "citetracker=true" "pagetracker=true" "hyperref=true" "backref=true" "firstinits=true" "bibencoding=utf8") ("hyperref" "colorlinks=true" "pdftex")))
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
-   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "nolinkurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperbaseurl")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "path")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "url")
+   (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-delims-local "path")
    (TeX-run-style-hooks
     "latex2e"
@@ -32,6 +32,7 @@
     "Art09"
     "Art14"
     "Art18"
+    "Art20"
     "Art13"
     "Art19"
     "book"
@@ -55,8 +56,6 @@
    (LaTeX-add-environments
     '("thm" 1))
    (LaTeX-add-bibliographies
-    "Local-TME-EMT")
-   (LaTeX-add-pagestyles
-    "plain"))
+    "Local-TME-EMT"))
  :latex)
 

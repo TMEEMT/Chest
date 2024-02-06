@@ -77,16 +77,20 @@
 \contentsline {section}{\numberline {17.3}Bounds for the residue of the Dedekind zeta-function}{98}{section.17.3}%
 \contentsline {section}{\numberline {17.4}Zeroes and zero-free regions }{99}{section.17.4}%
 \contentsline {section}{\numberline {17.5}. Real Zeroes.}{100}{section.17.5}%
-\contentsline {part}{IX\hspace {1em}Applications}{101}{part.9}%
-\contentsline {chapter}{\numberline {18} Explicit bounds for class numbers}{103}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Majorising $h_K\mathcal {R}_K$}{103}{section.18.1}%
-\contentsline {section}{\numberline {18.2}Majorising $h_K$}{104}{section.18.2}%
-\contentsline {section}{\numberline {18.3}Using the influence of small primes}{104}{section.18.3}%
-\contentsline {section}{\numberline {18.4}The $h^-_K$ of CM-fields}{105}{section.18.4}%
-\contentsline {chapter}{\numberline {19} Primitive Roots}{107}{chapter.19}%
-\contentsline {part}{X\hspace {1em}Development}{109}{part.10}%
-\contentsline {chapter}{\numberline {20}README}{111}{chapter.20}%
-\contentsline {section}{\numberline {20.1}How to write}{111}{section.20.1}%
-\contentsline {section}{\numberline {20.2}How to contribute}{112}{section.20.2}%
-\contentsline {section}{\numberline {20.3}Adding a part or a chapter}{112}{section.20.3}%
-\contentsline {chapter}{Bibliography}{113}{chapter*.4}%
+\contentsline {chapter}{\numberline {18} Primes in number fields}{101}{chapter.18}%
+\contentsline {section}{\numberline {18.1}On the number of primes in a number field}{101}{section.18.1}%
+\contentsline {section}{\numberline {18.2}On the Chebotarev Density Theorem}{101}{section.18.2}%
+\contentsline {section}{\numberline {18.3}On the least prime ideal}{101}{section.18.3}%
+\contentsline {part}{IX\hspace {1em}Applications}{103}{part.9}%
+\contentsline {chapter}{\numberline {19} Explicit bounds for class numbers}{105}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Majorising $h_K\mathcal {R}_K$}{105}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Majorising $h_K$}{106}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Using the influence of small primes}{106}{section.19.3}%
+\contentsline {section}{\numberline {19.4}The $h^-_K$ of CM-fields}{107}{section.19.4}%
+\contentsline {chapter}{\numberline {20} Primitive Roots}{109}{chapter.20}%
+\contentsline {part}{X\hspace {1em}Development}{111}{part.10}%
+\contentsline {chapter}{\numberline {21}README}{113}{chapter.21}%
+\contentsline {section}{\numberline {21.1}How to write}{113}{section.21.1}%
+\contentsline {section}{\numberline {21.2}How to contribute}{114}{section.21.2}%
+\contentsline {section}{\numberline {21.3}Adding a part or a chapter}{114}{section.21.3}%
+\contentsline {chapter}{Bibliography}{115}{chapter*.4}%
