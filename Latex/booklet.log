@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  7 FEB 2024 07:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  7 FEB 2024 08:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1933,11 +1933,19 @@ me identifier (name{Hfootnote.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.20 \cite{Montgomery-Vaughan*73}
-                                 ) (./Art17.tex [47
+                                 pdfTeX warning (ext4): destination with the sa
+me identifier (name{Hfootnote.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.60 \cite{Montgomery-Vaughan*74}
+                                  [47
 
-] [48
-
-]
+]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.3}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.84 \cite{Preissmann*84}
+                         ) (./Art17.tex [48]
 Chapter 8.
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.3})
  has been already used, duplicate ignored
@@ -1972,8 +1980,10 @@ tifier (name{Hfootnote.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.64 \cite{Logan*88}
-                     [49]pdfTeX warning (ext4): destination with the same ident
-ifier (name{Hfootnote.3}) has been already used, duplicate ignored
+                     [49
+
+]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.3}
+) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.82 \cite{Montgomery-Vaughan*74}
@@ -3613,10 +3623,10 @@ Package logreq Info: Writing requests to 'booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30003 strings out of 479583
- 551273 string characters out of 5876739
- 1285541 words of memory out of 5000000
- 47045 multiletter control sequences out of 15000+600000
+ 30005 strings out of 479583
+ 551297 string characters out of 5876739
+ 1284560 words of memory out of 5000000
+ 47047 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3661,10 +3671,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (139 pages, 911390 bytes).
+Output written on booklet.pdf (139 pages, 913337 bytes).
 PDF statistics:
- 2580 PDF objects out of 2984 (max. 8388607)
- 2328 compressed objects within 24 object streams
+ 2584 PDF objects out of 2984 (max. 8388607)
+ 2332 compressed objects within 24 object streams
  498 named destinations out of 1000 (max. 500000)
  769 words of extra memory for PDF output out of 10000 (max. 10000000)
 

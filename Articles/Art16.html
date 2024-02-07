@@ -114,9 +114,11 @@ and
 <div class="thm">
 Let $M$ and $N\ge 1$ be two real numbers. Let $X$ be a set of points of
 $[0,1)$ such that 
-$$
-\min_{x,y\in X}\min_{k\in\mathbb{Z}}|x-y+k|\ge \delta>0.
-$$
+$
+\displaystyle
+\min_{\substack{x,y\in X\\ x\neq y}}
+\min_{k\in\mathbb{Z}}|x-y+k|\ge \delta>0.
+$
 Then, for any sequence of complex numbers $(a_n)_{M < n\le M+N}$, we have
 $$
 \sum_{x\in X}\left|
@@ -140,7 +142,43 @@ $$
 \le \sum_{M < n\le M+N}|a_n|^2 (N-1+Q^2).
 $$
 </div></blockquote>
-The summation over $a$ runs over all invertible classes $a$ modulo $q$.
+The summation over $a$ runs over all invertible (also called reduced)
+classes $a$ modulo $q$.
+
+The weighted large sieve inequality from Theorem 1 in
+<script type="text/javascript">bibref("Montgomery-Vaughan*74")</script>
+reads as follows.
+<br>
+<span class="THM">Theorem (1974)</span>
+<blockquote class="outer-thm">
+<div class="thm">
+Let $M$ and $N\ge 1$ be two real numbers. Let $X$ be a set of points of
+$[0,1)$. Define
+$
+\displaystyle
+\delta(x)=\min_{\substack{y\in X\\ y\neq x}}
+\min_{k\in\mathbb{Z}}|x-y+k|.
+$
+Then, for any sequence of complex numbers $(a_n)_{M < n\le M+N}$, we have
+$$
+\sum_{x\in X}\left|
+\bigl(N+c\delta(x)^{-1}\bigr)\sum_{M < n\le M+N} a_n \exp(2i\pi nx)
+\right|^2
+\le \sum_{M < n\le M+N}|a_n|^2
+	      $$
+	      for $c=3/2$.
+</div></blockquote>
+It is expected that one can reduce the constant $c=3/2$ to 1. In this
+direction, we find in
+<script type="text/javascript">bibref("Preissmann*84")</script>
+the next result.
+<br>
+<span class="THM">Theorem (1984)</span>
+<blockquote class="outer-thm">
+<div class="thm">
+We may take $\displaystyle c= \sqrt{1+\tfrac23\sqrt{\tfrac65}} =
+1.3154\cdots < 4/3$ in the previous theorem.
+</div></blockquote>
 
 <!-- ========================================================= -->
 <!-- =====  YOU CAN ALSO ADD ANCHORS  ======================== --> 
@@ -154,7 +192,7 @@ The summation over $a$ runs over all invertible classes $a$ modulo $q$.
 </center>
 <div align="right" class="lastmodif">
   <!-- ==== LAST UPDATE HERE ======= -->
-  Last updated on July 14th, 2013, by Olivier Ramar&eacute;
+  Last updated on February 7th, 2024, by Olivier Ramar&eacute;
 </div>
 
 
