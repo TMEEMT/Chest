@@ -184,6 +184,11 @@ Cazaran, J., \& Moree, P. 1999.
 \newblock based on a lecture given 01-12-1997 by J. Cazaran at the Hardy
   symposium in Sydney.
 
+\bibitem[\protect\citename{Chen, }2022]{Chen*22}
+Chen, Bo. 2022.
+\newblock Explicit upper bound on the least primitive root modulo {$p^2$}.
+\newblock {\em Int. J. Number Theory}, {\bf 18}(2), 389--395.
+
 \bibitem[\protect\citename{Chen \& Wang, }1989]{Chen-Wang*89-2}
 Chen, Jingrun, \& Wang, Tianze. 1989.
 \newblock On the distribution of zeros of {D}irichlet {L}-functions.
@@ -717,6 +722,11 @@ Karatsuba, A.~A., \& Korol\"{e}v, M.~A. 2007.
 \newblock Approximation of a trigonometric sum by a shorter one.
 \newblock {\em Dokl. Akad. Nauk}, {\bf 412}(2), 159--161.
 
+\bibitem[\protect\citename{Kerr {\em et~al.}, }2020]{Kerr-McGown-Trudgian*20}
+Kerr, Bryce, McGown, Kevin~J., \& Trudgian, Tim. 2020.
+\newblock The least primitive root modulo {$p^2$}.
+\newblock {\em J. Number Theory}, {\bf 215}, 20--27.
+
 \bibitem[\protect\citename{Kotnik \& van~de Lune, }2004]{Kotnik-VanDeLune*04}
 Kotnik, Tadej, \& van~de Lune, Jan. 2004.
 \newblock On the order of the {M}ertens function.
@@ -910,10 +920,21 @@ McCurley, K.S. 1984c.
 \newblock Explicit zero-free regions for {D}irichlet $L$-functions.
 \newblock {\em J. Number Theory}, {\bf 19}, 7--32.
 
+\bibitem[\protect\citename{McGown {\em et~al.},
+  }2016]{McGown-Trevino-Trudgian*16}
+McGown, Kevin, Trevi\~{n}o, Enrique, \& Trudgian, Tim. 2016.
+\newblock Resolving {G}rosswald's conjecture on {GRH}.
+\newblock {\em Funct. Approx. Comment. Math.}, {\bf 55}(2), 215--225.
+
 \bibitem[\protect\citename{McGown, }2012]{McGown*12}
 McGown, Kevin~J. 2012.
 \newblock Norm-{E}uclidean cyclic fields of prime degree.
 \newblock {\em Int. J. Number Theory}, {\bf 8}(1), 227--254.
+
+\bibitem[\protect\citename{McGown \& Trudgian, }2020]{McGown-Trudgian*20}
+McGown, Kevin~J., \& Trudgian, Tim. 2020.
+\newblock Explicit upper bounds on the least primitive root.
+\newblock {\em Proc. Amer. Math. Soc.}, {\bf 148}(3), 1049--1061.
 
 \bibitem[\protect\citename{Montgomery, }1994]{Montgomery*94}
 Montgomery, H.L. 1994.

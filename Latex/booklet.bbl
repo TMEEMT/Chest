@@ -1106,6 +1106,36 @@
       \field{pages}{289\bibrangedash 312}
       \range{pages}{24}
     \endentry
+    \entry{Chen*22}{article}{}
+      \name{author}{1}{}{%
+        {{hash=31960f03389184b7f052f5b197cc9fdf}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{31960f03389184b7f052f5b197cc9fdf}
+      \strng{fullhash}{31960f03389184b7f052f5b197cc9fdf}
+      \strng{bibnamehash}{31960f03389184b7f052f5b197cc9fdf}
+      \strng{authorbibnamehash}{31960f03389184b7f052f5b197cc9fdf}
+      \strng{authornamehash}{31960f03389184b7f052f5b197cc9fdf}
+      \strng{authorfullhash}{31960f03389184b7f052f5b197cc9fdf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1793-0421,1793-7310}
+      \field{journaltitle}{Int. J. Number Theory}
+      \field{number}{2}
+      \field{title}{Explicit upper bound on the least primitive root modulo {$p^2$}}
+      \field{volume}{18}
+      \field{year}{2022}
+      \field{pages}{389\bibrangedash 395}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1142/S1793042122500233
+      \endverb
+    \endentry
     \entry{Chen-Wang*89-2}{article}{}
       \name{author}{2}{}{%
         {{hash=1d6541fa912cde87db70ad0c5cc62a6b}{%
@@ -4054,6 +4084,45 @@
       \verb 10.1134/S1064562407010115
       \endverb
     \endentry
+    \entry{Kerr-McGown-Trudgian*20}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f618b0f2d8d150a9c33549702f683b8c}{%
+           family={Kerr},
+           familyi={K\bibinitperiod},
+           given={Bryce},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f34e59c6e26eeb968b5eb04bd9ab9950}{%
+           family={McGown},
+           familyi={M\bibinitperiod},
+           given={Kevin\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=af8f95636cfb8ee32db62432b50fcea2}{%
+           family={Trudgian},
+           familyi={T\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e5ab1d2d830f158e96cafff2c68ab02b}
+      \strng{fullhash}{e5ab1d2d830f158e96cafff2c68ab02b}
+      \strng{bibnamehash}{e5ab1d2d830f158e96cafff2c68ab02b}
+      \strng{authorbibnamehash}{e5ab1d2d830f158e96cafff2c68ab02b}
+      \strng{authornamehash}{e5ab1d2d830f158e96cafff2c68ab02b}
+      \strng{authorfullhash}{e5ab1d2d830f158e96cafff2c68ab02b}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-314X,1096-1658}
+      \field{journaltitle}{J. Number Theory}
+      \field{title}{The least primitive root modulo {$p^2$}}
+      \field{volume}{215}
+      \field{year}{2020}
+      \field{pages}{20\bibrangedash 27}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.jnt.2020.01.002
+      \endverb
+    \endentry
     \entry{Kotnik-VanDeLune*04}{article}{}
       \name{author}{2}{}{%
         {{hash=9491eb14d70047b89ad523bb740e7125}{%
@@ -5149,6 +5218,46 @@
       \verb :/home/ramare/tex/Other/Tao/S0025-5718-2013-02733-0.pdf:PDF;:/home/ramare/tex/Other/Tao/120130-Tao-v2.pdf:PDF;:/home/ramare/tex/Other/Tao/120130-Tao-v1.pdf:PDF
       \endverb
     \endentry
+    \entry{McGown-Trevino-Trudgian*16}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1d9690faa00251cf9d91e7fe5de810f5}{%
+           family={McGown},
+           familyi={M\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2c692aac1f20262a3ef154545fc53856}{%
+           family={Treviño},
+           familyi={T\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod}}}%
+        {{hash=af8f95636cfb8ee32db62432b50fcea2}{%
+           family={Trudgian},
+           familyi={T\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{35e818630ff6c5bc84fed2e67dccafaa}
+      \strng{fullhash}{35e818630ff6c5bc84fed2e67dccafaa}
+      \strng{bibnamehash}{35e818630ff6c5bc84fed2e67dccafaa}
+      \strng{authorbibnamehash}{35e818630ff6c5bc84fed2e67dccafaa}
+      \strng{authornamehash}{35e818630ff6c5bc84fed2e67dccafaa}
+      \strng{authorfullhash}{35e818630ff6c5bc84fed2e67dccafaa}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0208-6573,2080-9433}
+      \field{journaltitle}{Funct. Approx. Comment. Math.}
+      \field{number}{2}
+      \field{title}{Resolving {G}rosswald's conjecture on {GRH}}
+      \field{volume}{55}
+      \field{year}{2016}
+      \field{pages}{215\bibrangedash 225}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.7169/facm/2016.55.2.5
+      \endverb
+    \endentry
     \entry{McGown*12}{article}{}
       \name{author}{1}{}{%
         {{hash=f34e59c6e26eeb968b5eb04bd9ab9950}{%
@@ -5183,6 +5292,41 @@
       \endverb
       \verb{url}
       \verb http://dx.doi.org/10.1142/S1793042112500133
+      \endverb
+    \endentry
+    \entry{McGown-Trudgian*20}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f34e59c6e26eeb968b5eb04bd9ab9950}{%
+           family={McGown},
+           familyi={M\bibinitperiod},
+           given={Kevin\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=af8f95636cfb8ee32db62432b50fcea2}{%
+           family={Trudgian},
+           familyi={T\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{f68e143e11f9c802b40766175792d92a}
+      \strng{fullhash}{f68e143e11f9c802b40766175792d92a}
+      \strng{bibnamehash}{f68e143e11f9c802b40766175792d92a}
+      \strng{authorbibnamehash}{f68e143e11f9c802b40766175792d92a}
+      \strng{authornamehash}{f68e143e11f9c802b40766175792d92a}
+      \strng{authorfullhash}{f68e143e11f9c802b40766175792d92a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-9939,1088-6826}
+      \field{journaltitle}{Proc. Amer. Math. Soc.}
+      \field{number}{3}
+      \field{title}{Explicit upper bounds on the least primitive root}
+      \field{volume}{148}
+      \field{year}{2020}
+      \field{pages}{1049\bibrangedash 1061}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1090/proc/14800
       \endverb
     \endentry
     \entry{Montgomery*94}{book}{}
@@ -7476,12 +7620,6 @@
       \range{pages}{10}
       \verb{doi}
       \verb 10.1007/s11139-014-9656-6
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1007/s11139-014-9656-6
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1007/s11139-014-9656-6
       \endverb
     \endentry
     \entry{Trudgian*12b}{article}{}
