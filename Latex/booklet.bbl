@@ -5294,6 +5294,45 @@
       \verb 10.4153/CMB-1966-039-4
       \endverb
     \endentry
+    \entry{Mossinghoff-Starichkova-Trudgian*22}{article}{}
+      \name{author}{3}{}{%
+        {{hash=454d3dedc781ec4a49112de10313b411}{%
+           family={Mossinghoff},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=164589934f764895e4c8bdce012a0cde}{%
+           family={Starichkova},
+           familyi={S\bibinitperiod},
+           given={Valeriia\bibnamedelima V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=66490333fa52c597ed64f7abf27c7710}{%
+           family={Trudgian},
+           familyi={T\bibinitperiod},
+           given={Timothy\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3a947e414280df17c735c00949844a6}
+      \strng{fullhash}{e3a947e414280df17c735c00949844a6}
+      \strng{bibnamehash}{e3a947e414280df17c735c00949844a6}
+      \strng{authorbibnamehash}{e3a947e414280df17c735c00949844a6}
+      \strng{authornamehash}{e3a947e414280df17c735c00949844a6}
+      \strng{authorfullhash}{e3a947e414280df17c735c00949844a6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0022-314X,1096-1658}
+      \field{journaltitle}{J. Number Theory}
+      \field{title}{Explicit lower bounds on {$|L (1, \chi)|$}}
+      \field{volume}{240}
+      \field{year}{2022}
+      \field{pages}{641\bibrangedash 655}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.jnt.2021.12.013
+      \endverb
+    \endentry
     \entry{Mossinghoff-Trudgian*15}{article}{}
       \name{author}{2}{}{%
         {{hash=454d3dedc781ec4a49112de10313b411}{%

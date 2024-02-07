@@ -1,22 +1,22 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'booklet.blg'
-[37] biber:340> INFO - === mar. févr.  6, 2024, 19:22:46
-[46] Biber.pm:418> INFO - Reading 'booklet.bcf'
-[123] Biber.pm:972> INFO - Found 244 citekeys in bib section 0
-[128] Biber.pm:4383> INFO - Processing section 0
-[134] Biber.pm:4574> INFO - Looking for bibtex file 'Local-TME-EMT.bib' for section 0
-[162] bibtex.pm:1713> INFO - LaTeX decoding ...
+[34] biber:340> INFO - === mer. févr.  7, 2024, 07:23:27
+[42] Biber.pm:418> INFO - Reading 'booklet.bcf'
+[120] Biber.pm:972> INFO - Found 245 citekeys in bib section 0
+[125] Biber.pm:4383> INFO - Processing section 0
+[131] Biber.pm:4574> INFO - Looking for bibtex file 'Local-TME-EMT.bib' for section 0
+[159] bibtex.pm:1713> INFO - LaTeX decoding ...
 [984] bibtex.pm:1518> INFO - Found BibTeX data source 'Local-TME-EMT.bib'
-[1492] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1492] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1492] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[1492] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[1568] bbl.pm:654> INFO - Writing 'booklet.bbl' with encoding 'UTF-8'
-[1606] bbl.pm:757> INFO - Output to booklet.bbl
-[1607] Biber.pm:130> WARN - Duplicate entry key: 'Bordignon*21' in file 'Local-TME-EMT.bib', skipping ...
-[1607] Biber.pm:130> WARN - Duplicate entry key: 'Debaene*19' in file 'Local-TME-EMT.bib', skipping ...
-[1607] Biber.pm:130> WARN - Possible typo (case mismatch) between datasource keys: 'Kotnik-vandeLune*04' and 'Kotnik-VanDeLune*04' in file 'Local-TME-EMT.bib'
-[1607] Biber.pm:130> WARN - legacy year field '1983/84' in entry 'Dress*83' is not an integer - this will probably not sort properly.
-[1607] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_lw_F/a89bdbd6e0cd3c465a1a02471cc714fd_8323.utf8, line 19591, warning: 374 characters of junk seen at toplevel
-[1607] Biber.pm:130> WARN - I didn't find a database entry for 'Kadiri-Faber*18' (section 0)
-[1607] Biber.pm:132> INFO - WARNINGS: 6
+[1497] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1497] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1497] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1497] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[1573] bbl.pm:654> INFO - Writing 'booklet.bbl' with encoding 'UTF-8'
+[1622] bbl.pm:757> INFO - Output to booklet.bbl
+[1623] Biber.pm:130> WARN - Duplicate entry key: 'Bordignon*21' in file 'Local-TME-EMT.bib', skipping ...
+[1623] Biber.pm:130> WARN - Duplicate entry key: 'Debaene*19' in file 'Local-TME-EMT.bib', skipping ...
+[1623] Biber.pm:130> WARN - Possible typo (case mismatch) between datasource keys: 'Kotnik-vandeLune*04' and 'Kotnik-VanDeLune*04' in file 'Local-TME-EMT.bib'
+[1623] Biber.pm:130> WARN - legacy year field '1983/84' in entry 'Dress*83' is not an integer - this will probably not sort properly.
+[1623] Biber.pm:130> WARN - BibTeX subsystem: /tmp/biber_tmp_SiBP/a89bdbd6e0cd3c465a1a02471cc714fd_7424.utf8, line 19605, warning: 374 characters of junk seen at toplevel
+[1623] Biber.pm:130> WARN - I didn't find a database entry for 'Kadiri-Faber*18' (section 0)
+[1623] Biber.pm:132> INFO - WARNINGS: 6

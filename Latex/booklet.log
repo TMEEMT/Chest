@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  6 FEB 2024 19:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  7 FEB 2024 07:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,11 +2237,14 @@ Overfull \hbox (14.09077pt too wide) in paragraph at lines 29--33
 r bound proved in [[][]S. R. Louboutin,
  []
 
-) (./Art15.tex [63
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.3})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 \cite{Mossinghoff-Starichkova-Trudgian*22}
+                                                [63
 
-] [64
-
-]
+]) (./Art15.tex [64]
 Chapter 12.
 pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.3})
  has been already used, duplicate ignored
@@ -2276,9 +2279,10 @@ nored
 <to be read again> 
                    \relax 
 l.73 \cite{Pomerance*11} 
-                         and get the following. [65]pdfTeX warning (ext4): dest
-ination with the same identifier (name{Hfootnote.3}) has been already used, dup
-licate ignored
+                         and get the following. [65
+
+]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.3}
+) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.94 \cite{Landau*18-3}.
@@ -3392,12 +3396,12 @@ l.168 From \cite{Louboutin*00}:
 <to be read again> 
                    \relax 
 l.183 From \cite{Louboutin*03}:
-                               pdfTeX warning (ext4): destination with the same
- identifier (name{Hfootnote.6}) has been already used, duplicate ignored
+                                [109]pdfTeX warning (ext4): destination with th
+e same identifier (name{Hfootnote.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200 Again from \cite{Louboutin*03}:
-                                      [109]) (./Art19.tex [110]
+l.220 And a third result from \cite{Louboutin*03}:
+                                                  ) (./Art19.tex [110]
 Chapter 20.
 ) [111
 
@@ -3531,13 +3535,13 @@ Overfull \hbox (4.38914pt too wide) in paragraph at lines 287--287
 c al-ge-braic num-ber the-ory\OT1/cmr/m/n/10 . Vol. 30.
  []
 
-[130]
+[130] [131]
 Overfull \hbox (29.46968pt too wide) in paragraph at lines 287--287
 \OT1/cmr/m/n/10 lems with ir-reg-u-lar or prime num-bers". In: \OT1/cmr/m/it/10
  Tr. Mat. Inst. Steklova \OT1/cmr/m/n/10 314.Analitich-
  []
 
-[131] [132]
+[132]
 Overfull \hbox (7.06023pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 H. Siebert. \  Mont-gomery's weighted sieve for di-men-sion
  two". In: \OT1/cmr/m/it/10 Monatsh.
@@ -3561,24 +3565,29 @@ Overfull \hbox (1.6206pt too wide) in paragraph at lines 287--287
 n the zero-counting
  []
 
-
+[133]
 Overfull \hbox (4.4796pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 T. Trud-gian. \  Im-prove-ments to Tur-ing's method". In: \
 OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
  []
 
-[133] [134] (./booklet.aux)
+[134] [135] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
 (rerunfilecheck)             Checksum: C6A78D55FDF44AA3E5039CD7FEA78A91;20366.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29952 strings out of 479583
- 549665 string characters out of 5876739
- 1284022 words of memory out of 5000000
- 47003 multiletter control sequences out of 15000+600000
+ 29961 strings out of 479583
+ 550035 string characters out of 5876739
+ 1284139 words of memory out of 5000000
+ 47010 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3623,10 +3632,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (136 pages, 903704 bytes).
+Output written on booklet.pdf (137 pages, 905128 bytes).
 PDF statistics:
- 2540 PDF objects out of 2984 (max. 8388607)
- 2292 compressed objects within 23 object streams
- 489 named destinations out of 1000 (max. 500000)
+ 2548 PDF objects out of 2984 (max. 8388607)
+ 2299 compressed objects within 23 object streams
+ 491 named destinations out of 1000 (max. 500000)
  769 words of extra memory for PDF output out of 10000 (max. 10000000)
 
