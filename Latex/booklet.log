@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  7 FEB 2024 09:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  7 FEB 2024 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3650,11 +3650,6 @@ OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
 [136] [137] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
 (rerunfilecheck)             Checksum: C6A78D55FDF44AA3E5039CD7FEA78A91;20366.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
@@ -3662,7 +3657,7 @@ Package logreq Info: Writing requests to 'booklet.run.xml'.
 Here is how much of TeX's memory you used:
  30045 strings out of 479583
  552561 string characters out of 5876739
- 1284976 words of memory out of 5000000
+ 1283976 words of memory out of 5000000
  47082 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
@@ -3708,10 +3703,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (139 pages, 916969 bytes).
+Output written on booklet.pdf (139 pages, 916973 bytes).
 PDF statistics:
- 2603 PDF objects out of 2984 (max. 8388607)
- 2351 compressed objects within 24 object streams
+ 2601 PDF objects out of 2984 (max. 8388607)
+ 2349 compressed objects within 24 object streams
  503 named destinations out of 1000 (max. 500000)
  769 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5287,12 +5287,6 @@
       \verb{doi}
       \verb 10.1142/S1793042112500133
       \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1142/S1793042112500133
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1142/S1793042112500133
-      \endverb
     \endentry
     \entry{McGown-Trudgian*20}{article}{}
       \name{author}{2}{}{%
