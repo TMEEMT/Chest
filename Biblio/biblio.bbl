@@ -648,6 +648,12 @@ Jarn\'{i}k, V. 1925.
 \newblock {\"Uber die Gitterpunkte auf konvexen Kurven}.
 \newblock {\em Math. Z.}, {\bf 24}, 500--518.
 
+\bibitem[\protect\citename{Johnston {\em et~al.},
+  }2023]{Johnston-Ramare-Trudgian*23}
+Johnston, D.~R., Ramar\'{e}, O., \& Trudgian, T. 2023.
+\newblock An explicit upper bound for {$L(1,\chi)$} when {$\chi$} is quadratic.
+\newblock {\em Res. Number Theory}, {\bf 9}(4), Paper No. 72, 20.
+
 \bibitem[\protect\citename{Johnston \& Yang, }2023]{Johnston-Yang*23}
 Johnston, Daniel~R., \& Yang, Andrew. 2023.
 \newblock Some explicit estimates for the error term in the prime number
@@ -831,6 +837,12 @@ Louboutin, S.R. 2005.
   functions taking into account the behavior of small primes.
 \newblock {\em J. Th\'eor. Nombres Bordeaux}, {\bf 17}(2), 559--573.
 
+\bibitem[\protect\citename{Louboutin, }2002]{Louboutin*02}
+Louboutin, St\'{e}phane. 2002.
+\newblock Explicit upper bounds for {$|L(1,\chi)|$} for primitive even
+  {D}irichlet characters.
+\newblock {\em Acta Arith.}, {\bf 101}(1), 1--18.
+
 \bibitem[\protect\citename{Louboutin, }2015a]{Louboutin*15}
 Louboutin, St\'ephane~R. 2015a.
 \newblock An explicit lower bound on moduli of {D}irichlet {$L$}-functions at
@@ -846,6 +858,12 @@ Louboutin, St\'{e}phane~R. 2015b.
 Louboutin, St\'{e}phane~R. 2017.
 \newblock Simple zeros of {D}edekind zeta functions.
 \newblock {\em Funct. Approx. Comment. Math.}, {\bf 56}(1), 109--116.
+
+\bibitem[\protect\citename{Louboutin, }2018]{Louboutin*18}
+Louboutin, St\'{e}phane~R. 2018.
+\newblock Upper bounds on {$L(1,\chi)$} taking into account a finite set of
+  prime ideals.
+\newblock {\em Acta Arith.}, {\bf 182}(3), 249--269.
 
 \bibitem[\protect\citename{{Mac Leod}, }1967]{MacLeod*69}
 {Mac Leod}, {R.A.} 1967.
@@ -1008,6 +1026,11 @@ Platt, Dave, \& Trudgian, Tim. 2021a.
 Platt, David~J. 2017.
 \newblock Isolating some non-trivial zeros of zeta.
 \newblock {\em Math. Comp.}, {\bf 86}(307), 2449--2467.
+
+\bibitem[\protect\citename{Platt \& Eddin, }2013]{Platt-Eddin*13}
+Platt, David~J., \& Eddin, Sumaia~Saad. 2013.
+\newblock Explicit upper bounds for {$|L(1,\chi)|$} when {$\chi(3)=0$}.
+\newblock {\em Colloq. Math.}, {\bf 133}(1), 23--34.
 
 \bibitem[\protect\citename{Platt \& Trudgian, }2021b]{Platt-Trudgian*21b}
 Platt, David~J., \& Trudgian, Timothy~S. 2021b.
@@ -1215,6 +1238,12 @@ Rosser, J.B., \& Schoenfeld, L. 1962.
 Rumely, R. 1993.
 \newblock Numerical {C}omputations {C}oncerning the {ERH}.
 \newblock {\em Math. Comp.}, {\bf 61}, 415--440.
+
+\bibitem[\protect\citename{Saad~Eddin, }2016]{SaadEddin*16}
+Saad~Eddin, Sumaia. 2016.
+\newblock An explicit upper bound for {$|L(1,\chi)|$} when {$\chi(2)=1$} and
+  {$\chi$} is even.
+\newblock {\em Int. J. Number Theory}, {\bf 12}(8), 2299--2315.
 
 \bibitem[\protect\citename{Saouter \& Demichel, }2010]{Saouter-Demichel*10}
 Saouter, Y., \& Demichel, P. 2010.

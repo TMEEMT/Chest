@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2023.5.30)  7 FEB 2024 07:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=latex 2023.5.30)  7 FEB 2024 07:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -242,7 +242,7 @@ LaTeX Info: Redefining \nameref on input line 8.
 
 
 
-LaTeX Warning: Citation `Kadiri-Faber*18' undefined on input line 241.
+LaTeX Warning: Citation `Kadiri-Faber*18' undefined on input line 246.
 
 (./biblio.bbl
 LaTeX Font Info:    Trying to load font information for U+msa on input line 5.
@@ -328,30 +328,30 @@ Overfull \hbox (192.02338pt too wide) in paragraph at lines 580--584
  []
 
 [7]
-Underfull \hbox (badness 5008) in paragraph at lines 658--663
+Underfull \hbox (badness 5008) in paragraph at lines 664--669
 []\OT1/cmr/m/n/10 Kadiri, H. 2002.  \OT1/cmr/m/it/10 Une r^^Segion ex-plicite s
 ans z^^Seros pour les fonc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 658--663
+Underfull \hbox (badness 10000) in paragraph at lines 664--669
 \OT1/cmr/m/it/10 tions $\OML/cmm/m/it/10 L$ \OT1/cmr/m/it/10 de Dirich-let\OT1/
 cmr/m/n/10 .  Ph.D. the-sis, Uni-ver-sit^^Se Lille 1.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 683--687
+Underfull \hbox (badness 10000) in paragraph at lines 689--693
 []\OT1/cmr/m/n/10 Kadiri, H. 2012.  Ex-plicit zero-free re-gions for Dedekind
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 683--687
+Underfull \hbox (badness 10000) in paragraph at lines 689--693
 \OT1/cmr/m/n/10 zeta func-tions.  \OT1/cmr/m/it/10 Int. J. Num-ber The-ory\OT1/
 cmr/m/n/10 , \OT1/cmr/bx/n/10 8\OT1/cmr/m/n/10 (1), 125--147.
  []
 
 [8] [9] [10]
-Underfull \hbox (badness 1859) in paragraph at lines 966--970
+Underfull \hbox (badness 1859) in paragraph at lines 984--988
 []\OT1/cmr/m/n/10 Nicolas, J.-L. 2008.  Quelques in^^Segalit^^Ses ef-fec-tives 
 en-tre des fonc-tions
  []
@@ -364,12 +364,12 @@ Package rerunfilecheck Info: File `biblio.out' has not changed.
 (rerunfilecheck)             Checksum: EDE23595DCA8A4392503813D74F4CD13;94.
  ) 
 Here is how much of TeX's memory you used:
- 8204 strings out of 479584
- 128311 string characters out of 5876765
- 432166 words of memory out of 5000000
- 26125 multiletter control sequences out of 15000+600000
+ 8209 strings out of 479584
+ 128398 string characters out of 5876765
+ 432456 words of memory out of 5000000
+ 26130 multiletter control sequences out of 15000+600000
  472871 words of font info for 45 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
- 65i,5n,67p,250b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,5n,67p,250b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on biblio.dvi (16 pages, 94432 bytes).
+Output written on biblio.dvi (16 pages, 96212 bytes).

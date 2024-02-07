@@ -3656,6 +3656,46 @@
       \field{pages}{500\bibrangedash 518}
       \range{pages}{19}
     \endentry
+    \entry{Johnston-Ramare-Trudgian*23}{article}{}
+      \name{author}{3}{}{%
+        {{hash=445509cb1ea4f012a3febf2f7d1900dc}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={D.\bibnamedelimi R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b77f9695ed763c6cb5543e32ff919490}{%
+           family={Ramaré},
+           familyi={R\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=98fbc149f6c8fe3722fe4f2d90edce38}{%
+           family={Trudgian},
+           familyi={T\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{05d13d977b759ba8ee21d1522116c1f0}
+      \strng{fullhash}{05d13d977b759ba8ee21d1522116c1f0}
+      \strng{bibnamehash}{05d13d977b759ba8ee21d1522116c1f0}
+      \strng{authorbibnamehash}{05d13d977b759ba8ee21d1522116c1f0}
+      \strng{authornamehash}{05d13d977b759ba8ee21d1522116c1f0}
+      \strng{authorfullhash}{05d13d977b759ba8ee21d1522116c1f0}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2522-0160,2363-9555}
+      \field{journaltitle}{Res. Number Theory}
+      \field{number}{4}
+      \field{title}{An explicit upper bound for {$L(1,\chi)$} when {$\chi$} is quadratic}
+      \field{volume}{9}
+      \field{year}{2023}
+      \field{pages}{Paper No. 72\bibrangessep 20}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1007/s40993-023-00476-4
+      \endverb
+    \endentry
     \entry{Johnston-Yang*23}{article}{}
       \name{author}{2}{}{%
         {{hash=584ae3c384fb6ae61107c1e1894b520b}{%
@@ -4734,6 +4774,37 @@
       \verb http://jtnb.cedram.org/item?id=JTNB_2005__17_2_559_0
       \endverb
     \endentry
+    \entry{Louboutin*02}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5c00752f990a9c4ed04df247ca74463c}{%
+           family={Louboutin},
+           familyi={L\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c00752f990a9c4ed04df247ca74463c}
+      \strng{fullhash}{5c00752f990a9c4ed04df247ca74463c}
+      \strng{bibnamehash}{5c00752f990a9c4ed04df247ca74463c}
+      \strng{authorbibnamehash}{5c00752f990a9c4ed04df247ca74463c}
+      \strng{authornamehash}{5c00752f990a9c4ed04df247ca74463c}
+      \strng{authorfullhash}{5c00752f990a9c4ed04df247ca74463c}
+      \field{extraname}{9}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0065-1036,1730-6264}
+      \field{journaltitle}{Acta Arith.}
+      \field{number}{1}
+      \field{title}{Explicit upper bounds for {$|L(1,\chi)|$} for primitive even {D}irichlet characters}
+      \field{volume}{101}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.4064/aa101-1-1
+      \endverb
+    \endentry
     \entry{Louboutin*15}{article}{}
       \name{author}{1}{}{%
         {{hash=e223e2ee7d488a606e95e71e95603236}{%
@@ -4748,7 +4819,7 @@
       \strng{authorbibnamehash}{e223e2ee7d488a606e95e71e95603236}
       \strng{authornamehash}{e223e2ee7d488a606e95e71e95603236}
       \strng{authorfullhash}{e223e2ee7d488a606e95e71e95603236}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
@@ -4776,7 +4847,7 @@
       \strng{authorbibnamehash}{e223e2ee7d488a606e95e71e95603236}
       \strng{authornamehash}{e223e2ee7d488a606e95e71e95603236}
       \strng{authorfullhash}{e223e2ee7d488a606e95e71e95603236}
-      \field{extraname}{10}
+      \field{extraname}{11}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
@@ -4807,7 +4878,7 @@
       \strng{authorbibnamehash}{e223e2ee7d488a606e95e71e95603236}
       \strng{authornamehash}{e223e2ee7d488a606e95e71e95603236}
       \strng{authorfullhash}{e223e2ee7d488a606e95e71e95603236}
-      \field{extraname}{11}
+      \field{extraname}{12}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{labelnamesource}{author}
@@ -4822,6 +4893,37 @@
       \range{pages}{8}
       \verb{doi}
       \verb 10.7169/facm/1598
+      \endverb
+    \endentry
+    \entry{Louboutin*18}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e223e2ee7d488a606e95e71e95603236}{%
+           family={Louboutin},
+           familyi={L\bibinitperiod},
+           given={Stéphane\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e223e2ee7d488a606e95e71e95603236}
+      \strng{fullhash}{e223e2ee7d488a606e95e71e95603236}
+      \strng{bibnamehash}{e223e2ee7d488a606e95e71e95603236}
+      \strng{authorbibnamehash}{e223e2ee7d488a606e95e71e95603236}
+      \strng{authornamehash}{e223e2ee7d488a606e95e71e95603236}
+      \strng{authorfullhash}{e223e2ee7d488a606e95e71e95603236}
+      \field{extraname}{13}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0065-1036,1730-6264}
+      \field{journaltitle}{Acta Arith.}
+      \field{number}{3}
+      \field{title}{Upper bounds on {$L(1,\chi)$} taking into account a finite set of prime ideals}
+      \field{volume}{182}
+      \field{year}{2018}
+      \field{pages}{249\bibrangedash 269}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.4064/aa170426-23-10
       \endverb
     \endentry
     \entry{MacLeod*69}{article}{}
@@ -5787,6 +5889,41 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1090/mcom/3198
+      \endverb
+    \endentry
+    \entry{Platt-Eddin*13}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0cb59969af80e6661795f3ed6010efa9}{%
+           family={Platt},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=af592cae5bd718c2d21dfc8ac179c60c}{%
+           family={Eddin},
+           familyi={E\bibinitperiod},
+           given={Sumaia\bibnamedelima Saad},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d511e9cf6dad59fd168e481b2edb7e96}
+      \strng{fullhash}{d511e9cf6dad59fd168e481b2edb7e96}
+      \strng{bibnamehash}{d511e9cf6dad59fd168e481b2edb7e96}
+      \strng{authorbibnamehash}{d511e9cf6dad59fd168e481b2edb7e96}
+      \strng{authornamehash}{d511e9cf6dad59fd168e481b2edb7e96}
+      \strng{authorfullhash}{d511e9cf6dad59fd168e481b2edb7e96}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0010-1354,1730-6302}
+      \field{journaltitle}{Colloq. Math.}
+      \field{number}{1}
+      \field{title}{Explicit upper bounds for {$|L(1,\chi)|$} when {$\chi(3)=0$}}
+      \field{volume}{133}
+      \field{year}{2013}
+      \field{pages}{23\bibrangedash 34}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.4064/cm133-1-2
       \endverb
     \endentry
     \entry{Platt-Trudgian*21b}{article}{}
@@ -6773,6 +6910,36 @@
       \field{labeltitlesource}{title}
       \field{title}{On the {R}iemann hypothesis}
       \field{year}{2002}
+    \endentry
+    \entry{SaadEddin*16}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f6728d2ae545d7c09913878db135da7b}{%
+           family={Saad\bibnamedelima Eddin},
+           familyi={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Sumaia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6728d2ae545d7c09913878db135da7b}
+      \strng{fullhash}{f6728d2ae545d7c09913878db135da7b}
+      \strng{bibnamehash}{f6728d2ae545d7c09913878db135da7b}
+      \strng{authorbibnamehash}{f6728d2ae545d7c09913878db135da7b}
+      \strng{authornamehash}{f6728d2ae545d7c09913878db135da7b}
+      \strng{authorfullhash}{f6728d2ae545d7c09913878db135da7b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1793-0421,1793-7310}
+      \field{journaltitle}{Int. J. Number Theory}
+      \field{number}{8}
+      \field{title}{An explicit upper bound for {$|L(1,\chi)|$} when {$\chi(2)=1$} and {$\chi$} is even}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{2299\bibrangedash 2315}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1142/S1793042116501372
+      \endverb
     \endentry
     \entry{Saouter-Demichel*10}{article}{}
       \name{author}{2}{}{%
