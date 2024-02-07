@@ -223,6 +223,7 @@ Montgomery-Vaughan*74
 Montgomery-Vaughan*73
 Montgomery-Vaughan*74
 Preissmann*84
+Yangjit*23
 Dusart*98
 Dusart*07
 Rosser-Schoenfeld*62

@@ -7753,6 +7753,35 @@
       \field{volume}{2}
       \field{year}{1983}
     \endentry
+    \entry{Yangjit*23}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5a4e0d2603a65e12290fb1d070866e11}{%
+           family={Yangjit},
+           familyi={Y\bibinitperiod},
+           given={Wijit},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a4e0d2603a65e12290fb1d070866e11}
+      \strng{fullhash}{5a4e0d2603a65e12290fb1d070866e11}
+      \strng{bibnamehash}{5a4e0d2603a65e12290fb1d070866e11}
+      \strng{authorbibnamehash}{5a4e0d2603a65e12290fb1d070866e11}
+      \strng{authornamehash}{5a4e0d2603a65e12290fb1d070866e11}
+      \strng{authorfullhash}{5a4e0d2603a65e12290fb1d070866e11}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2330-1511}
+      \field{journaltitle}{Proc. Amer. Math. Soc. Ser. B}
+      \field{title}{On the {M}ontgomery--{V}aughan weighted generalization of {H}ilbert's inequality}
+      \field{volume}{10}
+      \field{year}{2023}
+      \field{pages}{439\bibrangedash 454}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1090/bproc/199
+      \endverb
+    \endentry
     \entry{Young-Potler*89}{article}{}
       \name{author}{2}{}{%
         {{hash=b7af0fa8d54276e08234e68cf092a78e}{%
