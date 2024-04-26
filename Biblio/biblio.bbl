@@ -256,6 +256,11 @@ Cully-Hugill, Michaela. 2021.
 \newblock Primes between consecutive powers.
 \newblock {\em arXiv preprint arXiv:2107.14468}.
 
+\bibitem[\protect\citename{Cully-Hugill \& Lee, }2024]{CullyHugill-Lee*24}
+Cully-Hugill, Michaela, \& Lee, Ethan~S. 2024.
+\newblock Corrigendum to `{E}xplicit interval estimates for prime numbers'.
+\newblock {\em Math. Comp.}, {\bf 93}(346), 1019--1025.
+
 \bibitem[\protect\citename{Cully-Hugill \& Trudgian, }2021]{Cully-Trudgian*21}
 Cully-Hugill, Michaela, \& Trudgian, Tim. 2021.
 \newblock Two explicit divisor sums.
@@ -710,6 +715,12 @@ Kadiri, H., \& Ng, N. 2012.
 Kadiri, Habiba. 2018.
 \newblock Explicit zero-free regions for {D}irichlet {$L$}-functions.
 \newblock {\em Mathematika}, {\bf 64}(2), 445--474.
+
+\bibitem[\protect\citename{Kadiri \& Lumley, }2014]{Kadiri-Lumley*14}
+Kadiri, Habiba, \& Lumley, Allysa. 2014.
+\newblock Short effective intervals containing primes.
+\newblock {\em Integers}, {\bf 14}, Paper No. A61, 18.
+\newblock arXiv:1407:7902.
 
 \bibitem[\protect\citename{Kadiri {\em et~al.}, }2018]{Kadiri-Lumley-Ng*18}
 Kadiri, Habiba, Lumley, Allysa, \& Ng, Nathan. 2018.

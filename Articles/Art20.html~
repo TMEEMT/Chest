@@ -79,12 +79,14 @@ MathJax.Hub.Config({
 <hr width="100%" size=10 color="blue">
 </center>
 <div class="Back">
+
   <a href="../index.html#GlobalIndex" class="BackToIndex">[Back to the index]</a>
 </div>
 <br>
 <center>
 <font size=+2>
-   <!-- =====  TITLE HERE ========= -->
+  <!-- =====  TITLE HERE ========= -->
+  Primitive Roots
 </font>
 </center>
 <center>

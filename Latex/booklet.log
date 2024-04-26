@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  7 FEB 2024 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  26 APR 2024 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -224,7 +224,7 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \bibhang=\skip59
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language35
+\blx@langwohyphens=\language87
 \c@mincomprange=\count322
 \c@maxcomprange=\count323
 \c@mincompwidth=\count324
@@ -1500,7 +1500,7 @@ ed
 l.105  and \cite{Coffey*06}.
                              In particular, we have
 Overfull \hbox (103.40735pt too wide) in paragraph at lines 98--111
-[][]\OT1/cmr/m/n/10 128[][]] and [[][]M. Cof-fey, [][]39[][]]. In par-tic-u-lar
+[][]\OT1/cmr/m/n/10 130[][]] and [[][]M. Cof-fey, [][]39[][]]. In par-tic-u-lar
 , we have $\OML/cmm/m/it/10 ^^M[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 ^^@\OT1/cm
 r/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 07281584548367672486058637587490131
 91377 +
@@ -2275,7 +2275,7 @@ ifier (name{Hfootnote.3}) has been already used, duplicate ignored
 l.123 \cite{Louboutin*15}
                          
 Overfull \hbox (14.09077pt too wide) in paragraph at lines 121--125
-\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]142[][]] an-nounces the fol-low-ing lowe
+\OT1/cmr/m/n/10 [[][]S. Louboutin, [][]144[][]] an-nounces the fol-low-ing lowe
 r bound proved in [[][]S. R. Louboutin,
  []
 
@@ -3031,46 +3031,56 @@ l.163 \cite{Young-Potler*89}.
 dentifier (name{Hfootnote.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.166 \cite{Trudgian*16},
+l.166 \cite{Kadiri-Lumley*14}.
+                              pdfTeX warning (ext4): destination with the same 
+identifier (name{Hfootnote.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.180 \cite{CullyHugill-Lee*24}.
+                                pdfTeX warning (ext4): destination with the sam
+e identifier (name{Hfootnote.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.196 \cite{Trudgian*16},
                          pdfTeX warning (ext4): destination with the same ident
 ifier (name{Hfootnote.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.178 \cite{Dusart*16},
+l.208 \cite{Dusart*16},
+                        [91]pdfTeX warning (ext4): destination with the same id
+entifier (name{Hfootnote.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.235 \cite{Maurer*95}:
                        pdfTeX warning (ext4): destination with the same identif
 ier (name{Hfootnote.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.205 \cite{Maurer*95}:
-                       pdfTeX warning (ext4): destination with the same identif
-ier (name{Hfootnote.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.209 \cite{Deshouillers-teRiele-Saouter*98}.
+l.239 \cite{Deshouillers-teRiele-Saouter*98}.
                                              pdfTeX warning (ext4): destination
  with the same identifier (name{Hfootnote.5}) has been already used, duplicate 
 ignored
 <to be read again> 
                    \relax 
-l.212 \cite{Brillhart-Lehmer-Selfridge*75}
+l.242 \cite{Brillhart-Lehmer-Selfridge*75}
                                           pdfTeX warning (ext4): destination wi
 th the same identifier (name{Hfootnote.5}) has been already used, duplicate ign
 ored
 <to be read again> 
                    \relax 
-l.216 \cite{Jaeschke*93}
-                         [91]pdfTeX warning (ext4): destination with the same i
-dentifier (name{Hfootnote.5}) has been already used, duplicate ignored
+l.246 \cite{Jaeschke*93}
+                        pdfTeX warning (ext4): destination with the same identi
+fier (name{Hfootnote.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.228 \cite{CostaPereira*89}
+l.258 \cite{CostaPereira*89}
                             pdfTeX warning (ext4): destination with the same id
 entifier (name{Hfootnote.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.234 \cite{Dudek*16b}
+l.264 \cite{Dudek*16b}
                       
-Overfull \hbox (23.5694pt too wide) in paragraph at lines 238--239
+Overfull \hbox (23.5694pt too wide) in paragraph at lines 268--269
 []\OT1/cmr/m/n/10 The in-ter-val $(\OML/cmm/m/it/10 x; x \OT1/cmr/m/n/10 + 3\OM
 L/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ]$ con-tains a prime for $\OML/cmm/m/it/10 x \
 OMS/cmsy/m/n/10 ^^U []\OT1/cmr/m/n/10 ([](34\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 3
@@ -3081,9 +3091,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.5})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.244 \cite{Cully*21} 
+l.274 \cite{Cully*21} 
                       as follows.
-Overfull \hbox (23.5694pt too wide) in paragraph at lines 248--249
+Overfull \hbox (23.5694pt too wide) in paragraph at lines 278--279
 []\OT1/cmr/m/n/10 The in-ter-val $(\OML/cmm/m/it/10 x; x \OT1/cmr/m/n/10 + 3\OM
 L/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ]$ con-tains a prime for $\OML/cmm/m/it/10 x \
 OMS/cmsy/m/n/10 ^^U []\OT1/cmr/m/n/10 ([](33\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 9
@@ -3091,18 +3101,18 @@ OMS/cmsy/m/n/10 ^^U []\OT1/cmr/m/n/10 ([](33\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 9
  []
 
 
-Overfull \hbox (1.24715pt too wide) in paragraph at lines 259--261
+Overfull \hbox (1.24715pt too wide) in paragraph at lines 289--291
 []\OT1/cmr/m/n/10 Under the Rie-mann Hy-poth-e-sis, the in-ter-val $[]\OML/cmm/
 m/it/10 x \OMS/cmsy/m/n/10 ^^@ [][] [] \OML/cmm/m/it/10 x; x[]$
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.5})
- has been already used, duplicate ignored
+[92]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote
+.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 \cite{Dudek*15}
+l.295 \cite{Dudek*15}
                      
-Overfull \hbox (2.18849pt too wide) in paragraph at lines 269--271
+Overfull \hbox (2.18849pt too wide) in paragraph at lines 299--301
 []\OT1/cmr/m/n/10 Under the Rie-mann Hy-poth-e-sis, the in-ter-val $[]\OML/cmm/
 m/it/10 x \OMS/cmsy/m/n/10 ^^@ [][] [] \OML/cmm/m/it/10 x; x[]$
  []
@@ -3111,10 +3121,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.5})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.274 ...te{Carneiro-Milinovich-Soundararajan*19},
+l.304 ...te{Carneiro-Milinovich-Soundararajan*19},
                                                    the authors go one step f...
 
-Overfull \hbox (5.23328pt too wide) in paragraph at lines 277--279
+Overfull \hbox (5.23328pt too wide) in paragraph at lines 307--309
 []\OT1/cmr/m/n/10 Under the Rie-mann Hy-poth-e-sis, the in-ter-val $[]\OML/cmm/
 m/it/10 x \OMS/cmsy/m/n/10 ^^@ [][] [] \OML/cmm/m/it/10 x; x[]$
  []
@@ -3123,18 +3133,27 @@ pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.5})
  has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.297 \cite{McCurley*84-2},
+l.327 \cite{McCurley*84-2},
                            pdfTeX warning (ext4): destination with the same ide
 ntifier (name{Hfootnote.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.298 \cite{McCurley*84-3},
+l.328 \cite{McCurley*84-3},
                            pdfTeX warning (ext4): destination with the same ide
 ntifier (name{Hfootnote.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.299 \cite{Kadiri*05-2}.
-                          [92]) (./Art14.tex [93] [94
+l.329 \cite{Kadiri*05-2}.
+                         ) (./Art14.tex
+
+Package fancyhdr Warning: \headheight is too small (12.5pt): 
+(fancyhdr)                Make it at least 22.43335pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.43335pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-9.93335pt}.
+
+[93] [94
 
 ]
 Chapter 16.
@@ -3562,13 +3581,13 @@ Overfull \hbox (0.98564pt too wide) in paragraph at lines 287--287
 . \OT1/cmr/m/n/10 23 (1994), 123{134 (1995).
  []
 
-
+[128]
 Overfull \hbox (11.54068pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 E. Lan-dau. \  Ab-sch^^?atzungen von Charak-ter-sum-men, Ei
 n-heiten und Klassen-
  []
 
-[128]
+
 Overfull \hbox (2.20613pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 E. S. Lee. \  On an ex-plicit zero-free re-gion for the Ded
 ekind zeta-function".
@@ -3617,13 +3636,13 @@ Overfull \hbox (29.46968pt too wide) in paragraph at lines 287--287
  Tr. Mat. Inst. Steklova \OT1/cmr/m/n/10 314.Analitich-
  []
 
-[134]
+[134] [135]
 Overfull \hbox (7.06023pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 H. Siebert. \  Mont-gomery's weighted sieve for di-men-sion
  two". In: \OT1/cmr/m/it/10 Monatsh.
  []
 
-[135]
+
 Overfull \hbox (9.03731pt too wide) in paragraph at lines 287--287
 [][]\OT1/cmr/m/n/10 S. Stechkin. \  Ra-tio-nal in-equal-i-ties and ze-ros of th
 e Rie-mann zeta-function".
@@ -3647,66 +3666,72 @@ Overfull \hbox (4.4796pt too wide) in paragraph at lines 287--287
 OT1/cmr/m/it/10 Math. Comp. \OT1/cmr/m/n/10 80.276
  []
 
-[136] [137] (./booklet.aux)
+[136] [137] [138] (./booklet.aux)
 Package rerunfilecheck Info: File `booklet.out' has not changed.
 (rerunfilecheck)             Checksum: C6A78D55FDF44AA3E5039CD7FEA78A91;20366.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'booklet.run.xml'.
 \openout1 = `booklet.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30045 strings out of 479583
- 552561 string characters out of 5876739
- 1283976 words of memory out of 5000000
- 47082 multiletter control sequences out of 15000+600000
+ 30062 strings out of 478287
+ 553077 string characters out of 5849289
+ 1287484 words of memory out of 5000000
+ 47297 multiletter control sequences out of 15000+600000
  494313 words of font info for 135 fonts, out of 8000000 for 9000
- 372 hyphenation exceptions out of 8191
+ 1141 hyphenation exceptions out of 8191
  60i,15n,71p,1009b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/ramare/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
-8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on booklet.pdf (139 pages, 916973 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmex7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmitt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsl9.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type
+1/public/cm-super/sfrm1000.pfb>
+Output written on booklet.pdf (140 pages, 924202 bytes).
 PDF statistics:
- 2601 PDF objects out of 2984 (max. 8388607)
- 2349 compressed objects within 24 object streams
- 503 named destinations out of 1000 (max. 500000)
+ 2615 PDF objects out of 2984 (max. 8388607)
+ 2361 compressed objects within 24 object streams
+ 506 named destinations out of 1000 (max. 500000)
  769 words of extra memory for PDF output out of 10000 (max. 10000000)
 

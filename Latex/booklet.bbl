@@ -1494,6 +1494,41 @@
       \field{title}{Primes between consecutive powers}
       \field{year}{2021}
     \endentry
+    \entry{CullyHugill-Lee*24}{article}{}
+      \name{author}{2}{}{%
+        {{hash=439f07e7eeae0299df54a662452e2f3f}{%
+           family={Cully-Hugill},
+           familyi={C\bibinithyphendelim H\bibinitperiod},
+           given={Michaela},
+           giveni={M\bibinitperiod}}}%
+        {{hash=59726ea2f4cabedd608247c5fa708646}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Ethan\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1041c68eabc41fd2ad4c024271b9a375}
+      \strng{fullhash}{1041c68eabc41fd2ad4c024271b9a375}
+      \strng{bibnamehash}{1041c68eabc41fd2ad4c024271b9a375}
+      \strng{authorbibnamehash}{1041c68eabc41fd2ad4c024271b9a375}
+      \strng{authornamehash}{1041c68eabc41fd2ad4c024271b9a375}
+      \strng{authorfullhash}{1041c68eabc41fd2ad4c024271b9a375}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0025-5718,1088-6842}
+      \field{journaltitle}{Math. Comp.}
+      \field{number}{346}
+      \field{title}{Corrigendum to `{E}xplicit interval estimates for prime numbers'}
+      \field{volume}{93}
+      \field{year}{2024}
+      \field{pages}{1019\bibrangedash 1025}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1090/mcom/3884
+      \endverb
+    \endentry
     \entry{Cully-Trudgian*21}{article}{}
       \name{author}{2}{}{%
         {{hash=439f07e7eeae0299df54a662452e2f3f}{%
@@ -4008,6 +4043,38 @@
       \verb{doi}
       \verb 10.1112/S0025579318000037
       \endverb
+    \endentry
+    \entry{Kadiri-Lumley*14}{article}{}
+      \name{author}{2}{}{%
+        {{hash=39f7a4730d1b7d33c13fbf0f6756f142}{%
+           family={Kadiri},
+           familyi={K\bibinitperiod},
+           given={Habiba},
+           giveni={H\bibinitperiod}}}%
+        {{hash=05bc878b4d89d42beb7bbcddb479534e}{%
+           family={Lumley},
+           familyi={L\bibinitperiod},
+           given={Allysa},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b324057413e5dde88861a2022ae9102}
+      \strng{fullhash}{7b324057413e5dde88861a2022ae9102}
+      \strng{bibnamehash}{7b324057413e5dde88861a2022ae9102}
+      \strng{authorbibnamehash}{7b324057413e5dde88861a2022ae9102}
+      \strng{authornamehash}{7b324057413e5dde88861a2022ae9102}
+      \strng{authorfullhash}{7b324057413e5dde88861a2022ae9102}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1553-1732}
+      \field{journaltitle}{Integers}
+      \field{note}{arXiv:1407:7902}
+      \field{title}{Short effective intervals containing primes}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{Paper No. A61\bibrangessep 18}
+      \range{pages}{-1}
     \endentry
     \entry{Kadiri-Lumley-Ng*18}{article}{}
       \name{author}{3}{}{%
