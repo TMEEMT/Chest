@@ -7000,3 +7000,103 @@ Use of uninitialized value $opt in hash element at /usr/share/perl5/Biber/Config
 Use of uninitialized value within %Biber::Config::CONFIG_OPTSCOPE_BIBLATEX in hash dereference at /usr/share/perl5/Biber/Config.pm line 977.
 done.
 Back to ../Biblio directory
+[main 2fe09fc] ShortIntervals
+ 101 files changed, 2252 insertions(+), 1288 deletions(-)
+ mode change 100755 => 100644 Articles/Art01.html
+ mode change 100755 => 100644 Articles/Art02.html
+ mode change 100755 => 100644 Articles/Art03.html
+ mode change 100755 => 100644 Articles/Art04.html
+ mode change 100755 => 100644 Articles/Art05.html
+ mode change 100755 => 100644 Articles/Art06.html
+ mode change 100755 => 100644 Articles/Art07.html
+ mode change 100755 => 100644 Articles/Art08.html
+ mode change 100755 => 100644 Articles/Art09.html
+ mode change 100755 => 100644 Articles/Art10.html
+ mode change 100755 => 100644 Articles/Art11.html
+ mode change 100755 => 100644 Articles/Art12.html
+ mode change 100755 => 100644 Articles/Art13.html
+ mode change 100755 => 100644 Articles/Art14.html
+ mode change 100755 => 100644 Articles/Art15.html
+ mode change 100755 => 100644 Articles/Art16.html
+ mode change 100755 => 100644 Articles/Art17.html
+ mode change 100755 => 100644 Articles/Art18.html
+ mode change 100755 => 100644 Articles/Art19.html
+ create mode 100644 Articles/Art20.html~
+ mode change 100755 => 100644 Articles/Template_Article.html
+ mode change 100755 => 100644 Biblio/Biblio.html
+ mode change 100755 => 100644 Biblio/Biblio.php
+ mode change 100755 => 100644 Biblio/ExceptionalRefs.txt
+ mode change 100755 => 100644 Biblio/Local-TME-EMT.bib
+ mode change 100755 => 100644 Biblio/README.txt
+ rewrite Biblio/RefToAuthorYear.js (80%)
+ mode change 100755 => 100644
+ mode change 100755 => 100644 Biblio/RefToBeProcessed.txt
+ rewrite Biblio/RefToCitation.js (81%)
+ mode change 100755 => 100644
+ rewrite Biblio/RefToRefs.js (81%)
+ mode change 100755 => 100644
+ rewrite Biblio/RefToTitle.js (81%)
+ mode change 100755 => 100644
+ mode change 100755 => 100644 Biblio/RefToURL.js
+ rewrite Biblio/RefToYear.js (81%)
+ mode change 100755 => 100644
+ mode change 100755 => 100644 Biblio/authordate1-4.sty
+ mode change 100755 => 100644 Biblio/authordate1.bst
+ mode change 100755 => 100644 Biblio/auto/Local-TME-EMT.el
+ mode change 100755 => 100644 Biblio/auto/Local.el
+ mode change 100755 => 100644 Biblio/auto/biblio.el
+ mode change 100755 => 100644 Biblio/bibfilefooter.txt
+ mode change 100755 => 100644 Biblio/bibfileheader.txt
+ mode change 100755 => 100644 Biblio/biblio.dvi
+ mode change 100755 => 100644 Biblio/biblio.pdf
+ mode change 100755 => 100644 Biblio/biblio.tex
+ mode change 100755 => 100644 FromW3.css
+ mode change 100755 => 100644 GlobalBiblioFile/Global.bib
+ mode change 100755 => 100644 LICENSE
+ mode change 100755 => 100644 Latex/Art01.tex
+ mode change 100755 => 100644 Latex/Art02.tex
+ mode change 100755 => 100644 Latex/Art03.tex
+ mode change 100755 => 100644 Latex/Art04.tex
+ mode change 100755 => 100644 Latex/Art05.tex
+ mode change 100755 => 100644 Latex/Art06.tex
+ mode change 100755 => 100644 Latex/Art07.tex
+ mode change 100755 => 100644 Latex/Art08.tex
+ mode change 100755 => 100644 Latex/Art09.tex
+ mode change 100755 => 100644 Latex/Art10.tex
+ mode change 100755 => 100644 Latex/Art11.tex
+ mode change 100755 => 100644 Latex/Art12.tex
+ mode change 100755 => 100644 Latex/Art13.tex
+ mode change 100755 => 100644 Latex/Art14.tex
+ mode change 100755 => 100644 Latex/Art15.tex
+ mode change 100755 => 100644 Latex/Art16.tex
+ mode change 100755 => 100644 Latex/Art17.tex
+ mode change 100755 => 100644 Latex/Art18.tex
+ mode change 100755 => 100644 Latex/Art19.tex
+ mode change 100755 => 100644 Latex/Local-TME-EMT.bib
+ mode change 100755 => 100644 Latex/auto/Local-TME-EMT.el
+ mode change 100755 => 100644 Latex/auto/booklet.el
+ rewrite Latex/booklet.blg (68%)
+ mode change 100755 => 100644 Latex/booklet.pdf
+ mode change 100755 => 100644 Latex/booklet.tex
+ mode change 100755 => 100644 MiseEnPage-Additionnel.js
+ mode change 100755 => 100644 MiseEnPage.css
+ mode change 100755 => 100644 MiseEnPage.js
+ mode change 100755 => 100644 README.md
+ mode change 100755 => 100644 README.txt
+ mode change 100755 => 100644 index.html
+ mode change 100755 => 100644 spip-clear.css
+ mode change 100755 => 100644 spip-layout.css
+ mode change 100755 => 100644 spip-reset.css
+ mode change 100755 => 100644 spip-style.css
+ mode change 100755 => 100644 spip-typo.css
+ mode change 100755 => 100644 trucs/Dalur-8-Vigile-petit.JPG
+ mode change 100755 => 100644 trucs/Foroyar-far-restrict-2.JPG
+ mode change 100755 => 100644 trucs/Foroyar-far-restrict.JPG
+ mode change 100755 => 100644 trucs/MukhurtiLake.jpg
+ mode change 100755 => 100644 trucs/Orvisfelli-ComiteDAccueil-petit.JPG
+ mode change 100755 => 100644 trucs/Tryglav-2018.JPG
+ mode change 100755 => 100644 trucs/Vancouver-1.jpg
+ mode change 100755 => 100644 trucs/construction.gif
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Échec d'authentification pour 'https://github.com/TMEEMT/Chest.git/'
