@@ -8,7 +8,7 @@
 \contentsline {chapter}{\numberline {2} Explicit bounds on the Moebius function}{19}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Bounds on $M(D)=\DOTSB \sum@ \slimits@ _{d\le D}\mu (d)$}{19}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Bounds on $m(D)=\DOTSB \sum@ \slimits@ _{d\le D}\mu (d)/d$}{21}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Bounds on $\check {m}(D)=\DOTSB \sum@ \slimits@ _{d\le D}\mu (d)\qopname \relax o{log}(D/d)/d$}{22}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Bounds on $\check {m}(D)=\DOTSB \sum@ \slimits@ _{d\le D}\mu (d)\log (D/d)/d$}{22}{section.2.3}%
 \contentsline {section}{\numberline {2.4}Miscellanae}{23}{section.2.4}%
 \contentsline {section}{\numberline {2.5}The Moebius function and arithmetic progressions}{23}{section.2.5}%
 \contentsline {chapter}{\numberline {3} Averages of non-negative multiplicative functions}{25}{chapter.3}%
@@ -58,13 +58,14 @@
 \contentsline {section}{\numberline {14.1}Numerical verifications of the Generalized Riemann Hypothesis}{81}{section.14.1}%
 \contentsline {section}{\numberline {14.2}Asymptotical zero-free regions}{83}{section.14.2}%
 \contentsline {section}{\numberline {14.3}Real zeros}{84}{section.14.3}%
-\contentsline {section}{\numberline {14.4}Density estimates}{84}{section.14.4}%
-\contentsline {section}{\numberline {14.5}Miscellanae}{85}{section.14.5}%
+\contentsline {section}{\numberline {14.4}Density estimates}{85}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Miscellanae}{86}{section.14.5}%
 \contentsline {part}{VII\hspace {1em}Sieve and short interval results }{87}{part.7}%
 \contentsline {chapter}{\numberline {15} Short intervals containing primes}{89}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Interval with primes, without any congruence condition}{89}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Interval with primes under RH, without any congruence condition}{93}{section.15.2}%
-\contentsline {section}{\numberline {15.3}Interval with primes, with congruence condition}{93}{section.15.3}%
+\contentsline {section}{\numberline {15.1}Interval with primes, without congruence condition, saving a constant}{89}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Interval with primes, no congruence condition, saving more than a constant}{91}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Interval with primes under RH, without any congruence condition}{93}{section.15.3}%
+\contentsline {section}{\numberline {15.4}Interval with primes, with congruence condition}{93}{section.15.4}%
 \contentsline {chapter}{\numberline {16} Sieve bounds}{95}{chapter.16}%
 \contentsline {section}{\numberline {16.1}Some upper bounds}{95}{section.16.1}%
 \contentsline {section}{\numberline {16.2}Density estimates }{96}{section.16.2}%
