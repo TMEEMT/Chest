@@ -429,3 +429,10 @@ Copying Local-TME-EMT.bib to ../Latex directory
 Entering ../Latex directory
 Compile booklet.tex (can be long due to biber!)...done.
 Back to ../Biblio directory
+[main 1967e49] Khale
+ 20 files changed, 2930 insertions(+), 9605 deletions(-)
+ mode change 100755 => 100644 README-Git.txt
+fatal: Failed to open secret service session [0x13]
+fatal: No such secret item at path: /org/freedesktop/secrets/collection/login/11
+remote: Permission to TMEEMT/Chest.git denied to ramare-olivier.
+fatal: impossible d'accéder à 'https://github.com/TMEEMT/Chest.git/' : The requested URL returned error: 403
